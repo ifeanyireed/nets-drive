@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 480 Organizations
+**Total Records**: 490 Organizations
 
 ---
 
@@ -487,3 +487,13 @@
 | Nordic Villa Abuja | Shashank Gupta | info@thenordicvilla.com | +234 909 677 6766 | [Shashank Gupta](https://ng.linkedin.com/in/shashankguptagm) |
 | Bolton White Hotel (Abuja) | Kingsley C. Obiukwu | info@boltonwhitehotel.com | +234 707 482 5096 | [Kingsley C. Obiukwu](https://ng.linkedin.com/in/kingsley-c-obiukwu-881a0273) |
 | Chelsea Hotel (Abuja) | Austine Odigie |  |  | [Austine Odigie](https://ng.linkedin.com/in/austine-odigie-ab796184) |
+| Reiz Continental Hotel (Abuja) | Aniebor Joshua | info@reizcontinentalhotels.com | +234 (0)94 619 110 | [Aniebor Joshua](https://ng.linkedin.com/in/aniebor-joshua-9a3614255) |
+| Denis Hotel (Abuja) | Emmanuel Adeleke | info@denishotelsabuja.com | +234 806 175 8878 | [Emmanuel Adeleke](https://ng.linkedin.com/in/emmanuel-adeleke-a67183253) |
+| Rockview Hotels (Abuja, Owerri) | Lawrence Aseijeobhor | reservationsroyale@rockviewhotelsltd.com | +2348039043800 | [Lawrence Aseijeobhor](https://ng.linkedin.com/in/lawrence-aseijeobhor-979017153) |
+| Best Western Hotel Nigeria |  |  |  |  |
+| Park Inn by Radisson Abeokuta | Dare Hammed |  | +2349090777666 | [Dare Hammed](https://ng.linkedin.com/in/dare-hammed-18a01831) |
+| Ilaji Hotel and Sports Resort (Oyo State) |  | info@ilajiresort.ng | +234 812 266 1511 |  |
+| Whispering Palms Resort (Badagry) | Adebayo Femi-Pearse | reservations@whisperingpalmsresort.com | +234 703 798 6284 | [Adebayo Femi-Pearse](https://ng.linkedin.com/in/adebayo-femi-pearse-acipm-hrpl-915147152) |
+| Inagbe Grand Resorts & Leisure (Lagos Island) | Francis Akaneme |  | +234 817 088 5261 | [Francis Akaneme](https://ng.linkedin.com/in/francis-akaneme?trk=public_profile_browsemap) |
+| La Campagne Tropicana Beach Resort (Ibeju-Lekki) |  | info@lacampagnetropicana.com | 08077752827 |  |
+| Landmark Beach & Event Centre Operations |  | info@LandmarkLagos.com | +234 (0)700 777 7777 |  |
