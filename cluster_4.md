@@ -1,7 +1,7 @@
 # Cluster 4: Night Shift Safe Dispersal & 24/7 Lines
 ### Duty-of-Care Late-Night & Early-Morning Transit for Hospitals, BPOs & Media Broadcasts
 
-**Total Records**: 90 Organizations
+**Total Records**: 105 Organizations
 
 ---
 
@@ -97,3 +97,18 @@
 | Shiro Restaurant & Bar Lagos |  | teamops.shiro@sjmnigeria.com | 08186298888 |  |
 | RSVP Restaurant Lagos |  | info@pistachiofoods.com | +234 818 616 6666 |  |
 | Cactus Restaurant (Victoria Island) |  |  |  |  |
+| Danfo Bistro & Dives |  | reserve@danfo.me | 08121100111 |  |
+| Cilantro Restaurant (Abuja, Lagos) | Chidiebere Okere | reservations@cilantrorestaurants.com | +234 807 924 4163 | [Chidiebere Okere](https://ng.linkedin.com/in/chidiebere-okere-561b43266) |
+| Wakkis Indian Restaurant (Abuja) |  |  | +234 706 543 7384 |  |
+| Chopsticks Restaurant (Abuja) | Jyoti Prasad Dhaundiyal |  | 2348065777770 | [Jyoti Prasad Dhaundiyal](https://in.linkedin.com/in/jyoti-prasad-dhaundiyal-12204828) |
+| Charcoal Grill Restaurant (Abuja) |  | thecharcoalgrill@hotmail.co.uk | +234 811 131 1177 |  |
+| BluCabana Restaurant & Cafe (Abuja) |  | info@blucabana.com | 09160663000 |  |
+| Jevinik Restaurants Limited (Lagos, Abuja, Port Harcourt) |  |  | 07015863659 |  |
+| Calabar Kitchen Group |  |  | +234-815-484-4757 |  |
+| Native Tray Restaurant | Chisom Ekwegbalu |  | 08185550000 | [Chisom Ekwegbalu](https://ng.linkedin.com/in/chisom-ekwegbalu-b01855253) |
+| Kobis Fast Food Limited |  | info@kobisfresh.com | 09121792705 |  |
+| Farmcity Restaurants & Lounge (Lekki, Ogudu) |  | Recruit@farmcityltd.com | 07001000700 |  |
+| Roadchef Drive-Thru Limited | Engr. Benjamin Usuah MBA, MNSE, COREN. |  | 09087091070 | [Engr. Benjamin Usuah MBA, MNSE, COREN.](https://ng.linkedin.com/in/benjamin-usuah) |
+| Charcoal Bite Nigeria |  |  | +234-701-866-9324 |  |
+| So Fresh Neighborhood Market (Healthy food chain) | Prince Michael | hello@sofresh.com | +234 703 635 9229 | [Prince Michael](https://ng.linkedin.com/in/prince-michael-0b7675b1) |
+| Salad Masters Nigeria |  | smc@saladmaster.com | 09076027882 |  |
