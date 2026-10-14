@@ -1,7 +1,7 @@
 # Cluster 3: Corporate White-Collar Commuter Networks
 ### Premium Daily Commute Shuttles for Commercial Banks, Fintechs & Professional Services
 
-**Total Records**: 120 Organizations
+**Total Records**: 150 Organizations
 
 ---
 
@@ -127,3 +127,33 @@
 | Scib Nigeria & Co. (Insurance Brokers) |  | Gbeminiyi.adedeji@scibng.com | +234 01 2710030 |  |
 | Boff & Company Insurance Brokers |  | info@boffbrokers.com | +234 (0) 904 606 8858 |  |
 | FBN Insurance Brokers Limited | Peggy Iheagwam | wecare@fbninsurance.com | 234 1 2660498 | [Peggy Iheagwam](https://ng.linkedin.com/in/peggy-iheagwam-1823b033) |
+| Stanbic IBTC Pension Managers Limited | Yusuf Ibrahim | pensionsolution@stanbicibtc.com | 012716000 | [Yusuf Ibrahim](https://ng.linkedin.com/in/yusuf-ibrahim-067a41184) |
+| Access Pensions Limited | Yahaya Abubakar | info@access-armpensions.com | +234 812 1859148 | [Yahaya Abubakar](https://ng.linkedin.com/in/yahaya-abubakar-b160bb71) |
+| ARM Pension Managers Limited | Emeka Dibia | info@access-armpensions.com | 013305005 | [Emeka Dibia](https://ng.linkedin.com/in/emeka-dibia) |
+| Leadway Pensure PFA Limited | MUSODIQ A. | insure@leadway.com | +234 902 286 3069 | [MUSODIQ A.](https://ng.linkedin.com/in/musodiq-a-8016b3b5) |
+| Premium Pension Limited | Yusuf Bala | info@premiumpension.com | +234 803 304 2209 | [Yusuf Bala](https://ng.linkedin.com/in/yusuf-bala-197785b9) |
+| Trustfund Pensions Limited | Yahaya Abubakar | enquiries@trustfundpensions.com | 08057003000 | [Yahaya Abubakar](https://ng.linkedin.com/in/yahaya-abubakar-b160bb71) |
+| FCMB Pensions Limited | Israel Jolomi | info@fcmbpensions.com | +234 (0) 805 958 0002 | [Israel Jolomi](https://ng.linkedin.com/in/israel-jolomi-05400b366) |
+| Fidelity Pension Managers Limited | Dominic Monye | info@fidelitypensionmanagers.com | 018889722 | [Dominic Monye](https://ng.linkedin.com/in/dominic-monye-55b00076) |
+| Guaranty Trust Pension Managers Limited |  | Enquiries@gtpensionmanagers.com | +234 813 985 5002 |  |
+| CrusaderSterling Pensions Limited | ABIOLA ALASE | info@crusaderpensions.com | 09131055375 | [ABIOLA ALASE](https://ng.linkedin.com/in/abiola-alase-24859815) |
+| Tangerine APT Pensions Limited |  | whistleblower@tangerine.africa | 09029292924 |  |
+| NLPC Pension Fund Administrators Limited | djuma otojare |  |  | [djuma otojare](https://ng.linkedin.com/in/djuma-otojare-1011b019b) |
+| Veritas Glanvills Pensions Limited | Biodun Olowookere | info@veritaskapital.com | 01-2803550 | [Biodun Olowookere](https://ng.linkedin.com/in/biodun-olowookere) |
+| Norrenberger Pensions Limited | Norbaiaah Sanapi | enquiries@norrenberger.com | 09092250259 | [Norbaiaah Sanapi](https://my.linkedin.com/in/baiisanapi) |
+| OAK Pensions Limited | djuma otojare |  |  | [djuma otojare](https://ng.linkedin.com/in/djuma-otojare-1011b019b) |
+| PwC Nigeria (PricewaterhouseCoopers) | HARRY O | ng_pwc.enquiry@pwc.com | +2342012711700 | [HARRY O](https://ng.linkedin.com/in/harry-o-5bb683123) |
+| KPMG Nigeria | Kehinde Olaniru |  |  | [Kehinde Olaniru](https://ng.linkedin.com/in/kehindeolaniru) |
+| Ernst & Young Nigeria (EY) | Glad Ehimegbe | services@ng.ey.com | +234 903 151 6484 | [Glad Ehimegbe](https://ng.linkedin.com/in/glad-ehimegbe-b57477311) |
+| Deloitte Nigeria (Akintola Williams Deloitte) | Hilaria Okolo |  | +234 9 278 0200 | [Hilaria Okolo](https://ng.linkedin.com/in/hilaria-okolo) |
+| BDO Professional Services Nigeria |  | recruitments@bdo-ng.com | +234 903 644 0755 |  |
+| Andersen in Nigeria | Olayiwola Akinpelu | info@ng.Andersen.com | +234 901 837 7254 | [Olayiwola Akinpelu](https://ng.linkedin.com/in/olayiwola-) |
+| Grant Thornton Nigeria | Godwin ojonugwa |  | +234(0)7063402346 | [Godwin ojonugwa](https://ng.linkedin.com/in/godwin-ojonugwa-768bba75) |
+| PKF Professional Services Nigeria |  | lagos@pkf-ng.com | +2349030001351 |  |
+| Crowe Dafinone (Chartered Accountants) | Olumide Sholanke, CFA | info@crowe.ng | +234 1 4600518 | [Olumide Sholanke, CFA](https://uk.linkedin.com/in/olumide-sholanke-cfa-52215629) |
+| Baker Tilly Nigeria | Jennifer Bennett |  |  | [Jennifer Bennett](https://www.linkedin.com/in/fidelityjenniferbennett) |
+| McKinsey & Company Nigeria | CHIMAOTUODI IHEME |  | +234 1 463 7846 | [CHIMAOTUODI IHEME](https://ng.linkedin.com/in/chimaotuodi-iheme-682677222) |
+| Boston Consulting Group Nigeria (BCG) | Rute da Costa Macedo |  | +234 908 707 3300 | [Rute da Costa Macedo](https://pt.linkedin.com/in/rute-da-costa-macedo-32939522) |
+| Bain & Company Nigeria |  | ir@baincapital.com |  |  |
+| Dalberg Advisors Nigeria |  |  |  |  |
+| Roland Berger Nigeria |  |  | 08039067000 |  |
