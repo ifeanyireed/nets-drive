@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 60 Organizations
+**Total Records**: 90 Organizations
 
 ---
 
@@ -67,3 +67,33 @@
 | Tuyil Pharmacy Industries Limited (Ilorin) | Promise ONYUGBA | info@tuyilpharms.com | +2348033565739 | [Promise ONYUGBA](https://ng.linkedin.com/in/promise-onyugba-15707825a) |
 | Bond Chemical Industries Limited (Oyo) | Olusola Martins | bond@bondchemicaleg.com | 010003343 | [Olusola Martins](https://ng.linkedin.com/in/olusola-martins-b278b5209) |
 | Fidunion Pharmaceuticals Limited |  |  |  |  |
+| Kunimed Pharmachem Limited | Emmanuel Ezeama | info@kunimed.com | 08034040907 | [Emmanuel Ezeama](https://ng.linkedin.com/in/emmanuel-ezeama-604b79a6) |
+| Biomedical Limited (Ilorin / IV fluids) | Kishin Murjani | info@biomedicalng.com | 08138853131 | [Kishin Murjani](https://ng.linkedin.com/in/kishin-murjani-1940b326) |
+| Unique Diagnostic Reagents Nigeria |  | sales@bennard.com | 08167015295 |  |
+| Incepta Pharmaceuticals Nigeria |  |  |  |  |
+| Square Pharmaceuticals Nigeria |  | info@squaregroup.com | +234 9087081800 |  |
+| Brawn Laboratories Nigeria | ROHIT GUPTA | info@brawnlabs.in |  | [ROHIT GUPTA](https://in.linkedin.com/in/rohit-gupta-743b9821) |
+| Strides Pharma Nigeria |  | SP@strides.com |  |  |
+| Bafna Pharmaceuticals Nigeria |  | info@bafnapharma.com | 08037051899 |  |
+| Micro Labs Nigeria Limited |  | info@microlabsltd.com |  |  |
+| JB Chemicals & Pharmaceuticals Nigeria |  | corpcomm@jbpharma.com | +234 9087081800 |  |
+| Bliss GVS Pharma Nigeria |  | info@blissgvs.com |  |  |
+| Mega Lifesciences Nigeria Limited | Rahul Singh | info@megawecare.com | +234-80-53596234 | [Rahul Singh](https://ng.linkedin.com/in/rahul-singh-679a2b52) |
+| Remedial Health Nigeria (Pharma tech/wholesale) | Uchechi Uchenyi | sam@remedial.health |  | [Uchechi Uchenyi](https://ng.linkedin.com/in/uchechiuchenyi) |
+| Field Intelligence Nigeria |  | hi@field.inc | +234 202 455 8575 |  |
+| Shelf Life Nigeria | Miracle Aremu | admin@shelflife.co.za |  | [Miracle Aremu](https://ng.linkedin.com/in/miraclearemu) |
+| Medsaf Nigeria |  |  | +234 814 1228 328 |  |
+| LifeBank Nigeria | Temie Giwa | hello@lifebank.ng | +234 909 7167 238 | [Temie Giwa](https://ng.linkedin.com/in/temie-giwa-tubosun-61b18514) |
+| Lifestores Pharmacy Nigeria |  |  | +234 907 777 0573 |  |
+| HealthPlus Pharmacy (Chain operations) |  | customercare@healthplusnigeria.com | +234 8090366057 |  |
+| Medplus Pharmacy Limited (Chain operations) | Uju Olivia Okoye | orders@medplusng.com | 08187122408 | [Uju Olivia Okoye](https://ng.linkedin.com/in/uju-olivia-okoye-317aba99) |
+| Dangote Group (Aliko Dangote) | Obinna Okorie | ir@dangote.com | +234 707 470 2099 | [Obinna Okorie](https://ng.linkedin.com/in/obinna-okorie-1a31711a4) |
+| BUA Group (Abdul Samad Rabiu) |  | info@buagroup.com | +234-1-4610669 |  |
+| Transnational Corporation of Nigeria Plc (Transcorp Group) |  | Info@transcorpgroup.com | 08145652652 |  |
+| UAC of Nigeria Plc (UACN) | Larry Ettah | info@uacnplc.com | 08035739791 | [Larry Ettah](https://ng.linkedin.com/in/larry-ettah-62188910a) |
+| John Holt Plc | francis nwanji | marketingteam@jhplc.com | +234-1-710-0275 | [francis nwanji](https://ng.linkedin.com/in/francis-nwanji-4859b2111) |
+| CFAO Nigeria Plc | Stephen Faderin |  | 07088609791 | [Stephen Faderin](https://ng.linkedin.com/in/stephen-faderin-77156bab) |
+| SCOA Nigeria Plc | Christopher Fares Boulos |  |  | [Christopher Fares Boulos](https://ng.linkedin.com/in/christopher-fares-boulos-419742aa) |
+| Leventis Group (A.G. Leventis Nigeria Plc) | Ahmed Mantey Leventis Group | info@leventis.org.cy | +234800-055-5555 | [Ahmed Mantey Leventis Group](https://ng.linkedin.com/in/ahmed-mantey-leventis-group-2578936b) |
+| Chellarams Plc | suhas kulkarni | info@chellaramsplc.com | 017733838 | [suhas kulkarni](https://ng.linkedin.com/in/suhas-kulkarni-649bb44b) |
+| Stallion Group Nigeria | godfrey oshogwe |  | +234 907 777 0573 | [godfrey oshogwe](https://ng.linkedin.com/in/godfrey-oshogwe-5a659087) |
