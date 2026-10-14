@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 180 Organizations
+**Total Records**: 210 Organizations
 
 ---
 
@@ -187,3 +187,33 @@
 | China Harbour Engineering Company Nigeria (CHEC / Lekki Deep Sea Port) | Stephen Awak |  | +234 9070061111 | [Stephen Awak](https://ng.linkedin.com/in/stephen-awak-a1234865) |
 | China Railway Construction Corporation Nigeria (CRCC) |  | houpandong@hotmail.com | +234 907 777 0573 |  |
 | Synohydro Corporation Nigeria |  | sinohydrosa@sinohydro.com |  |  |
+| China Road and Bridge Corporation Nigeria (CRBC) |  | crbc_eurasian@126.com |  |  |
+| Shandong Construction Group Nigeria |  | sdaz_hwb@163.com |  |  |
+| Zhonghao Overseas Construction Engineering Nigeria |  | uganda@zh100.com | +234-062-237408 |  |
+| PowerChina Nigeria Limited | Muhammad Wali | tianyuan@powerchina-intl.com |  | [Muhammad Wali](https://ng.linkedin.com/in/muhammad-wali-b74727b2) |
+| Energobuilding Construction Limited | Toyin Ogunwale |  | 234 1 2620497 | [Toyin Ogunwale](https://ng.linkedin.com/in/toyin-ogunwale-7804a967) |
+| ETCO Nigeria Limited (Electromechanical engineering) |  | cservice@etco.com | 234 84 230579 |  |
+| Elektrint Nigeria Limited | peter leke |  | +234 9 782 2768 | [peter leke](https://ng.linkedin.com/in/peter-leke-a18194122) |
+| JKN Limited (Electromechanical contractors) | Dada Olushola |  | 09091476149 | [Dada Olushola](https://ng.linkedin.com/in/dada-olushola-16a726bb) |
+| Kamen Aggregates & Construction Limited |  |  | +234 9 290 5075 |  |
+| Mikano International Limited (Construction Division) | Firas Mamlouk | info@mikanomotors.com | 07001234567 | [Firas Mamlouk](https://ng.linkedin.com/in/firas-mamlouk) |
+| S & M Nigeria Limited | Solomon Akinwole Ogunbusola | info@smnigeria.com | +234 806 807 6595 | [Solomon Akinwole Ogunbusola](https://ng.linkedin.com/in/solomon-akinwole-ogunbusola-74ab26109) |
+| Roads Nigeria Plc (Sokoto) | SHIYANBOLA STEPHEN OLUWATOYIN | info@multiroads.ng | +2348051111112 | [SHIYANBOLA STEPHEN OLUWATOYIN](https://ng.linkedin.com/in/shiyanbola-stephen-oluwatoyin-38a57ba2) |
+| Mothercat Limited | Ahmad Ahmad-Rufai | info@mothercatng.com | 234 62 314056 | [Ahmad Ahmad-Rufai](https://ng.linkedin.com/in/ahmad-ahmad-rufai-b3296a377) |
+| Sterling Civil Engineering Nigeria Limited | RAGHUNANDAN CHIKKABALLAPUR SETHU MADHAVA ... |  | 08028542972 | [RAGHUNANDAN CHIKKABALLAPUR SETHU MADHAVA ...](https://in.linkedin.com/in/raghunandan-chikkaballapur-sethu-madhava-rao-4a605ba7) |
+| PW Nigeria Limited (PW Mining & Civil Contractors) | Bature Dankawu | info@pwnigeria.com | +234 8139890080 | [Bature Dankawu](https://ng.linkedin.com/in/bature-dankawu-90957b17) |
+| Trevi Foundations Nigeria Limited | Friday Abuh | tfnl@trevinigeria.com | +234 907 777 0573 | [Friday Abuh](https://ng.linkedin.com/in/friday-abuh-574790387) |
+| Bauer Spezialtiefbau Nigeria Limited |  | btfe.general@bauerfe.com |  |  |
+| Franki Foundations Nigeria Limited |  | sales@frankifoundations.co.uk |  |  |
+| Keller Foundations Nigeria |  | info@keller-stiftung.org |  |  |
+| Geo-Foundation Specialists Nigeria |  | Admin@geofoundationdxb.com | +234 705 972 7743 |  |
+| Mixta Real Estate Plc (formerly ARM Properties) |  | sales.nigeria@mixtafrica.com | +234 909 0000 136 |  |
+| UPDC Plc (UACN Property Development Company) | Elizabeth Eziuku |  |  | [Elizabeth Eziuku](https://ng.linkedin.com/in/elizabeth-eziuku) |
+| Megamound Investment Limited (King's Court, County Estate) | Olajide Ayoola | info@megamound.com | 07074908153 | [Olajide Ayoola](https://ng.linkedin.com/in/olajide-ayoola-209155358) |
+| LandWey Investment Limited | Sogunle Mojisola | info@landwey.ng | +2348187366666 | [Sogunle Mojisola](https://ng.linkedin.com/in/sogunle-mojisola-6472631b4) |
+| RevolutionPlus Property Development Company Limited | Bamidele Onalaja |  |  | [Bamidele Onalaja](https://ng.linkedin.com/in/bamidele-onalaja-a6b07710) |
+| Amen Estate (Redbrick Homes Experts Limited) | Adeleke Ayodele | sales@amenestate.com | +234 905 892 0000 | [Adeleke Ayodele](https://ng.linkedin.com/in/adeleke-ayodele-97b599278) |
+| Grenadines Homes Limited (Palton Morgan Holdings) | Chinelo Okafor | info@grenadineshomes.com | +234 01 453098 | [Chinelo Okafor](https://ng.linkedin.com/in/chinelo-okafor-a7b56074) |
+| PropertyMart Real Estate Investment Limited | Joseph M. | info@propertymartltd.com | +234 (0) 1 342 6840 | [Joseph M.](https://ng.linkedin.com/in/joseph-m-aa9068247) |
+| Primewaterview Holdings Limited | Gbenga Olatunbosun |  | 09059744358 | [Gbenga Olatunbosun](https://ng.linkedin.com/in/gbenga-olatunbosun-bbaa301b) |
+| Sujimoto Construction Limited (Lucrezia, Leonardo) | olakanmi ogundele | info@sujimotonig.com | +234 809 8521 646 | [olakanmi ogundele](https://ng.linkedin.com/in/olakanmi-ogundele-6ab48914b) |
