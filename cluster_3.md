@@ -1,7 +1,7 @@
 # Cluster 3: Corporate White-Collar Commuter Networks
 ### Premium Daily Commute Shuttles for Commercial Banks, Fintechs & Professional Services
 
-**Total Records**: 30 Organizations
+**Total Records**: 60 Organizations
 
 ---
 
@@ -37,3 +37,33 @@
 | TAJBank Limited | Idris Lawal | tajconnect@tajbank.com | 2348030669901 | [Idris Lawal](https://ng.linkedin.com/in/idris-lawal-79b333235) |
 | Lotus Bank Limited | Dunni K-Salami-MBA, GPHR, SHRM-SCP | support@lotusbank.com | +234 911 988 8880 | [Dunni K-Salami-MBA, GPHR, SHRM-SCP](https://ng.linkedin.com/in/ayodunnik) |
 | FBNQuest Merchant Bank | Yewande Omopintemi |  | +234 1 2798300 | [Yewande Omopintemi](https://ng.linkedin.com/in/yewande-omopintemi-59a4a421a) |
+| Rand Merchant Bank Nigeria (RMB) | Ayotunde Jegede |  | +234 23414637900 | [Ayotunde Jegede](https://ng.linkedin.com/in/ayotunde-jegede-825494) |
+| Nova Merchant Bank (Nova Commercial Bank) | Oyekunle Oyeniran | info@novambl.com | +234 913 666 6680 | [Oyekunle Oyeniran](https://uk.linkedin.com/in/oyekunle-oyeniran-b89118a0) |
+| Coronation Merchant Bank | Elohor Ogbeifun |  | 01-2797643 | [Elohor Ogbeifun](https://ng.linkedin.com/in/elohor-ogbeifun-472100181) |
+| Greenwich Merchant Bank | Adiri Nixon | Customercare@greenwichbankgroup.com | 08112590124 | [Adiri Nixon](https://ng.linkedin.com/in/adiri-nixon-3a72a3277) |
+| FSDH Merchant Bank | Olubukola Lanipekun-Lawal | customerservice@fsdhgroup.com | 012702880 | [Olubukola Lanipekun-Lawal](https://ng.linkedin.com/in/olubukola-lanipekun-lawal) |
+| Development Bank of Nigeria (DBN) | Grace Omo-Lamai | info@devbankng.com | +234 201 906 4000 | [Grace Omo-Lamai](https://ng.linkedin.com/in/grace-omo-lamai-10282518) |
+| Bank of Industry (BOI) | Marian Ejaife | customercare@boi.ng | +234 700 225 5264 | [Marian Ejaife](https://ng.linkedin.com/in/marian-ejaife-535028253) |
+| Nigerian Export-Import Bank (NEXIM) | Abbas Bala Usman | neximabj@neximbank.com.ng |  | [Abbas Bala Usman](https://ng.linkedin.com/in/abbas-bala-usman-512ba7127) |
+| Federal Mortgage Bank of Nigeria (FMBN) | Kabiru Kangiwa |  | 08099990027 | [Kabiru Kangiwa](https://ng.linkedin.com/in/kabiru-kangiwa-5a015535) |
+| Abbey Mortgage Bank Plc | Esther Falayi | customerexperience@abbeymortgagebank.com | 012271695 | [Esther Falayi](https://ng.linkedin.com/in/esther-falayi-8b7b36322) |
+| Infinity Trust Mortgage Bank Plc | Vivian Ogbonna BSc, MBA, MSc, ACIPM, HRPL, FCIHRM ... | info@itmbplc.com | +234 903 693 0295 | [Vivian Ogbonna BSc, MBA, MSc, ACIPM, HRPL, FCIHRM ...](https://ng.linkedin.com/in/vivian-ogbonna-bsc-mba-msc-acipm-hrpl-fcihrm-eip-24970b289) |
+| LivingTrust Mortgage Bank Plc | Oyindamola Morounfolu MCILRM | info@Livingtrustng.com | 08069016261 | [Oyindamola Morounfolu MCILRM](https://ng.linkedin.com/in/oyindamola-morounfolu-mcilrm-in-view-ba393b1aa) |
+| Platinum Mortgage Bank | Peace Ibekwe | info@pmbl-ng.com | +2347055552585 | [Peace Ibekwe](https://ng.linkedin.com/in/peace-ibekwe-6b3aa6127) |
+| Brent Mortgage Bank |  | info@brentng.com | +234-01 453 9080 |  |
+| LAPO Microfinance Bank | Philip Felix |  |  | [Philip Felix](https://ng.linkedin.com/in/philip-felix-2640761ab) |
+| Mutual Benefits Microfinance Bank |  | enquiries@mutualbenefitsmfb.com.ng | +2348163976234 |  |
+| Baobab Microfinance Bank Nigeria |  | customercareng@baobab.com | 07043034444 |  |
+| Accion Microfinance Bank | Claudette Russel | info@accionmfb.com | 234 1 2719325 | [Claudette Russel](https://ng.linkedin.com/in/claudette-russel) |
+| AB Microfinance Bank Nigeria | Adefila David | customercare@ab-mfbnigeria.com | +2349024969999 | [Adefila David](https://ng.linkedin.com/in/adefila-david-1567957b) |
+| Renmoney Microfinance Bank | Immanuel Olufemi | hello@renmoney.com | +234 700 500 0500 | [Immanuel Olufemi](https://ng.linkedin.com/in/immanuel-olufemi-a54935102) |
+| Moniepoint MFB (TeamApt) | Ayibakuro Soko- BSc, MPIA | support@moniepoint.com | +234 201 888 9990 | [Ayibakuro Soko- BSc, MPIA](https://ng.linkedin.com/in/ayibakuro-soko-bsc-mpia-82402bb3) |
+| OPay Digital Services Nigeria |  | customerservice@opay-inc.com | +234 916 599 8936 |  |
+| PalmPay Nigeria |  |  |  |  |
+| Flutterwave Nigeria | Mike DEV™ ✓ | hi@flutterwavego.com | 01-8889595 | [Mike DEV™ ✓](https://gh.linkedin.com/in/mike-dev%E2%84%A2-%E2%9C%93-04b5863a9) |
+| Paystack Payments Limited | Bolaji Akande | reportfraud@paystack.com | +234 201 631 6160 | [Bolaji Akande](https://ng.linkedin.com/in/bolaji-akande) |
+| Interswitch Group | Michelle Swanenburg | support@interswitchgroup.com | +2347009065000 | [Michelle Swanenburg](https://www.linkedin.com/in/michelle-swanenburg-aa05798) |
+| Remita (SystemSpecs Group) | Blessing Dongo | support@remita.net | +234 0201 636 7000 | [Blessing Dongo](https://ng.linkedin.com/in/blessing-dongo-a52820121) |
+| eTranzact International Plc | Richard Obiechie (ACIPM, HRPL, SPHRi, CHRM, SHRM ... |  | 017101060 | [Richard Obiechie (ACIPM, HRPL, SPHRi, CHRM, SHRM ...](https://ng.linkedin.com/in/richard-obiechie) |
+| Unified Payment Services (UP) | Oyereyi Orha | info@up-ng.com | 07008643433 | [Oyereyi Orha](https://ng.linkedin.com/in/oyereyi-orha-19355bb4) |
+| Piggyvest Technology |  |  | +234 700 933 9333 |  |
