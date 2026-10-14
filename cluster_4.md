@@ -1,7 +1,7 @@
 # Cluster 4: Night Shift Safe Dispersal & 24/7 Lines
 ### Duty-of-Care Late-Night & Early-Morning Transit for Hospitals, BPOs & Media Broadcasts
 
-**Total Records**: 60 Organizations
+**Total Records**: 90 Organizations
 
 ---
 
@@ -67,3 +67,33 @@
 | The Place Restaurant & Nightlife (Smackers Limited) |  | customerservice@theplace.com.ng | 08182862824 |  |
 | Bukka Hut Limited | Princess Chinyere Daniel-Uche | careers@bukkahut.com | 07000550055 | [Princess Chinyere Daniel-Uche](https://ng.linkedin.com/in/princess-chinyere-daniel-uche-22101995p) |
 | Tastee Fried Chicken Limited (TFC) | omotayo shoga |  | +234 807 549 1276 | [omotayo shoga](https://ng.linkedin.com/in/omotayo-shoga-59221740) |
+| KFC Nigeria (Devyani International / Chellarams) | Felicia Abimbola Balogun |  | +234803 287 6416 | [Felicia Abimbola Balogun](https://ng.linkedin.com/in/felicia-abimbola) |
+| Burger King Nigeria (Allied Food Products Limited) | Tarek Khoury | customersupport@burger-kingng.com | +2347000334477 | [Tarek Khoury](https://ng.linkedin.com/in/tarek-khoury-500159115) |
+| Hard Rock Cafe Lagos |  | sarika@hardrockcafe.com | +234 9081988888 |  |
+| Cold Stone Creamery Outlets | Abayomi Olusegun |  | +234908 700 0513 | [Abayomi Olusegun](https://ng.linkedin.com/in/abayormi) |
+| Domino's Pizza Outlets | ANURAG GAUTAM |  | 07007009999 | [ANURAG GAUTAM](https://in.linkedin.com/in/anurag-gautam-84a61617b) |
+| Pizza Hut Nigeria | Unnikrishnan Menon |  | +234 201 411 9999 | [Unnikrishnan Menon](https://ng.linkedin.com/in/unnikrishnan-menon-58709b5) |
+| Krispy Kreme Nigeria (Quality Foods Africa) | Peace Akunna ACIPM |  | 07000257477 | [Peace Akunna ACIPM](https://ng.linkedin.com/in/peace-akunna-acipm-) |
+| Dodo Pizza Nigeria | Karen Mekaron |  | 07003636749 | [Karen Mekaron](https://ng.linkedin.com/in/karen-mekaron-7b3314233) |
+| Chicken Cottage Nigeria | Damilare Oke | info@chickencottage.com | +234 803 553 0134 | [Damilare Oke](https://ng.linkedin.com/in/damilare-oke-4a3665a0) |
+| Genesis Restaurant Limited (Genesis Group) | Olokuta Rofiat | info@genesisgroupng.com | 2348050499249 | [Olokuta Rofiat](https://ng.linkedin.com/in/olokuta-rofiat-560159318) |
+| Pepperoni Foods Limited (Port Harcourt) | Michael Usani | info@pepperonifoods.com.ng | +234 812 085 7757 | [Michael Usani](https://ng.linkedin.com/in/michael-usani-658a91223) |
+| Kilimanjaro Restaurant Outlets |  | kilimanjarocare@sundryfood.com | 07055792554 |  |
+| Crunchies Fried Chicken Limited (South-East / South-South) | Victoria Uzoenyi | customercare@crunchiesonline.com | 09062439146 | [Victoria Uzoenyi](https://ng.linkedin.com/in/victoria-uzoenyi-38511124) |
+| Drumstix Fast Food Limited (Abuja) |  | info@drumstix.com.ng | +234 909 416 0303 |  |
+| Southern Fried Chicken Nigeria (SFC) |  |  | 234 701 477 3786 |  |
+| Big Treat Plc | Chioma Ufor ACIPM, HRPL |  | +234-17406074 | [Chioma Ufor ACIPM, HRPL](https://ng.linkedin.com/in/chiomahen) |
+| Mama Cass Restaurants Limited | Eseme Essien |  | 08074490009 | [Eseme Essien](https://ng.linkedin.com/in/eseme-essien-77074634a) |
+| Tetrazzini Foods Plc | Emmanuel Aligamhe |  | +234 812 332 0434 | [Emmanuel Aligamhe](https://ng.linkedin.com/in/emmanuel-aligamhe-91525993) |
+| Village Kitchen Limited | Daniel Ojo |  | 08088427813 | [Daniel Ojo](https://ng.linkedin.com/in/daniel-ojo-962745258) |
+| Yellow Chilli Restaurant & Bar | Robin Wauters | support@yellowchilling.com | 08141130890 | [Robin Wauters](https://be.linkedin.com/in/robinwauters) |
+| Ocean Basket Seafood Restaurant Nigeria |  |  | +234 913 333 7164 |  |
+| Eric Kayser Nigeria (Artisan Bakery) | Funmi Williams, SPHRi |  | +234 906 0004 887 | [Funmi Williams, SPHRi](https://ng.linkedin.com/in/funmilayo-williams-human-resources) |
+| Chocolat Royal Limited | Christiana Omorojie |  | 234 817 001 7852 | [Christiana Omorojie](https://ng.linkedin.com/in/christiana-omorojie-a69a66188) |
+| Café Neo Nigeria |  |  | +234(0)9039226921 |  |
+| Art Café (Victoria Island) | 'Lekan Daramola |  | +234 (0) 90 1804 4425 | ['Lekan Daramola](https://ng.linkedin.com/in/lekan-daramola-a548967b) |
+| Prime Chinese Restaurant | Philip Elerius Bassey | cs@primechinese.restaurant | +234 806 998 3453 | [Philip Elerius Bassey](https://ng.linkedin.com/in/philipeleriusbassey) |
+| Bungalow Restaurant Limited | Richard Baun |  | +234 803 304 9104 | [Richard Baun](https://ai.linkedin.com/in/richard-baun-4b767714) |
+| Shiro Restaurant & Bar Lagos |  | teamops.shiro@sjmnigeria.com | 08186298888 |  |
+| RSVP Restaurant Lagos |  | info@pistachiofoods.com | +234 818 616 6666 |  |
+| Cactus Restaurant (Victoria Island) |  |  |  |  |
