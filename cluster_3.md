@@ -1,7 +1,7 @@
 # Cluster 3: Corporate White-Collar Commuter Networks
 ### Premium Daily Commute Shuttles for Commercial Banks, Fintechs & Professional Services
 
-**Total Records**: 60 Organizations
+**Total Records**: 90 Organizations
 
 ---
 
@@ -67,3 +67,33 @@
 | eTranzact International Plc | Richard Obiechie (ACIPM, HRPL, SPHRi, CHRM, SHRM ... |  | 017101060 | [Richard Obiechie (ACIPM, HRPL, SPHRi, CHRM, SHRM ...](https://ng.linkedin.com/in/richard-obiechie) |
 | Unified Payment Services (UP) | Oyereyi Orha | info@up-ng.com | 07008643433 | [Oyereyi Orha](https://ng.linkedin.com/in/oyereyi-orha-19355bb4) |
 | Piggyvest Technology |  |  | +234 700 933 9333 |  |
+| Carbon (OneFi) | Francis onwumere | customer@getcarbon.co | +234 913 851 8812 | [Francis onwumere](https://ng.linkedin.com/in/francis-onwumere-50a853ba) |
+| FairMoney Nigeria | Helen Edeh | help@fairmoney.io | 017001276 | [Helen Edeh](https://ng.linkedin.com/in/helen-edeh-35b18410b) |
+| Kuda Technologies Limited (Kuda Bank) | IMUZEGHE JOSHUA | help@kuda.com | 07000225558 | [IMUZEGHE JOSHUA](https://ng.linkedin.com/in/imuzeghe-joshua-19a8a6168) |
+| Branch International Nigeria | Enegha Okonkwo | nigeria@branch.co | +234 9078290958 | [Enegha Okonkwo](https://ng.linkedin.com/in/enegha-okonkwo-b7520872) |
+| Chipper Cash Nigeria |  | support@chippercash.com | +234 7053828732 |  |
+| Nomba (Kudi) | Mohammed Abubakar | support@nomba.com | 018888866 | [Mohammed Abubakar](https://ng.linkedin.com/in/mohammed-abubakar-831b53114) |
+| Paga (Pagatech) | Pancham Dogra |  |  | [Pancham Dogra](https://in.linkedin.com/in/pancham-dogra-0b74544) |
+| Appzone Group / Zone |  |  | +234-802-342-5699 |  |
+| CredPal Nigeria |  | hello@credpal.com | +234 708 740 9746 |  |
+| MoMo PSB (MTN Fintech) | Rabi Adetoro | customercare@momopsb.com | 2347031594671 | [Rabi Adetoro](https://ng.linkedin.com/in/rabi-adetoro-b1138bb) |
+| AIICO Insurance Plc | Hannah Ball | aiicontact@aiicoplc.com | 234 72 44266822 | [Hannah Ball](https://uk.linkedin.com/in/hannah-ball-01614a155) |
+| Leadway Assurance Company Limited |  | insure@leadway.com | 01-2700700 |  |
+| AXA Mansard Insurance Plc | Adewale ADENIYI | clientservices@axamansard.com | 012773490 | [Adewale ADENIYI](https://ng.linkedin.com/in/adewale-adeniyi-scrum-master-pmp%C2%AE-nebosh-igc-56878a6a) |
+| Custodian Investment Plc (Custodian and Allied Insurance Limited) | Michael Wogu | enquiries@custodianplc.com.ng | +2341-4619440 | [Michael Wogu](https://ng.linkedin.com/in/michael-wogu-869397143) |
+| Custodian Life Assurance Limited | Khalid Alhosani‏ | carecentre@custodianplc.com.ng | +234 806 317 6257 | [Khalid Alhosani‏](https://ae.linkedin.com/in/khalid-alhosani-950101a1) |
+| Zenith General Insurance Company Limited | Nosakhare Egharevba | csuzenithinsurance@zenithinsurance.com.ng | 012783411 | [Nosakhare Egharevba](https://ng.linkedin.com/in/nosakhare-egharevba-02163a249) |
+| Prudential Zenith Life Insurance Limited | Damilola Ajayi | customercare@prudentialzenith.com | 012784555 | [Damilola Ajayi](https://ng.linkedin.com/in/damilola-ajayi-64448112a) |
+| Cornerstone Insurance Plc | Sarah Nwosu | ecare@cornerstone.com.ng | 07086216957 | [Sarah Nwosu](https://ng.linkedin.com/in/sarahnwosuhr) |
+| NEM Insurance Plc | Anthony Omokhaye CFM, CPM,MSC | customercare@nem-health.com | 014489568 | [Anthony Omokhaye CFM, CPM,MSC](https://ng.linkedin.com/in/anthony-omokhaye-cfm-cpm-msc-31658b8a) |
+| Mutual Benefits Assurance Plc |  |  |  |  |
+| Mutual Benefits Life Assurance Limited | Chinedu Kelvin Nwachukwu | infombl@mutuallifeng.com | 08083333151 | [Chinedu Kelvin Nwachukwu](https://ng.linkedin.com/in/chinedu-kelvin-nwachukwu-76353a9b) |
+| Heirs General Insurance Limited | Saheed Abiola, FCA, CISA, MBA | wecare@heirsgeneralinsurance.com | +234 912 222 2200 | [Saheed Abiola, FCA, CISA, MBA](https://ng.linkedin.com/in/saheed-abiola) |
+| Heirs Life Assurance Limited |  | wecare@heirsgeneralinsurance.com | 09122222200 |  |
+| Sanlam-Allianz General Insurance Nigeria Limited | Sola Akinyosoye |  |  | [Sola Akinyosoye](https://ng.linkedin.com/in/sola-akinyosoye-111ba315) |
+| Sanlam-Allianz Life Insurance Nigeria Limited |  | wecare@sanlamallianz.com | 07007020020 |  |
+| Stanbic IBTC Insurance Limited | Ezinne Chidimma Anosike | CustomercareNigeria@stanbicibtc.com | 234 0700 909 9099 | [Ezinne Chidimma Anosike](https://ng.linkedin.com/in/ezinne-chidimma-anosike-95a70718) |
+| LASACO Assurance Plc | Asia LAWRENCE | info@lasacoassurance.com | 07000527226 | [Asia LAWRENCE](https://ng.linkedin.com/in/asia-lawrence-186087133) |
+| Consolidated Hallmark Insurance Limited (CHI Plc) | Crown Adelani | info@chiplc.com | +234 201 291 2532 | [Crown Adelani](https://ng.linkedin.com/in/crown-adelani-060601105) |
+| CHI Life Assurance Limited | Chisom Ibeh | info@chilife.ng | +2348170784444 | [Chisom Ibeh](https://ng.linkedin.com/in/chisom-ibeh-5465b1194) |
+| Sovereign Trust Insurance Plc | Adeola Onichabor MSc., MILR, FCIPM, FITD, GPHR, SPHRi |  |  | [Adeola Onichabor MSc., MILR, FCIPM, FITD, GPHR, SPHRi](https://ng.linkedin.com/in/adeola-onichabor-msc-milr-fcipm-fitd-gphr-sphri-b363a014) |
