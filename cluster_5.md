@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 240 Organizations
+**Total Records**: 270 Organizations
 
 ---
 
@@ -247,3 +247,33 @@
 | Resilient Africa (Delta Mall, Owerri Mall) | Yohanes Hasiholan Parhusip | foundation@resilientgroup.ng | +234 815 886 9375 | [Yohanes Hasiholan Parhusip](https://id.linkedin.com/in/yohaneshasiholanparhusip) |
 | Purple Group (Maryland Mall / Purple Lekki) | Olaide A. |  | +2349028431997 | [Olaide A.](https://ng.linkedin.com/in/olaide-a-60704126) |
 | African Capital Alliance Real Estate (CAPIC) |  |  | +234 1 2777000 |  |
+| MTN Nigeria Communications Plc | Adeola Oduntan | customercare.ng@mtn.com | 09033000001 | [Adeola Oduntan](https://ng.linkedin.com/in/adeola-oduntan-fipma-001) |
+| Airtel Networks Limited (Airtel Nigeria) | Shola Adeyemi | customercare@ng.airtel.com | +234 802 192 1500 | [Shola Adeyemi](https://ng.linkedin.com/in/shola-adeyemi-b217b762) |
+| Globacom Limited (Glo) | Joachim Atunwa | dpo.globacom@gloworld.com | +234 805 002 0121 | [Joachim Atunwa](https://ng.linkedin.com/in/joachim-atunwa-0098b935) |
+| 9mobile (Emerging Markets Telecommunication Services Limited - EMTS) | Chekwube. Umeh | care@9mobile.com.ng | +234 909 200 0192 | [Chekwube. Umeh](https://ng.linkedin.com/in/chekwube-umeh-4bb64a153) |
+| IHS Towers Nigeria (IHS Holding Limited) | Joy Fatoye | infonigeria@ihstowers.com | +234 (0)700-0777777 | [Joy Fatoye](https://ng.linkedin.com/in/joy-fatoye) |
+| Helios Towers Nigeria | Abiola Rotowa | info@htntowers.com | +23414625315 | [Abiola Rotowa](https://ng.linkedin.com/in/abiola-rotowa-3b9566185) |
+| American Tower Corporation Nigeria (ATC Nigeria) | Obiageli Vivian Dike, Assoc CIPD, SPHRI |  | +234807 830 8773 | [Obiageli Vivian Dike, Assoc CIPD, SPHRI](https://ng.linkedin.com/in/obiageli-vivian-dike-assoc-cipd-sphri-7b36074b) |
+| Pan African Towers Limited (PAT) | Olatunde Liasu | info@panafricantowers.com | +234 802 123 4567 | [Olatunde Liasu](https://ng.linkedin.com/in/olatunde-liasu-0ab00973) |
+| MainOne (Equinix Company) |  |  |  |  |
+| MDXi Data Centre (Equinix Company) | Babatunde Akindele-Obe |  | +23413422000 | [Babatunde Akindele-Obe](https://ng.linkedin.com/in/babatunde-akindele-obe-49ab7160) |
+| Rack Centre Limited (Actis Portfolio) | Oluwakemi Sobanjo |  | +234 1-214-755 | [Oluwakemi Sobanjo](https://ng.linkedin.com/in/oluwakemi-sobanjo) |
+| 21st Century Technologies Limited |  |  |  |  |
+| Medallion Data Centres Limited (Digital Realty) | Uchenna Nwosu |  | 23414812221 | [Uchenna Nwosu](https://ng.linkedin.com/in/uchenna-nwosu-04b56134) |
+| ADC Data Center Nigeria (Africa Data Centres / Cassava Technologies) |  | enquiries@openaccessdc.net | +234 1 4638303 |  |
+| Kasi Cloud Limited (Data Center Lekki) | Azubuike Ruth | info@kasicloud.com | 08063731233 | [Azubuike Ruth](https://ng.linkedin.com/in/azubuike-ruth-698165363) |
+| Open Access Data Centres Nigeria (OADC) |  | enquiries@openaccessdc.net |  |  |
+| Galaxy Backbone Limited (Federal Government Digital Infrastructure) | Ibrahim Adeyanju | ServiceDesk@galaxybackbone.com.ng | 08073990518 | [Ibrahim Adeyanju](https://ng.linkedin.com/in/ibrahim-adeyanju-b78528a) |
+| NigComSat (Nigerian Communications Satellite Limited) | Matthew Babatunde | sales@nigcomsat.gov.ng | +2342018870036 | [Matthew Babatunde](https://ng.linkedin.com/in/matthew-babatunde-b4332b24) |
+| Spectranet Limited (4G/LTE Provider) | Mridul Kumar | care@spectranet.com.ng | 08002345678 | [Mridul Kumar](https://ng.linkedin.com/in/mridul-kumar-5823b91a) |
+| Smile Communications Nigeria Limited |  | customercare@smile.com.ng | 07020444444 |  |
+| Swift Networks Limited | Naomi Ewoma |  |  | [Naomi Ewoma](https://ng.linkedin.com/in/naomi-ewoma-32a878210) |
+| Cobanet Limited |  |  | 012807000 |  |
+| IPNX Nigeria Limited | Tosin Salako |  |  | [Tosin Salako](https://ng.linkedin.com/in/tosin-salako-74256b26) |
+| Cyberspace Network Limited | kate omono | customercare@cyberspace.net.ng | 09076555350 | [kate omono](https://ng.linkedin.com/in/kate-omono-493493221) |
+| VDT Communications Limited | Abiodun Omoniyi | info@vdtcomms.com | 07008000800 | [Abiodun Omoniyi](https://ng.linkedin.com/in/abiodun-omoniyi-a83a2520) |
+| Broadbased Communications Limited (Metropolitan fiber optic) |  | info@broadbased.net | 012271000 |  |
+| FiberOne Broadband Limited | Lanre Ore | sales@fiberonellc.com | +2349087981900 | [Lanre Ore](https://ng.linkedin.com/in/thelanreore) |
+| Tizeti Network Limited (wifi.com.ng) | Isaac Ananyi | sales@tizeti.com | 07002002002 | [Isaac Ananyi](https://ng.linkedin.com/in/isaac-ananyi-13321214a) |
+| Coollink (Steam Broadcasting Systems) | Harpreet Arora | sales@coollink.ng | 013300025 | [Harpreet Arora](https://ng.linkedin.com/in/harpreet-arora-97968450) |
+| Netcom Africa Limited | Chidimma Iwuoha | solutions@netcomafrica.com | +234-908-188-9999 | [Chidimma Iwuoha](https://ng.linkedin.com/in/chidimma-iwuoha-a2b42a19a) |
