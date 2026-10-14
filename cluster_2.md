@@ -1,7 +1,7 @@
 # Cluster 2: High-HSE Field Crews & Energy Operations
 ### Compliant Journey Management for Oil & Gas, Upstream Services, Mining & Infrastructure
 
-**Total Records**: 210 Organizations
+**Total Records**: 240 Organizations
 
 ---
 
@@ -217,3 +217,33 @@
 | Sea Trucks Group (West African Ventures - WAV) | oyakhamoh ibrahim | info@seatrucksgroup.com | +234 814 000 0000 | [oyakhamoh ibrahim](https://ng.linkedin.com/in/oyakhamoh-ibrahim-35ba0439) |
 | Bourbon Interoil Nigeria | Joseph Johnson | hr@bourbon-interoil.com |  | [Joseph Johnson](https://ng.linkedin.com/in/joseph-johnson-6b1962118) |
 | Tidewater Marine Nigeria | Serhiy Khrinenko | info@tidewater.com | +234-1-463-0858 | [Serhiy Khrinenko](https://ua.linkedin.com/in/serhiy-khrinenko-39776939) |
+| Topfident Offshore Services |  | enquiries@hexagonoffshore.com | +234 913 500 7776 |  |
+| Tecon Oil Services Limited | Henry Ayanruoh | teconph@teconoilserv.com | 234 1 2618371 | [Henry Ayanruoh](https://ng.linkedin.com/in/henry-ayanruoh-16403217) |
+| Lonadek Oil and Gas Consultants | Tunde Ajetunmobi, MBA |  | +234 803 400 2957 | [Tunde Ajetunmobi, MBA](https://ng.linkedin.com/in/tundeajetunmobi) |
+| Petrolog Group | Confidence Okekem | admin@petrologgroup.com | +234 813 501 0778 | [Confidence Okekem](https://ng.linkedin.com/in/confidence-okekem-174a08281) |
+| Aker Solutions Nigeria | ABIMBOLA ADEYEMI | torbjorn.andersen@akersolutions.com | +234 (0) 84 462 577 | [ABIMBOLA ADEYEMI](https://ng.linkedin.com/in/abimbola-adeyemi-96b25936) |
+| Wood Group Nigeria | SOLOMON OKOH | woodgroup@3tglobal.com |  | [SOLOMON OKOH](https://ng.linkedin.com/in/solomon-okoh-646b49195) |
+| Genesis Technical Company | Blessing Udoma | svt@genesisenergygroup.net | +234 (0) 8183580925 | [Blessing Udoma](https://ng.linkedin.com/in/blessing-udoma-0b0050247) |
+| Adano Engineering Limited | Lawrence Otiala | adano@adanoengineering.com | +234-7055320000 | [Lawrence Otiala](https://ng.linkedin.com/in/lawrence-otiala-b76772b6) |
+| Delta Marine Shipping Limited | OLUWATIMILEHIN OLAJIDE PFSO, CPO, CCIPS, SRMP-C | info@deltamarineshipping.com | 234 84 231581 | [OLUWATIMILEHIN OLAJIDE PFSO, CPO, CCIPS, SRMP-C](https://ng.linkedin.com/in/oluwatimilehin-olajide-pfso-cpo-ccips-srmp-c-80b397251) |
+| PE Energy Limited |  | info@pe-ng.com | +234 702 600 0116 |  |
+| Dover Engineering Limited | Augustine ONYALI | info@doverengineering.com | +234(0)12717113 | [Augustine ONYALI](https://ng.linkedin.com/in/augustine-onyali-pmp) |
+| Zigma Limited | Rashidat Tosin MAJEED | info@zigma.ng | +234 7061799679 | [Rashidat Tosin MAJEED](https://ng.linkedin.com/in/majeedtosinrashidat) |
+| CypherCrescent Limited | ThankGod Egbe | ng@cyphercrescent.com | +2348111113988 | [ThankGod Egbe](https://ng.linkedin.com/in/thankgod-egbe-79090b11) |
+| Laser Energy Services Nigeria |  |  | +2348162213294 |  |
+| Ciscon Nigeria Limited | Charles Obinor |  | +234 809 345 0000 | [Charles Obinor](https://ng.linkedin.com/in/charles-obinor-piema-08532146) |
+| DeltaTek Offshore Limited | Benjamin Oahimijie |  | +234 803 929 9586 | [Benjamin Oahimijie](https://ng.linkedin.com/in/benjamin-oahimijie-b4a41053) |
+| DeltaAfrik Engineering Limited (WorleyParsons Joint Venture) | Michael Adebayo | deltaafrik@deltaafrik.com | +234 1 226 1000 | [Michael Adebayo](https://ng.linkedin.com/in/michael-s-adebayo) |
+| NETCO (National Engineering and Technical Company) | Srinivasan Sekar |  |  | [Srinivasan Sekar](https://ng.linkedin.com/in/srinivasan-sekar-61b48725) |
+| Ponticelli Nigeria Limited | Emmanuel Osugba |  | +234 706 728 2358 | [Emmanuel Osugba](https://ng.linkedin.com/in/emmanuel-osugba-a3247368) |
+| SPIE Oil & Gas Services Nigeria | Benjamin Sunday | rgpd.operation@spie.com |  | [Benjamin Sunday](https://ng.linkedin.com/in/benjamin-sunday-a04768188) |
+| Actemium Nigeria (VINCI Energies) |  | oilandgas@actemium.com |  |  |
+| Dietsmann Nigeria Limited | Ikechukwu Ozoh |  | +234 (0)8098885532 | [Ikechukwu Ozoh](https://ng.linkedin.com/in/ikechukwu-ozoh-2a072914) |
+| Bureau Veritas Nigeria Limited | Olusesan John Otolorin | nigeria@bureauveritas.com | +234 809 556 5756 | [Olusesan John Otolorin](https://ng.linkedin.com/in/olusesan-john-otolorin) |
+| SGS Inspection Services Nigeria | Ayodele Balogun | pca.enquiries@sgs.com | +234 810 543 6091 | [Ayodele Balogun](https://ng.linkedin.com/in/ayodele-balogun-3685368) |
+| Intertek Nigeria Limited | Usim Odim | info.nig@intertek.com | +234 90591 9051 | [Usim Odim](https://ng.linkedin.com/in/usim-odim-65b35837) |
+| DNV GL Nigeria |  | Portharcourt.maritime@dnvgl.com | +23484660907 |  |
+| ABS Group Nigeria | SOLA OLUMILADE | marketing@absgroupglobal.com |  | [SOLA OLUMILADE](https://ng.linkedin.com/in/solaolumilade) |
+| Frank's International Nigeria | Ochuko Erimodafe-Eduwaye | wellconstruction@expro.com | +234 84 461 246 | [Ochuko Erimodafe-Eduwaye](https://ng.linkedin.com/in/ochuko-erimodafe-eduwaye-30aa738) |
+| Expro Group Nigeria | Dr. Kenneth Oshionya |  |  | [Dr. Kenneth Oshionya](https://ng.linkedin.com/in/dr-kenneth-oshionya-149a08b4) |
+| Oceaneering Nigeria Limited | Babington Etoh |  | +234 84 238368 | [Babington Etoh](https://ng.linkedin.com/in/babington-etoh-214453289) |
