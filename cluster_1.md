@@ -1,7 +1,7 @@
 # Cluster 1: Industrial Shift Workers & Factory Lines
 ### High-Volume Workforce Transit for 24/7 Manufacturing, Processing Mills & Heavy Plants
 
-**Total Records**: 360 Organizations
+**Total Records**: 395 Organizations
 
 ---
 
@@ -91,7 +91,7 @@
 | Olam Rice Mills (Rukubi, Nasarawa) |  | ir@olamnet.com | 09014245104 |  |
 | Umza International Farms (Rice Mills, Kano) | puneet arora |  | +2348099190515 | [puneet arora](https://ng.linkedin.com/in/puneet-arora-17b82090) |
 | Labana Rice Mills Limited (Kebbi) | Hussaini B. SIMON |  | 07045699641 | [Hussaini B. SIMON](https://ng.linkedin.com/in/hussaini-b-simon-3a917a23) |
-| Coscharis Rice Farms and Mills (Anambra) |  | farmfit@idhtrade.org | +2348035923533 |  |
+| Coscharis Rice Farms and Mills (Anambra) |  |  | +2348035923533 |  |
 | Popular Farms & Products Limited (Stallion Group) |  |  | 09037637021 |  |
 | Ebonyi State Rice World Limited |  |  | 07031472934 |  |
 | Onyx Rice Mill (Bida) | Christopher Newman |  |  | [Christopher Newman](https://www.linkedin.com/in/christopher-newman-bb1b445) |
@@ -367,3 +367,38 @@
 | The Okomu Oil Palm Company Plc (Ovia, Edo State) | Neels Brits | lagosoffice@okomunigeria.com | +234 806 036 1068 | [Neels Brits](https://ng.linkedin.com/in/neels-brits-5670053b) |
 | PZ Wilmar Limited (Palm oil plantations, Calabar, Cross River) | Michael Akinmoju | ookolo@pzwilmar.com | 08007994562 | [Michael Akinmoju](https://ng.linkedin.com/in/michael-akinmoju-mba-b-eng-17229424) |
 | Ellah Lakes Plc | Geraldine Ofoluwa MBA FCA | info@ellahlakes.com |  | [Geraldine Ofoluwa MBA FCA](https://ng.linkedin.com/in/geraldine-ofoluwa-mba-fca-15855910) |
+| Coscharis Farms Limited (Anambra rice farming) | Daniel May |  | +234 806 807 9105 | [Daniel May](https://ng.linkedin.com/in/daniel-may-569b56268) |
+| Animal Care Services Konsult Nigeria Limited (Ogere, Ogun State) | TEMITOPE OLUBORODE | info@animalcare-ng.com | 08056290726 | [TEMITOPE OLUBORODE](https://ng.linkedin.com/in/temitope-oluborode-b96aa475) |
+| Amo Farm Sieberer Hatchery Limited (Oyo) |  | info@afshltd.com | 234 38 240913 |  |
+| Chi Farms Limited (TGI Group / Ajanla, Ibadan) | ISAAC NWANKWO | info@chifarms.com | +234 703 100 2009 | [ISAAC NWANKWO](https://ng.linkedin.com/in/isaac-nwankwo-5ab330381) |
+| Zartech Limited (Poultry & agriculture, Ibadan) | Dr. Hemant Narkhede | info@zartechltd.com | +234-8075610000 | [Dr. Hemant Narkhede](https://ng.linkedin.com/in/dr-hemant-narkhede-30028a1b) |
+| Premier Feed Mills Limited (FMN Group / TopFeeds) | Victor Kolo | info@premierfeedsltd.com | +234 704 617 4451 | [Victor Kolo](https://ng.linkedin.com/in/victor-kolo-9a39962a) |
+| Hybrid Feeds Limited (Kaduna) | BABAWALE OLUFEMI |  | 07044329126 | [BABAWALE OLUFEMI](https://ng.linkedin.com/in/babawale-olufemi-58537340) |
+| Feedco West Africa Limited |  |  | +234 (0) 9055805712 |  |
+| Livestock Feeds Plc (UACN Subsidiary) | Yemi Olaleye | info@livestockfeedsplc.com | +234-8077281600 | [Yemi Olaleye](https://ng.linkedin.com/in/yemi-olaleye) |
+| Avian Specialties Nigeria Limited (Ibadan) |  | sales@aviantechnologies.com.ng | +234-810-612-692 |  |
+| Obasanjo Farms Nigeria Limited (Ota, Ogun State) | Aluya Philip | hello@obasanjofarmsng.com | 234 81 29901074 | [Aluya Philip](https://ng.linkedin.com/in/aluya-philip-026806265) |
+| Sebore Farms Limited (Mayo Belwa, Adamawa) | nicholas zagbayi |  |  | [nicholas zagbayi](https://ng.linkedin.com/in/nicholas-zagbayi-a97820312) |
+| Shonga Farms Holding Limited (Kwara State commercial farming) |  |  |  |  |
+| Folawiyo Farms Limited |  | info@yinkafolawiyo.com | 234 1 5450436 |  |
+| Crest Agro Products Limited (Kogi State / cassava starch) | Olukayode Olutade |  | 08035915830 | [Olukayode Olutade](https://ng.linkedin.com/in/olukayode-olutade-a4960687) |
+| Psaltry International Company Limited (Oyo State / sorbitol & cassava) | Komolafe Isaac | info@psaltryinternational.com | +234 802 891 1442 | [Komolafe Isaac](https://ng.linkedin.com/in/komolafe-isaac-a80276435) |
+| Allied Atlantic Distilleries Limited (AADL / Cassava ethanol, Sango Ota) | Owolabi Mayowa | sogbonnaya@monumentdistillers.com | 08068267151 | [Owolabi Mayowa](https://ng.linkedin.com/in/owolabi-mayowa-92a69691) |
+| Premium Cassava Products Limited (FMN Subsidiary) | Stephen Abifarin | PCPL@fmnplc.com | +234 803 304 2209 | [Stephen Abifarin](https://ng.linkedin.com/in/stephen-abifarin-7b7428ba) |
+| Teragro Commodities Limited (Transcorp agribusiness) |  |  | +234-8152530242 |  |
+| Saro Agrosciences Limited | Tunji Majekolagbe | info@saroafrica.com | +234 1 631 1110 | [Tunji Majekolagbe](https://ng.linkedin.com/in/tunji-majekolagbe-9367a68) |
+| Candel Company Limited (Agrochemicals & crop protection) |  |  | +234-703-5344745 |  |
+| HarvestField Industries Limited | Adeshina Debayo | info@harvestfield-ng.com | 234 234 07051490 | [Adeshina Debayo](https://ng.linkedin.com/in/adeshina-debayo-1320a218a) |
+| Jubaili Agrotec Nigeria Limited | Joseph Onyilo | info@jubailiagrotec.com | +234 803 629 9160 | [Joseph Onyilo](https://ng.linkedin.com/in/joseph-onyilo-8632a91ba) |
+| Notore Seeds & Fertilizer (Onne, Rivers State) |  | hr@notore.com | +234-1-279 8079 |  |
+| Indorama Fertilizer & Chemicals Limited (Port Harcourt) |  | fertsales@ng.indorama.com | +2347036835998 |  |
+| Dangote Fertiliser Limited (Lekki Free Zone) | Sunil CHAUHAN | dfl.customercare@dangote.com | +234 905 709 1200 | [Sunil CHAUHAN](https://ng.linkedin.com/in/sunil-chauhan-aa271b14) |
+| Golden Fertilizer Company Limited (FMN Group) | Aphis Mogaji | info@fmnplc.com | 234-01-5811379 | [Aphis Mogaji](https://ng.linkedin.com/in/aphis-mogaji-6636a3b2) |
+| Federal Fertilizer Company |  | customercare@nfmp.gov.ng | 234 234 062 2310 |  |
+| Morris Fertilizer Nigeria Limited (Minna) |  |  | 08062928373 |  |
+| Al-Yusuf Fertilizer Company (Kaduna) |  |  | 09032200952 |  |
+| WACOT Rice Limited (Argungu, Kebbi State) | Naresh Kumar | info@wacot.ng | +234 201 7003000 | [Naresh Kumar](https://ng.linkedin.com/in/naresh-kumar-722b67165) |
+| Kereksuk Rice Farms Limited (Nasarawa) |  |  |  |  |
+| OLAM Cocoa Processing Factory (Akure) |  |  | +2348039588069 |  |
+| Tulip Cocoa Processing Limited (Ijebu Mushin) | tukaram bangar |  | +234 816 443 7470 | [tukaram bangar](https://ng.linkedin.com/in/tukaram-bangar-95b0b916) |
+| Agrotraders Limited (Ondo State) | Risi Olatunji | info@agrotraders.net | +234 1 545 4299 | [Risi Olatunji](https://ng.linkedin.com/in/risiolatunji) |
