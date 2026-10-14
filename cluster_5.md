@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 150 Organizations
+**Total Records**: 180 Organizations
 
 ---
 
@@ -157,3 +157,33 @@
 | Hitech Construction Company Limited |  |  | +234 802 904 9802 |  |
 | ITB Nigeria Limited | Ramzi Chidiac |  | +234 1 4638303 | [Ramzi Chidiac](https://ng.linkedin.com/in/ramzi-chidiac-2888ba146) |
 | El-Alan Construction Company Nigeria Limited | Ismail Abodunrin | info@elalan.com | +234 815 096 5387 | [Ismail Abodunrin](https://ng.linkedin.com/in/ismail-abodunrin-a02702131) |
+| Costain West Africa Plc | AbdulRahman Alarape |  | 016288424 | [AbdulRahman Alarape](https://ng.linkedin.com/in/abdulrahman-alarape-88199835) |
+| G-Cappa Plc | Stephen Oshaji | info@gcappaplc.com | 234-1-7395495 | [Stephen Oshaji](https://ng.linkedin.com/in/stephen-oshaji-mcips-mnim-1346bba3) |
+| Brunelli Construction Company Nigeria Limited |  |  | +234 1 774 1803 |  |
+| Borini Prono & Company Nigeria Limited | Julius Oluwole | info@foci.org.ng | +234-1-5876198 | [Julius Oluwole](https://uk.linkedin.com/in/julius-oluwole-1121629) |
+| Bouygues Construction Nigeria Limited | Joseph Ehimika | bcnl@bouygues-construction.com | 08038500000 | [Joseph Ehimika](https://ng.linkedin.com/in/joseph-ehimika-44400b108) |
+| Bulet International Nigeria Limited | Bello Tukur Funtua | info@foci.org.ng | 234 62 238681 | [Bello Tukur Funtua](https://ng.linkedin.com/in/bello-tukur-funtua-65b6a2162) |
+| Gitto Costruzioni Generali Nigeria Limited | Ephraim Tewolde | abuja@gittonigeria.com |  | [Ephraim Tewolde](https://ng.linkedin.com/in/ephraim-tewolde-12170535) |
+| Gilmor Engineering Nigeria Limited |  | office@gilmor.co.il | 234 9 4131274 |  |
+| Levant Construction Limited | Elie Tannous | info@levantconstruction.com | +2348033103043 | [Elie Tannous](https://ng.linkedin.com/in/elie-tannous-8b24931a) |
+| Salini Nigeria Limited (Webuild Group) | ASHOK THOTE |  | +234 803 450 5951 | [ASHOK THOTE](https://ng.linkedin.com/in/ashok-thote-28607415) |
+| Inter-Bau Construction Limited | Doris Okechukwu Mbadiwe Esq. ACIS | info@interbaufoundation.org | +234 818 596 6029 | [Doris Okechukwu Mbadiwe Esq. ACIS](https://ng.linkedin.com/in/doris-okechukwu-mbadiwe-esq-acis-86b4461a) |
+| Construction Kaiser Limited | Jamiu Iliyasu Usuruohu | info@construtionkaiser.com | +2347062374572 | [Jamiu Iliyasu Usuruohu](https://ng.linkedin.com/in/jamiu-iliyasu-usuruohu-7b8257b4) |
+| ARBICO Plc | OLUMIDE OLUBODE | customercare@arbico.com | +234 1 295 0547 | [OLUMIDE OLUBODE](https://ng.linkedin.com/in/olumide-olubode-7427376b) |
+| A&K Construction Limited | Samuel Anyalenkeya | info@ak-construction.com | +234-8152525208 | [Samuel Anyalenkeya](https://ng.linkedin.com/in/samuel-anyalenkeya-2ab32b145) |
+| A.G. Ferrero & Company Limited (Kaduna) |  |  |  |  |
+| Almog Engineering Limited | Ifeoma Gabriel | info@almogengng.com | 017618095 | [Ifeoma Gabriel](https://ng.linkedin.com/in/ifeoma-gabriel-25617b213) |
+| Dumez Nigeria Limited |  |  |  |  |
+| Dutum Company Limited | Temitope Runsewe | careers@dutumgroup.com | +234 7060624475 | [Temitope Runsewe](https://ng.linkedin.com/in/temitope-runsewe) |
+| B. Stabilini & Company Limited | Saadu Baloni | info@bstabilini.com | 234 (0) 8036048704 | [Saadu Baloni](https://ng.linkedin.com/in/saadu-baloni-442aa679) |
+| Buildisa Construction Limited | Maarouf Yassine | info@jabifa.com | 08028542972 | [Maarouf Yassine](https://ng.linkedin.com/in/maarouf-yassine) |
+| C & C Construction Company Limited | Adekanmi Alonge | phfm@hyperia.com | +234 1262 4600 | [Adekanmi Alonge](https://ng.linkedin.com/in/adekanmi-alonge-639856101) |
+| Charvet Nigeria Limited | Ademola Onigbinde | charvet@charvetgroup.com | +234 811 100 0125 | [Ademola Onigbinde](https://ng.linkedin.com/in/ademola-onigbinde-55389a4b) |
+| Dredging International Services Nigeria Limited | Mark Coenjaerts | info.disn@deme-group.com | +234-1463 0898 | [Mark Coenjaerts](https://ng.linkedin.com/in/mark-coenjaerts-923961108) |
+| Westminster Dredging Company Nigeria Limited |  | llanellisales@boskalis.co.uk | 234 1 2624580 |  |
+| Jan De Nul Nigeria Limited |  | info@jandenul.com |  |  |
+| Van Oord Dredging and Marine Contractors | Chinyere Uzor | info@vanoord.com | +234 1 4537686 | [Chinyere Uzor](https://ng.linkedin.com/in/chinyere-uzor-478a35198) |
+| Royal Boskalis Westminster Nigeria |  | royal@boskalis.com | +234 1 342 7531 |  |
+| China Harbour Engineering Company Nigeria (CHEC / Lekki Deep Sea Port) | Stephen Awak |  | +234 9070061111 | [Stephen Awak](https://ng.linkedin.com/in/stephen-awak-a1234865) |
+| China Railway Construction Corporation Nigeria (CRCC) |  | houpandong@hotmail.com | +234 907 777 0573 |  |
+| Synohydro Corporation Nigeria |  | sinohydrosa@sinohydro.com |  |  |
