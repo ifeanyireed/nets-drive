@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 390 Organizations
+**Total Records**: 420 Organizations
 
 ---
 
@@ -397,3 +397,33 @@
 | Multimix Academy & Logistics |  | info@multimix.com.ng | 07068675462 |  |
 | Ocean & Cargo Freight Services Limited |  |  | 08110000421 |  |
 | Biga Logistics Nigeria |  |  | +234 813 985 1120 |  |
+| Morbod Marine Logistics Limited |  |  |  |  |
+| Fortune Global Shipping and Logistics Limited | Magnus Okokon | info@fglobalshipping.com | 01-7617260 | [Magnus Okokon](https://ng.linkedin.com/in/magnus-okokon-85824726) |
+| Blue Anchor Logistics Nigeria |  | info@blueanchorlogistics.com | 01 0046100 |  |
+| Air & Ocean Freight Services Limited | Awodi Benjamin | info.africa@alovair-sea.com | +234 704 545 7926 | [Awodi Benjamin](https://ng.linkedin.com/in/awodi-benjamin-474a06113) |
+| Skylink Logistics Limited |  | support@skylinkcargologistics.com | +234 815 843 0178 |  |
+| Panalpina World Transport Nigeria (DSV Solutions Nigeria) | Obot Akpan | karl.bernlochner@panalpina.com | +234-8035000001 | [Obot Akpan](https://ng.linkedin.com/in/obot-akpan-1a280a65) |
+| DSV Solutions Nigeria Limited |  | enquiries@dsvpipetronixng.com | 234 1 2626227 |  |
+| CEVA Logistics Nigeria | Temitope Ajayi |  | +234(0)7081960263 | [Temitope Ajayi](https://ng.linkedin.com/in/temitope-ajayi-38157818b) |
+| Kuehne + Nagel Nigeria Limited |  |  | 01 4135500 |  |
+| Geodis Wilson Nigeria Limited | Abayomi Onatunde |  |  | [Abayomi Onatunde](https://ng.linkedin.com/in/abayomi-onatunde-msc-mtm-mba-mlscm-fimc-cmc-b-sc-97a32524) |
+| Air Peace Limited | Kenneth Iboi | info@flyairpeace.com | +234-201-343-8133 | [Kenneth Iboi](https://ng.linkedin.com/in/kenneth-iboi-036892170) |
+| Ibom Air (Ibom Airlines Limited) | Stanley IGWE | reservations@ibomair.com |  | [Stanley IGWE](https://ng.linkedin.com/in/stanley-igwe) |
+| United Nigeria Airlines | Olufemi A. | customerservice@flyunitednigeria.com | 09131048522 | [Olufemi A.](https://ng.linkedin.com/in/olufemi-a-2190b41a3) |
+| Overland Airways Limited | Ogunjobi Anuoluwapo | fly@overlandairways.com | +2348035355005 | [Ogunjobi Anuoluwapo](https://ng.linkedin.com/in/ogunjobi-anuoluwapo-156362178) |
+| Aero Contractors Company of Nigeria Limited | Ado Sanusi | ticket-helpdesk@ACN.Aero | +234 (0) 201 330 2937 | [Ado Sanusi](https://ng.linkedin.com/in/ado-sanusi-46134427) |
+| Arik Air Limited | MATTHEW ALABI | aviationhr@arikair.com | 07000035927 | [MATTHEW ALABI](https://ng.linkedin.com/in/matthew-alabi-43260755) |
+| Max Air Limited | Olufemi Adeolu | cs@maxair.com.ng | +234 (0) 9090092200 | [Olufemi Adeolu](https://ng.linkedin.com/in/olufemi-adeolu-73666056) |
+| Dana Air (Dana Airlines Limited) | Emmanuel Ogwori |  | 012809888 | [Emmanuel Ogwori](https://ng.linkedin.com/in/emmanuel-ogwori-79232b32) |
+| ValueJet Airlines | Engr, Sam Marcus | center@flyvaluejet.com | 014482998 | [Engr, Sam Marcus](https://ng.linkedin.com/in/engr-sam-marcus-938475174) |
+| Rano Air Limited | Ishola Adekunbi | customercare@ranoair.com | 09169844059 | [Ishola Adekunbi](https://ng.linkedin.com/in/ishola-adekunbi-1980983b6) |
+| Green Africa Airways Limited | Ismail Kuye | gcare@greenafrica.com | 018883055 | [Ismail Kuye](https://ng.linkedin.com/in/ismail-kuye-884176151) |
+| NG Eagle Limited | Amir Gaya | centre@ngeagle.com | 07000064932 | [Amir Gaya](https://ng.linkedin.com/in/amir-gaya-648ab92a9) |
+| XeJet Aviation Limited |  | reservations@xejet.com | 013301919 |  |
+| Azman Air Services Limited | shafiu pirlo |  |  | [shafiu pirlo](https://ng.linkedin.com/in/shafiu-pirlo-70917abb) |
+| Allied Air Cargo (Freighter Airline) | yinka olajide |  |  | [yinka olajide](https://ng.linkedin.com/in/yinka-olajide-06559bb7) |
+| Nigerian Aviation Handling Company Plc (NAHCO Aviance) | Auwalu Haruna | info@nahcoaviance.com | +234 20 133 017 | [Auwalu Haruna](https://ng.linkedin.com/in/auwalu-haruna-9a8b2034a) |
+| Skyway Aviation Handling Company Plc (SAHCO) | Enebeli Emeka | info@sahcoplc.com | +234 815 555 3455 | [Enebeli Emeka](https://ng.linkedin.com/in/enebeli-emeka-91645aa1) |
+| Precision Aviation Handling Company Limited (PAHCOL) | Samuel Omaghomi |  | +234 20 133 017 | [Samuel Omaghomi](https://ng.linkedin.com/in/samuel-omaghomi-937aab26b) |
+| Federal Airports Authority of Nigeria (FAAN) | Olubunmi Kuku | info@faan.gov.ng | +2349150728136 | [Olubunmi Kuku](https://ng.linkedin.com/in/bunmikuku) |
+| Nigerian Civil Aviation Authority (NCAA) |  | info@ncaa.gov.ng | 09162011222 |  |
