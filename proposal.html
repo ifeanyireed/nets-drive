@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NETS Corporate Client Acquisition Strategy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    /* Light Theme Palette */
+    --bg-white: #FFFFFF;
+    --bg-alt: #F8FAFC;
+    --card-bg: #FFFFFF;
+    --line: #E2E8F0;
+    --line-dark: #CBD5E1;
+    
+    /* Brand Colors (NETS) */
+    --primary-blue: #1A48B6;        /* NETS Brand Royal Blue */
+    --primary-blue-dark: #0F3282;   /* Deep Blue for headings/emphasis */
+    --primary-blue-light: #EFF6FF;  /* Soft blue tint for accents */
+    --primary-blue-border: #BFDBFE;
+    
+    --secondary-red: #FE0B10;       /* NETS Brand Red */
+    --secondary-red-dark: #D4080D;
+    --secondary-red-light: #FEF2F2;
+    --secondary-red-border: #FECACA;
+    --red-gradient: linear-gradient(90deg, #FF3B30 0%, #FE0B10 50%, #B7050A 100%);
+    --red-gradient-h: linear-gradient(90deg, #FF3338 0%, #FE0B10 40%, #B7050A 100%);
+    
+    /* Typography */
+    --text-heading: #0F172A;        /* Slate-900 */
+    --text-body: #334155;           /* Slate-700 */
+    --text-muted: #64748B;          /* Slate-500 */
+    
+    --serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+    --sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  *, *::before, *::after{box-sizing:border-box;}
+  html, body{
+    width:100%; height:100%; margin:0; padding:0; overflow:hidden;
+    background:var(--bg-white); color:var(--text-body);
+    font-family:var(--sans); -webkit-font-smoothing:antialiased;
+    scroll-padding-top: env(safe-area-inset-top, 0px);
+    -webkit-text-size-adjust: 100%;
+  }
+  ::selection{ background:#DBEAFE; color:var(--primary-blue-dark); }
+
+  /* Brand Mark (Desktop top-left) */
+  .deck-brand{
+    position: fixed;
+    top: calc(18px + env(safe-area-inset-top, 0px));
+    left: max(20px, 7vw);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 40;
+    user-select: none;
+  }
+  .deck-brand-logo{
+    height: 28px;
+    width: 28px;
+    object-fit: contain;
+    border-radius: 4px;
+  }
+  .deck-brand-name{
+    font-family: var(--sans);
+    font-weight: 700;
+    font-size: .88rem;
+    letter-spacing: .08em;
+    color: var(--primary-blue);
+  }
+
+  /* Hero & Closing Logo */
+  .brand-hero{
+    margin-bottom: 24px;
+  }
+  .hero-logo{
+    height: 56px;
+    width: auto;
+    max-width: 140px;
+    object-fit: contain;
+    display: block;
+    border-radius: 6px;
+  }
+
+  .deck{ position:relative; width:100%; height:100vh; height:100dvh; overflow:hidden; }
+  .track{ display:flex; width:100%; height:100%; will-change:transform; transition: transform .5s cubic-bezier(.65,0,.35,1); }
+  .slide{
+    flex: 0 0 100%; width:100%; min-width:100%; max-width:100%; height:100%;
+    padding: calc(56px + env(safe-area-inset-top,0px)) 7vw calc(88px + env(safe-area-inset-bottom,0px));
+    display:flex; flex-direction:column;
+    position:relative; overflow-y:auto; overflow-x:hidden;
+    overscroll-behavior-y:contain; -webkit-overflow-scrolling:touch;
+    background: var(--bg-white);
+  }
+  .slide.alt{ background:var(--bg-alt); }
+  .inner{ max-width:920px; margin:auto auto; width:100%; box-sizing:border-box; }
+  .inner.wide{ max-width:1080px; width:100%; box-sizing:border-box; }
+
+  .tag{ font-family:var(--mono); font-size:.72rem; letter-spacing:.05em; color:var(--primary-blue); font-weight:600; margin:0 0 18px; }
+  h1,h2,h3{ font-family:var(--serif); font-weight:500; margin:0; line-height:1.08; color:var(--text-heading); }
+  h1{ font-size:clamp(1.9rem, 5.2vw, 3.6rem); }
+  h2{ font-size:clamp(1.45rem, 3.8vw, 2.5rem); }
+  h3{ font-size:1.15rem; font-weight:600; font-family:var(--sans); color:var(--text-heading); }
+  .lede{ font-family:var(--serif); font-style:italic; font-size:clamp(1.02rem,2.1vw,1.4rem); color:var(--primary-blue-dark); line-height:1.45; max-width:640px; margin:20px 0 0; }
+  p{ line-height:1.6; color:var(--text-body); font-size:1rem; margin:0 0 12px; max-width:62ch; }
+  .muted{ color:var(--text-muted); }
+  ul{ margin:0; padding:0; list-style:none; }
+  .rule{ height:3px; background:var(--red-gradient); border:0; margin:24px 0; width:56px; border-radius:2px; }
+
+  .grid{ display:grid; gap:20px; margin-top:28px; }
+  .grid.cols-2{ grid-template-columns:1fr 1fr; }
+  .grid.cols-3{ grid-template-columns:repeat(3,1fr); }
+
+  .card{
+    border:1px solid var(--line); border-radius:4px; padding:20px 22px;
+    background:var(--card-bg); box-shadow:0 1px 3px rgba(15,23,42,0.04);
+    transition: transform .2s, box-shadow .2s, border-color .2s;
+  }
+  .card:hover{
+    border-color: var(--primary-blue-border);
+    box-shadow: 0 4px 14px rgba(26, 72, 182, 0.08);
+  }
+  .card h3{ margin-bottom:8px; }
+  .card p{ font-size:.92rem; margin:0; }
+  .card .num{
+    font-family:var(--mono); color:var(--secondary-red); font-size:.78rem;
+    font-weight:600; display:block; margin-bottom:10px; letter-spacing:.04em;
+  }
+
+  /* Budget & Tooling cost breakdown styles */
+  .cost-list{ margin-top:8px; display:flex; flex-direction:column; }
+  .cost-row{
+    display:flex; justify-content:space-between; align-items:baseline;
+    padding:6px 0; border-bottom:1px solid var(--line); font-size:.84rem;
+  }
+  .cost-row:last-of-type{ border-bottom:0; }
+  .cost-row .tname{ color:var(--text-body); font-weight:500; }
+  .cost-row .tprice{ font-family:var(--mono); color:var(--primary-blue-dark); font-weight:600; font-size:.82rem; white-space:nowrap; margin-left:8px; }
+  .cost-subtotal{
+    margin-top:10px; padding-top:8px; border-top:1.5px dashed var(--line);
+    display:flex; justify-content:space-between; align-items:center;
+    font-family:var(--mono); font-size:.76rem; color:var(--text-muted);
+  }
+  .cost-subtotal strong{ color:var(--secondary-red); font-size:.84rem; font-weight:600; }
+
+  .budget-header{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    flex-wrap:wrap; gap:14px; margin-bottom:20px;
+  }
+  .budget-header-total{
+    text-align:right; background:var(--primary-blue-light); border:1px solid var(--primary-blue-border);
+    padding:8px 16px; border-radius:4px;
+  }
+  .budget-header-total .btag{
+    font-family:var(--mono); font-size:.68rem; color:var(--text-muted); font-weight:600;
+    display:block; letter-spacing:.06em; margin-bottom:2px;
+  }
+  .budget-header-total .bval{
+    font-family:var(--mono); font-size:1.35rem; font-weight:700; color:var(--primary-blue-dark);
+  }
+
+  .compare-card{
+    padding: 22px 24px;
+    border-radius: 4px;
+    background: #FFFFFF;
+    border: 1px solid var(--line);
+    box-shadow: 0 1px 3px rgba(15,23,42,0.04);
+  }
+  .compare-card.but-this{
+    border: 2px solid var(--primary-blue);
+    background: var(--primary-blue-light);
+  }
+
+  .chip-list{ display:flex; flex-wrap:wrap; gap:10px; margin-top:20px; }
+  .chip{
+    border:1px solid var(--line); padding:7px 14px; font-size:.85rem; color:var(--text-heading);
+    border-radius:4px; font-family:var(--sans); background:#FFFFFF; font-weight:500;
+    box-shadow:0 1px 2px rgba(15,23,42,0.03);
+  }
+
+  /* comparison table */
+  .table-wrap{ width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  table{ width:100%; border-collapse:collapse; margin-top:24px; font-size:.9rem; }
+  th,td{ text-align:left; padding:12px 14px; border-bottom:1px solid var(--line); }
+  th{ font-family:var(--mono); font-weight:600; font-size:.72rem; color:var(--text-muted); letter-spacing:.04em; text-transform:uppercase; border-bottom:2px solid var(--line); }
+  td.old{ color:var(--text-muted); }
+  td.new{ color:var(--text-heading); font-weight:500; }
+  td.arrow{ color:var(--secondary-red); width:24px; font-family:var(--mono); font-weight:600; }
+
+  .kpi-line{ margin-top:22px; font-family:var(--mono); font-size:.95rem; color:var(--primary-blue); font-weight:600; }
+
+  /* vertical flow / funnel steps */
+  .flow{ margin-top:30px; display:flex; flex-direction:column; }
+  .flow-step{ display:flex; align-items:baseline; gap:18px; padding:12px 0; border-bottom:1px solid var(--line); }
+  .flow-step:last-child{ border-bottom:0; }
+  .flow-step .fnum{ font-family:var(--mono); color:var(--secondary-red); font-weight:600; font-size:.82rem; width:26px; flex-shrink:0; }
+  .flow-step .flabel{ font-family:var(--sans); font-weight:600; width:120px; flex-shrink:0; color:var(--text-heading); }
+  .flow-step .fdesc{ color:var(--text-body); font-size:.9rem; }
+
+  /* funnel bars (numbers slide) */
+  .funnel{ margin-top:26px; display:flex; flex-direction:column; gap:12px; width:100%; }
+  .fbar{
+    display:grid; grid-template-columns:56px minmax(0,1fr) 210px;
+    align-items:center; gap:16px; width:100%; box-sizing:border-box;
+  }
+  .fbar .bar{ background:var(--red-gradient-h); height:32px; border-radius:3px; min-width:6px; box-shadow:0 1px 4px rgba(254,11,16,0.18); }
+  .fbar .fval{ font-family:var(--mono); font-size:1rem; font-weight:600; color:var(--primary-blue-dark); text-align:right; }
+  .fbar .flab{ font-size:.84rem; font-weight:500; color:var(--text-body); }
+  .funnel-note{ margin-top:18px; font-size:.82rem; color:var(--text-muted); max-width:52ch; }
+
+  /* roadmap */
+  .phases{ margin-top:28px; display:flex; flex-direction:column; gap:0; }
+  .phase{ display:grid; grid-template-columns:150px 1fr; gap:22px; padding:20px 0; border-top:1px solid var(--line); }
+  .phase:first-child{ border-top:0; }
+  .phase .plabel{ font-family:var(--mono); color:var(--primary-blue); font-weight:600; font-size:.8rem; }
+  .phase .pdays{ display:block; color:var(--text-muted); margin-top:4px; font-size:.76rem; }
+  .phase ul{ display:flex; flex-wrap:wrap; gap:8px 18px; }
+  .phase li{ font-size:.86rem; color:var(--text-body); position:relative; padding-left:14px; }
+  .phase li::before{ content:'—'; position:absolute; left:0; color:var(--secondary-red); font-weight:600; }
+  .phase .deliverable{ margin-top:10px; font-size:.86rem; font-style:italic; font-family:var(--serif); color:var(--primary-blue-dark); font-weight:500; }
+
+  footer.slidefoot{
+    position:absolute; left:7vw; bottom: calc(24px + env(safe-area-inset-bottom,0px));
+    font-family:var(--mono); font-size:.72rem; color:var(--text-muted);
+    display:flex; align-items:center; gap:8px;
+  }
+  .slidefoot-logo{
+    height: 14px;
+    width: 14px;
+    object-fit: contain;
+    display: inline-block;
+  }
+
+  /* nav chrome */
+  .progress{ position:fixed; top:env(safe-area-inset-top,0px); left:0; height:3px; background:var(--red-gradient); width:0%; z-index:100; transition:width .4s; }
+  .navbar{
+    position:fixed; right:7vw; bottom: calc(22px + env(safe-area-inset-bottom,0px)); z-index:50;
+    display:flex; align-items:center; gap:12px; font-family:var(--mono); font-size:.78rem; color:var(--text-muted);
+    background: #FFFFFF; border: 1px solid var(--line); padding: 5px 12px; border-radius: 30px; box-shadow: 0 2px 10px rgba(15,23,42,0.06);
+  }
+  .navbtn{
+    width:36px; height:36px; border-radius:50%; border:1px solid var(--line); background:#F8FAFC;
+    color:var(--text-heading); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:1rem;
+    transition: border-color .2s, background .2s, color .2s;
+    user-select: none; -webkit-user-select: none;
+  }
+  .navbtn:hover{ border-color:var(--primary-blue); color:var(--primary-blue); background:var(--primary-blue-light); }
+  .navbtn:disabled{ opacity:.3; cursor:default; background:transparent; border-color:var(--line); color:var(--text-muted); }
+  .counter{ min-width:52px; text-align:center; font-variant-numeric: tabular-nums; font-weight:500; }
+
+  /* Subtle scrollbar */
+  .slide::-webkit-scrollbar { width: 4px; }
+  .slide::-webkit-scrollbar-track { background: transparent; }
+  .slide::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 2px; }
+
+  /* Tablet Breakpoint (< 980px) */
+  @media (max-width:980px){
+    .grid.cols-3{ grid-template-columns: 1fr; }
+    .phase{ grid-template-columns: 120px 1fr; gap: 16px; }
+    .fbar{ grid-template-columns: 48px minmax(0, 1fr) 180px; gap: 12px; }
+  }
+
+  /* Mobile Responsive Breakpoint (< 768px) */
+  @media (max-width:768px){
+    .deck-brand{ display: none; }
+
+    .slide{
+      flex: 0 0 100%; width: 100%; min-width: 100%; max-width: 100%;
+      padding: calc(36px + env(safe-area-inset-top,0px)) max(18px, 5.5vw) calc(80px + env(safe-area-inset-bottom,0px));
+      overflow-x: hidden;
+    }
+    .inner{
+      margin: auto 0;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    /* Typography */
+    h1{ font-size: clamp(1.65rem, 6.8vw, 2.2rem); line-height: 1.14; }
+    h2{ font-size: clamp(1.3rem, 5.2vw, 1.7rem); line-height: 1.18; }
+    h3{ font-size: 1rem; }
+    .tag{ font-size: .66rem; margin-bottom: 12px; }
+    .lede{ font-size: 1.02rem; margin-top: 14px; line-height: 1.42; }
+    p{ font-size: .88rem; line-height: 1.55; }
+    .rule{ margin: 18px 0; }
+
+    /* Grids & Cards */
+    .grid{ gap: 12px; margin-top: 18px; }
+    .grid.cols-2, .grid.cols-3{ grid-template-columns: 1fr; }
+    .card{ padding: 14px 16px; border-radius: 4px; }
+    .card h3{ font-size: .95rem; margin-bottom: 6px; }
+    .card p{ font-size: .84rem; line-height: 1.45; }
+    .card .num{ font-size: .74rem; margin-bottom: 6px; }
+
+    .compare-card{
+      padding: 14px 16px;
+    }
+    .budget-header{
+      flex-direction: column; align-items: flex-start; gap: 8px; margin-bottom: 16px;
+    }
+    .budget-header-total{
+      text-align: left; width: 100%; display: flex; justify-content: space-between; align-items: center;
+      padding: 6px 12px;
+    }
+    .budget-header-total .bval{ font-size: 1.15rem; }
+
+    /* Chips */
+    .chip-list{ gap: 6px 8px; margin-top: 14px; }
+    .chip{ padding: 5px 10px; font-size: .78rem; }
+
+    /* Tables */
+    table{ margin-top: 14px; font-size: .8rem; }
+    th, td{ padding: 8px 6px; }
+    th{ font-size: .64rem; letter-spacing: .02em; line-height: 1.25; }
+    td.arrow{ width: 14px; padding: 8px 2px; text-align: center; font-size: .72rem; }
+    td.old, td.new{ line-height: 1.35; }
+    .kpi-line{ margin-top: 16px; font-size: .84rem; }
+
+    /* Flow steps */
+    .flow{ margin-top: 18px; }
+    .flow-step{
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      column-gap: 10px;
+      row-gap: 2px;
+      padding: 10px 0;
+      align-items: start;
+    }
+    .flow-step .fnum{
+      grid-column: 1;
+      grid-row: 1;
+      width: auto;
+      font-size: .75rem;
+      padding-top: 2px;
+    }
+    .flow-step .flabel{
+      grid-column: 2;
+      grid-row: 1;
+      width: auto;
+      font-size: .92rem;
+    }
+    .flow-step .fdesc{
+      grid-column: 2;
+      grid-row: 2;
+      font-size: .82rem;
+      line-height: 1.45;
+    }
+
+    /* Funnel */
+    .funnel{ margin-top: 18px; gap: 10px; }
+    .fbar{
+      display: grid;
+      grid-template-columns: auto 1fr;
+      grid-template-rows: auto auto;
+      gap: 3px 10px;
+      align-items: center;
+    }
+    .fbar .fval{
+      grid-column: 1;
+      grid-row: 1;
+      width: auto;
+      text-align: left;
+      font-size: .88rem;
+      font-weight: 600;
+    }
+    .fbar .flab{
+      grid-column: 2;
+      grid-row: 1;
+      width: auto;
+      font-size: .76rem;
+      color: var(--text-muted);
+    }
+    .fbar .bar{
+      grid-column: 1 / span 2;
+      grid-row: 2;
+      height: 10px;
+      border-radius: 2px;
+    }
+    .funnel-note{ margin-top: 14px; font-size: .76rem; line-height: 1.45; }
+
+    /* Roadmap phases */
+    .phases{ margin-top: 18px; }
+    .phase{
+      grid-template-columns: 1fr;
+      gap: 8px;
+      padding: 14px 0;
+    }
+    .phase .plabel{ font-size: .78rem; }
+    .phase .pdays{ display: inline-block; margin-left: 8px; margin-top: 0; font-size: .72rem; }
+    .phase ul{ gap: 6px 12px; margin-top: 4px; }
+    .phase li{ font-size: .8rem; line-height: 1.4; padding-left: 12px; }
+    .phase .deliverable{ margin-top: 8px; font-size: .8rem; line-height: 1.4; }
+
+    /* Closing metrics */
+    .closing-metrics{
+      grid-template-columns: repeat(3, 1fr) !important;
+      gap: 8px !important;
+      margin-top: 20px !important;
+    }
+    .closing-metrics div{
+      border: 1px solid var(--line);
+      padding: 10px 8px;
+      border-radius: 4px;
+      background: #FFFFFF;
+      box-shadow: 0 1px 3px rgba(15,23,42,0.04);
+      text-align: center;
+    }
+    .closing-metrics .num{
+      font-size: .78rem !important;
+      display: block;
+      margin-bottom: 2px;
+      color: var(--secondary-red) !important;
+    }
+    .closing-metrics p{
+      font-size: .68rem !important;
+      line-height: 1.25 !important;
+      margin: 0 !important;
+      color: var(--text-body) !important;
+    }
+
+    /* Navigation & Footer */
+    footer.slidefoot{
+      position: static;
+      margin-top: 28px;
+      padding-top: 14px;
+      border-top: 1px solid var(--line);
+      color: var(--text-muted);
+      font-size: .68rem;
+      width: 100%;
+      text-align: left;
+    }
+    .navbar{
+      right: 14px;
+      left: auto;
+      bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+      gap: 8px;
+      background: rgba(255, 255, 255, 0.94);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      padding: 4px 10px;
+      border-radius: 30px;
+      border: 1px solid var(--line);
+      box-shadow: 0 4px 18px rgba(15, 23, 42, 0.12);
+    }
+    .navbtn{
+      width: 36px;
+      height: 36px;
+      font-size: 1.1rem;
+      background: #F8FAFC;
+      border: 1px solid var(--line);
+      color: var(--text-heading);
+    }
+    .counter{
+      min-width: 44px;
+      font-size: .74rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .track{ transition:none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<div class="deck-brand">
+  <img src="logo.png" alt="NETS" class="deck-brand-logo">
+  <span class="deck-brand-name">NETS</span>
+</div>
+
+<div class="deck" id="deck">
+  <div class="track" id="track">
+
+    <!-- 0 TITLE -->
+    <section class="slide">
+      <div class="inner">
+        <div class="brand-hero">
+          <img src="logo.png" alt="NETS Logo" class="hero-logo">
+        </div>
+        <p class="tag">CORPORATE TRANSPORT · STRATEGY PROPOSAL</p>
+        <h1>NETS does not need another<br>marketing campaign.</h1>
+        <p class="lede">NETS needs a repeatable corporate-client acquisition system.</p>
+        <hr class="rule">
+        <p style="max-width:44ch">NETS Corporate Client Acquisition Strategy — building a predictable pipeline of corporate transport contracts.</p>
+        <p class="muted" style="margin-top:26px; font-size:.88rem;">Prepared by Ifeanyi Felix &nbsp;·&nbsp; Strategy Proposal &nbsp;·&nbsp; 2026</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> NETS · 2026</footer>
+    </section>
+
+    <!-- 1 OPENING STATEMENT -->
+    <section class="slide alt">
+      <div class="inner">
+        <p class="tag">OPENING STATEMENT</p>
+        <h2 style="max-width:20ch">The objective is simple.</h2>
+        <p class="lede" style="max-width:680px">Identify companies that need corporate transportation, reach the people who make the decision, convert qualified opportunities into contracts, and build a system that can be measured and improved.</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> Opening statement</footer>
+    </section>
+
+    <!-- 2 / 01 OPPORTUNITY -->
+    <section class="slide">
+      <div class="inner">
+        <p class="tag">01 — THE OPPORTUNITY</p>
+        <h2>NETS already has something to sell.</h2>
+        <p style="margin-top:18px; max-width:56ch">The fleet and service offering already address several corporate transportation needs. The opportunity isn't making more people aware of NETS — it's systematically connecting NETS with organizations that have an actual transportation need.</p>
+        <div class="chip-list">
+          <span class="chip">Staff transportation</span>
+          <span class="chip">Corporate bus hire</span>
+          <span class="chip">Executive / VIP transport</span>
+          <span class="chip">Group transportation</span>
+          <span class="chip">School transportation</span>
+          <span class="chip">Logistics &amp; delivery</span>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 01 / 17 — The opportunity</footer>
+    </section>
+
+    <!-- 3 / 02 COMMERCIAL PROBLEM -->
+    <section class="slide alt">
+      <div class="inner">
+        <p class="tag">02 — THE COMMERCIAL PROBLEM</p>
+        <h2>Marketing activity doesn't automatically produce corporate contracts.</h2>
+        <p style="margin-top:18px; max-width:56ch">Corporate transportation is a high-consideration B2B purchase. A company weighing a vendor is asking one question, and it isn't the question most marketing answers.</p>
+        <div class="grid cols-2 compare-grid" style="margin-top:30px;">
+          <div class="compare-card not-this">
+            <p class="muted" style="font-family:var(--mono); font-size:.78rem; margin-bottom:10px;">NOT THIS</p>
+            <p class="lede" style="font-size:1.1rem; margin-top:0; color:var(--text-muted);">"Have I seen this company before?"</p>
+          </div>
+          <div class="compare-card but-this">
+            <p style="font-family:var(--mono); font-size:.78rem; color:var(--secondary-red); font-weight:600; margin-bottom:10px;">BUT THIS</p>
+            <p class="lede" style="font-size:1.1rem; margin-top:0; color:var(--primary-blue-dark); font-weight:600;">"Can this company reliably solve our transportation problem?"</p>
+          </div>
+        </div>
+        <p style="margin-top:22px; font-size:.9rem;">So the marketing system has to be designed around the buying journey, not around reach.</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 02 / 17 — The commercial problem</footer>
+    </section>
+
+    <!-- 4 / 03 STRATEGIC SHIFT -->
+    <section class="slide">
+      <div class="inner wide">
+        <p class="tag">03 — THE STRATEGIC SHIFT</p>
+        <h2>From marketing activity to corporate acquisition.</h2>
+        <div class="table-wrap">
+          <table>
+            <tr><th>Traditional marketing measurement</th><th></th><th>Proposed commercial measurement</th></tr>
+            <tr><td class="old">Impressions</td><td class="arrow">→</td><td class="new">Target accounts</td></tr>
+            <tr><td class="old">Reach</td><td class="arrow">→</td><td class="new">Decision-makers reached</td></tr>
+            <tr><td class="old">Engagement</td><td class="arrow">→</td><td class="new">Responses / conversations</td></tr>
+            <tr><td class="old">Website traffic</td><td class="arrow">→</td><td class="new">Qualified prospects</td></tr>
+            <tr><td class="old">Leads</td><td class="arrow">→</td><td class="new">Meetings</td></tr>
+            <tr><td class="old">Meetings</td><td class="arrow">→</td><td class="new">Proposals</td></tr>
+            <tr><td class="old">Proposals</td><td class="arrow">→</td><td class="new">Contracts</td></tr>
+            <tr><td class="old">Campaign performance</td><td class="arrow">→</td><td class="new">Pipeline &amp; revenue</td></tr>
+          </table>
+        </div>
+        <p class="kpi-line">Central KPI: corporate contracts acquired.</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 03 / 17 — The strategic shift</footer>
+    </section>
+
+    <!-- 5 / 04 STRATEGY FUNNEL -->
+    <section class="slide alt">
+      <div class="inner">
+        <p class="tag">04 — THE STRATEGY</p>
+        <h2>The NETS Corporate Acquisition Engine.</h2>
+        <div class="flow">
+          <div class="flow-step"><span class="fnum">01</span><span class="flabel">Identify</span><span class="fdesc">Find organizations with a potential transportation requirement.</span></div>
+          <div class="flow-step"><span class="fnum">02</span><span class="flabel">Reach</span><span class="fdesc">Connect with HR, Administration, Procurement, Facilities and Operations.</span></div>
+          <div class="flow-step"><span class="fnum">03</span><span class="flabel">Engage</span><span class="fdesc">Use useful content, video, case studies and targeted messaging.</span></div>
+          <div class="flow-step"><span class="fnum">04</span><span class="flabel">Qualify</span><span class="fdesc">Confirm there's a real requirement, budget, timing and decision process.</span></div>
+          <div class="flow-step"><span class="fnum">05</span><span class="flabel">Meet</span><span class="fdesc">Move qualified prospects into sales conversations.</span></div>
+          <div class="flow-step"><span class="fnum">06</span><span class="flabel">Propose</span><span class="fdesc">Develop a transportation solution around their specific requirements.</span></div>
+          <div class="flow-step"><span class="fnum">07</span><span class="flabel">Close</span><span class="fdesc">Convert qualified opportunities into contracts.</span></div>
+          <div class="flow-step"><span class="fnum">08</span><span class="flabel">Retain</span><span class="fdesc">Deliver well, expand the relationship, generate referrals.</span></div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 04 / 17 — The strategy</footer>
+    </section>
+
+    <!-- 6 / 05 TARGETING -->
+    <section class="slide">
+      <div class="inner wide">
+        <p class="tag">05 — WHO WE ARE TARGETING</p>
+        <h2>Stop marketing to everyone.</h2>
+        <div class="grid cols-3">
+          <div class="card">
+            <span class="num">SEGMENT A</span>
+            <h3>Corporate / staff transport</h3>
+            <p>Banks, telecoms, manufacturing, oil &amp; gas, professional services, large offices, NGOs and institutions.</p>
+          </div>
+          <div class="card">
+            <span class="num">SEGMENT B</span>
+            <h3>Executive transportation</h3>
+            <p>Multinationals, corporate executives, visiting executives, hotels, events and conferences.</p>
+          </div>
+          <div class="card">
+            <span class="num">SEGMENT C</span>
+            <h3>Institutional transport</h3>
+            <p>Schools, universities, and large organizations with recurring transportation requirements.</p>
+          </div>
+        </div>
+        <p style="margin-top:28px; font-size:.92rem;">The real audience isn't the company — it's the person inside it responsible for solving the problem.</p>
+        <div class="chip-list">
+          <span class="chip">HR</span><span class="chip">→</span><span class="chip">Administration</span><span class="chip">→</span><span class="chip">Procurement</span><span class="chip">→</span><span class="chip">Facilities</span><span class="chip">→</span><span class="chip">Operations</span>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 05 / 17 — Who we are targeting</footer>
+    </section>
+
+    <!-- 7 / 06 CONTENT STRATEGY -->
+    <section class="slide alt">
+      <div class="inner wide">
+        <p class="tag">06 — THE CONTENT STRATEGY</p>
+        <h2>Content that creates demand.</h2>
+        <p class="lede" style="font-size:1.05rem;">What would make a corporate decision-maker recognize a transportation problem — and believe NETS can solve it?</p>
+        <div class="grid cols-3" style="margin-top:24px;">
+          <div class="card"><span class="num">01</span><h3>Problem-led</h3><p>"Is unreliable staff transportation becoming an HR problem?"</p></div>
+          <div class="card"><span class="num">02</span><h3>Educational / authority</h3><p>How to select and evaluate a corporate transportation vendor.</p></div>
+          <div class="card"><span class="num">03</span><h3>Proof</h3><p>Client case studies, testimonials, corporate deployments, real results.</p></div>
+          <div class="card"><span class="num">04</span><h3>Operational transparency</h3><p>Driver prep, inspections, maintenance, dispatch, safety procedures.</p></div>
+          <div class="card"><span class="num">05</span><h3>Conversion</h3><p>Request a corporate transport consultation or fleet solution.</p></div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 06 / 17 — Content strategy</footer>
+    </section>
+
+    <!-- 8 / 07 VIDEO ENGINE -->
+    <section class="slide">
+      <div class="inner wide">
+        <p class="tag">07 — THE VIDEO CONTENT ENGINE</p>
+        <h2>Make NETS' operation visible.</h2>
+        <p style="margin-top:14px; max-width:56ch">Transport is inherently visual. Rather than generic "NETS is the best" videos, build around problems, proof and operations.</p>
+        <div class="flow" style="margin-top:20px;">
+          <div class="flow-step"><span class="fnum">1</span><span class="flabel">Problem</span><span class="fdesc">"3 signs your company's staff transportation isn't working." 30–60 seconds.</span></div>
+          <div class="flow-step"><span class="fnum">2</span><span class="flabel">Authority</span><span class="fdesc">A NETS representative on what HR should look for in a provider.</span></div>
+          <div class="flow-step"><span class="fnum">3</span><span class="flabel">Proof</span><span class="fdesc">"How [Client] solved its employee transportation challenge" — documented results only.</span></div>
+          <div class="flow-step"><span class="fnum">4</span><span class="flabel">Behind the operation</span><span class="fdesc">Vehicle prep, driver checks, fleet inspection, dispatch, route operations.</span></div>
+          <div class="flow-step"><span class="fnum">5</span><span class="flabel">Conversion</span><span class="fdesc">"Tell us your routes, employee numbers and requirements." CTA: request a consultation.</span></div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 07 / 17 — Video content engine</footer>
+    </section>
+
+    <!-- 9 / 08 LINKEDIN -->
+    <section class="slide alt">
+      <div class="inner">
+        <p class="tag">08 — LINKEDIN ACQUISITION</p>
+        <h2>A prospecting channel, not just a social one.</h2>
+        <div class="grid cols-2" style="margin-top:26px;">
+          <div>
+            <h3 style="margin-bottom:10px;">Target</h3>
+            <div class="chip-list" style="margin-top:0;">
+              <span class="chip">HR</span><span class="chip">Procurement</span><span class="chip">Administration</span><span class="chip">Facilities</span><span class="chip">Operations</span><span class="chip">Senior management</span>
+            </div>
+          </div>
+          <div>
+            <h3 style="margin-bottom:10px;">Formats</h3>
+            <p style="font-size:.9rem; margin-bottom:6px;">Video ads — problem → insight → solution → CTA</p>
+            <p style="font-size:.9rem; margin-bottom:6px;">Document / carousel ads — "7 things to check before selecting a provider"</p>
+            <p style="font-size:.9rem; margin-bottom:6px;">Case-study ads &amp; lead-generation ads</p>
+          </div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 08 / 17 — LinkedIn acquisition</footer>
+    </section>
+
+    <!-- 10 / 09 OUTREACH -->
+    <section class="slide">
+      <div class="inner">
+        <p class="tag">09 — EMAIL + DIRECT OUTREACH</p>
+        <h2>Turn identified companies into conversations.</h2>
+        <div class="flow">
+          <div class="flow-step"><span class="fnum">1</span><span class="flabel">Introduction</span><span class="fdesc">Introduce NETS and the specific transportation problem.</span></div>
+          <div class="flow-step"><span class="fnum">2</span><span class="flabel">Value</span><span class="fdesc">Share useful, relevant information.</span></div>
+          <div class="flow-step"><span class="fnum">3</span><span class="flabel">Proof</span><span class="fdesc">Share a case study, fleet capability or relevant experience.</span></div>
+          <div class="flow-step"><span class="fnum">4</span><span class="flabel">Conversation</span><span class="fdesc">"Would it be useful to discuss your current transportation arrangement?"</span></div>
+          <div class="flow-step"><span class="fnum">5</span><span class="flabel">Follow-up</span><span class="fdesc">Continue nurturing prospects that aren't ready immediately.</span></div>
+        </div>
+        <p class="lede" style="font-size:1rem; margin-top:24px;">We don't just generate leads — we nurture accounts until they're commercially ready.</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 09 / 17 — Email &amp; direct outreach</footer>
+    </section>
+
+    <!-- 11 / 10 CHANNEL MIX -->
+    <section class="slide alt">
+      <div class="inner wide">
+        <p class="tag">10 — THE ACQUISITION CHANNEL MIX</p>
+        <h2>Priority channels tied directly to acquisition.</h2>
+        <div class="grid cols-2" style="margin-top:26px;">
+          <div class="card">
+            <span class="num">CORE</span>
+            <p style="margin-bottom:8px;"><strong>LinkedIn</strong> — decision-maker targeting, ads, prospecting</p>
+            <p style="margin-bottom:8px;"><strong>Email</strong> — outbound, nurture, follow-up</p>
+            <p style="margin-bottom:8px;"><strong>Google Search</strong> — capture active demand</p>
+            <p style="margin-bottom:0;"><strong>Website / landing pages</strong> — dedicated corporate conversion points</p>
+          </div>
+          <div class="card">
+            <span class="num">SUPPORTING</span>
+            <p style="margin-bottom:8px;"><strong>Video</strong> — build trust, explain the service</p>
+            <p style="margin-bottom:8px;"><strong>SEO / content</strong> — capture long-term search demand</p>
+            <p style="margin-bottom:8px;"><strong>Referrals / partnerships</strong> — turn relationships into opportunities</p>
+            <p style="margin-bottom:0;"><strong>Retargeting</strong> — reconnect prospects who didn't convert</p>
+          </div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 10 / 17 — Acquisition channel mix</footer>
+    </section>
+
+    <!-- 12 / 11 LANDING PAGE -->
+    <section class="slide">
+      <div class="inner">
+        <p class="tag">11 — THE CORPORATE LANDING PAGE</p>
+        <h2>Every campaign needs somewhere to convert.</h2>
+        <p style="margin-top:14px;">A dedicated corporate destination — not the generic homepage.</p>
+        <div class="grid cols-2" style="margin-top:22px;">
+          <div>
+            <h3 style="margin-bottom:8px;">What NETS provides</h3>
+            <p style="font-size:.88rem; margin:0;">Staff transportation · corporate fleet solutions · executive transportation · dedicated routes · group transportation</p>
+          </div>
+          <div>
+            <h3 style="margin-bottom:8px;">Qualification form</h3>
+            <p style="font-size:.88rem; margin:0;">Company · contact &amp; role · employee count · location / routes · requirement · expected start date</p>
+          </div>
+        </div>
+        <p class="kpi-line" style="margin-top:20px;">CTA: Request a Corporate Transport Consultation</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 11 / 17 — The corporate landing page</footer>
+    </section>
+
+    <!-- 13 / 12 ROADMAP -->
+    <section class="slide alt">
+      <div class="inner wide">
+        <p class="tag">12 — THE 60-DAY ROADMAP</p>
+        <h2>Build. Launch. Optimize.</h2>
+        <div class="phases">
+          <div class="phase">
+            <div><span class="plabel">PHASE 1 — BUILD</span><span class="pdays">Days 1–15</span></div>
+            <div>
+              <ul>
+                <li>Define ideal customer profiles</li><li>Build target-account database</li><li>Identify decision-makers</li>
+                <li>Corporate landing page</li><li>CRM / pipeline setup</li><li>Outreach sequences</li>
+                <li>Initial video library</li><li>Reporting dashboard</li>
+              </ul>
+              <p class="deliverable">Corporate acquisition infrastructure ready for launch.</p>
+            </div>
+          </div>
+          <div class="phase">
+            <div><span class="plabel">PHASE 2 — LAUNCH</span><span class="pdays">Days 16–45</span></div>
+            <div>
+              <ul>
+                <li>LinkedIn campaigns live</li><li>Direct outreach begins</li><li>Email campaigns begin</li>
+                <li>Corporate content published</li><li>Google Search campaigns</li><li>Lead nurturing &amp; meetings</li>
+              </ul>
+              <p class="deliverable">Qualified corporate opportunities entering the pipeline.</p>
+            </div>
+          </div>
+          <div class="phase">
+            <div><span class="plabel">PHASE 3 — OPTIMIZE</span><span class="pdays">Days 46–60</span></div>
+            <div>
+              <ul>
+                <li>Which industries respond</li><li>Which messages convert</li><li>Which videos perform</li>
+                <li>Which channels qualify</li><li>Where prospects drop out</li>
+              </ul>
+              <p class="deliverable">A measurable, repeatable acquisition process.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 12 / 17 — 60-day roadmap</footer>
+    </section>
+
+    <!-- 14 / 13 NUMBERS -->
+    <section class="slide">
+      <div class="inner wide">
+        <p class="tag">13 — THE NUMBERS</p>
+        <h2>We measure the system at every stage.</h2>
+        <p class="muted" style="font-size:.85rem; margin-top:10px;">Illustrative 60-day funnel target</p>
+        <div class="funnel" id="funnel">
+          <div class="fbar"><span class="fval">500</span><div class="bar" style="width:100%"></div><span class="flab">Target accounts identified</span></div>
+          <div class="fbar"><span class="fval">300</span><div class="bar" style="width:80%"></div><span class="flab">Qualified accounts</span></div>
+          <div class="fbar"><span class="fval">150</span><div class="bar" style="width:60%"></div><span class="flab">Decision-makers reached</span></div>
+          <div class="fbar"><span class="fval">40</span><div class="bar" style="width:38%"></div><span class="flab">Meaningful conversations</span></div>
+          <div class="fbar"><span class="fval">20</span><div class="bar" style="width:24%"></div><span class="flab">Qualified meetings</span></div>
+          <div class="fbar"><span class="fval">10</span><div class="bar" style="width:14%"></div><span class="flab">Proposals</span></div>
+          <div class="fbar"><span class="fval">3–5</span><div class="bar" style="width:7%"></div><span class="flab">New corporate contracts</span></div>
+        </div>
+        <p class="funnel-note">These are initial planning targets, not guaranteed results. The first 60 days establish the actual baseline conversion rates — then improve them.</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 13 / 17 — The numbers</footer>
+    </section>
+
+    <!-- 15 / 14 KPI DASHBOARD -->
+    <section class="slide alt">
+      <div class="inner wide">
+        <p class="tag">14 — THE KPI DASHBOARD</p>
+        <h2>What management sees every month.</h2>
+        <div class="grid cols-2" style="margin-top:26px;">
+          <div class="card"><span class="num">ACQUISITION</span><p>Target accounts added · decision-makers identified · outreach volume · response rate</p></div>
+          <div class="card"><span class="num">PIPELINE</span><p>Qualified opportunities · meetings · proposals · pipeline value</p></div>
+          <div class="card"><span class="num">CONVERSION</span><p>Meeting → proposal · proposal → contract · cost per qualified opportunity · cost per acquisition</p></div>
+          <div class="card"><span class="num">BUSINESS</span><p>New contracts · contract value · revenue generated · fleet utilization · client retention</p></div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 14 / 17 — KPI dashboard</footer>
+    </section>
+
+    <!-- 16 / 15 TEAM -->
+    <section class="slide">
+      <div class="inner wide">
+        <p class="tag">15 — THE TEAM REQUIRED</p>
+        <h2>A dedicated acquisition function.</h2>
+        <p style="margin-top:14px; max-width:60ch">Acquisition cannot succeed as an ad-hoc side responsibility. It requires someone capable with dedicated ownership of the commercial pipeline, supported by research and operational capacity.</p>
+        <div class="grid cols-2" style="margin-top:26px;">
+          <div class="card">
+            <span class="num">ROLE 1</span>
+            <h3>Corporate Acquisition Lead</h3>
+            <p>Dedicated ownership: Strategy &amp; positioning · content &amp; video direction · LinkedIn &amp; email campaigns · analytics &amp; pipeline optimization</p>
+          </div>
+          <div class="card">
+            <span class="num">ROLE 2</span>
+            <h3>Acquisition Assistant</h3>
+            <p>Prospect &amp; decision-maker research · CRM &amp; data hygiene · outreach support · reporting &amp; scheduling</p>
+          </div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 15 / 17 — The team required</footer>
+    </section>
+
+    <!-- 17 / 16 WHAT IS REQUIRED -->
+    <section class="slide alt">
+      <div class="inner">
+        <p class="tag">16 — WHAT IS REQUIRED</p>
+        <h2>What NETS needs to put in place.</h2>
+        <div class="flow" style="margin-top:22px;">
+          <div class="flow-step"><span class="fnum">1</span><span class="flabel">Dedicated Lead</span><span class="fdesc">Assigning a capable owner with full responsibility for executing this acquisition engine.</span></div>
+          <div class="flow-step"><span class="fnum">2</span><span class="flabel">Operational Support</span><span class="fdesc">One dedicated assistant for account research, prospecting, and CRM hygiene.</span></div>
+          <div class="flow-step"><span class="fnum">3</span><span class="flabel">Tools &amp; Budget</span><span class="fdesc">Targeted budget for LinkedIn, Google search, outreach tools, CRM, and content production.</span></div>
+          <div class="flow-step"><span class="fnum">4</span><span class="flabel">Clear Mandate</span><span class="fdesc">Commercial accountability tied directly to qualified meetings, proposals, and signed contracts.</span></div>
+          <div class="flow-step"><span class="fnum">5</span><span class="flabel">60-Day Pilot</span><span class="fdesc">A 60-day trial period — defined targets, regular progress reporting, and executive review.</span></div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 16 / 17 — What is required</footer>
+    </section>
+
+    <!-- 18 / 17 TOOLS & BUDGET BREAKDOWN -->
+    <section class="slide">
+      <div class="inner wide">
+        <div class="budget-header">
+          <div>
+            <p class="tag" style="margin-bottom:8px;">17 — TOOLS &amp; BUDGET BREAKDOWN</p>
+            <h2>Lean acquisition stack &amp; pilot budget.</h2>
+          </div>
+          <div class="budget-header-total">
+            <span class="btag">60-DAY PILOT TOTAL</span>
+            <span class="bval">₦2,100,000</span>
+          </div>
+        </div>
+        <div class="grid cols-2">
+          <div class="card">
+            <span class="num">CATEGORY 01 · DATA &amp; PROSPECTING</span>
+            <h3>Prospect Intelligence</h3>
+            <div class="cost-list">
+              <div class="cost-row"><span class="tname">LinkedIn Sales Navigator Core</span><span class="tprice">₦130,000 / mo · ₦260,000</span></div>
+              <div class="cost-row"><span class="tname">Apollo.io B2B Enrichment</span><span class="tprice">₦80,000 / mo · ₦160,000</span></div>
+            </div>
+            <div class="cost-subtotal"><span>60-Day Subtotal</span><strong>₦420,000</strong></div>
+          </div>
+          <div class="card">
+            <span class="num">CATEGORY 02 · OUTREACH &amp; CRM</span>
+            <h3>Infrastructure &amp; CRM</h3>
+            <div class="cost-list">
+              <div class="cost-row"><span class="tname">NETS Internal CRM (Already Built)</span><span class="tprice">No cost (In-house)</span></div>
+              <div class="cost-row"><span class="tname">Instantly.ai (Outreach Sequencer)</span><span class="tprice">₦60,000 / mo · ₦120,000</span></div>
+              <div class="cost-row"><span class="tname">Blog &amp; Content Hub (IT Dept)</span><span class="tprice">No cost (In-house)</span></div>
+            </div>
+            <div class="cost-subtotal"><span>60-Day Subtotal</span><strong>₦120,000</strong></div>
+          </div>
+          <div class="card">
+            <span class="num">CATEGORY 03 · PAID ACQUISITION</span>
+            <h3>Targeted Advertising</h3>
+            <div class="cost-list">
+              <div class="cost-row"><span class="tname">LinkedIn Sponsored Content &amp; InMail</span><span class="tprice">₦350,000 / mo · ₦700,000</span></div>
+              <div class="cost-row"><span class="tname">Google Search Ads</span><span class="tprice">₦200,000 / mo · ₦400,000</span></div>
+            </div>
+            <div class="cost-subtotal"><span>60-Day Subtotal</span><strong>₦1,100,000</strong></div>
+          </div>
+          <div class="card">
+            <span class="num">CATEGORY 04 · CREATIVE &amp; ASSETS</span>
+            <h3>Content Production</h3>
+            <div class="cost-list">
+              <div class="cost-row"><span class="tname">Fleet &amp; Driver Video Shoot (8–12 clips)</span><span class="tprice">One-off · ₦460,000</span></div>
+              <div class="cost-row"><span class="tname">Landing Page &amp; Hosting (IT Dept)</span><span class="tprice">No cost (In-house)</span></div>
+            </div>
+            <div class="cost-subtotal"><span>60-Day Subtotal</span><strong>₦460,000</strong></div>
+          </div>
+        </div>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> 17 / 17 — Tools &amp; budget breakdown</footer>
+    </section>
+
+    <!-- 18 FINAL -->
+    <section class="slide">
+      <div class="inner">
+        <div class="brand-hero" style="margin-bottom:20px;">
+          <img src="logo.png" alt="NETS Logo" class="hero-logo" style="height:48px;">
+        </div>
+        <p class="tag">CLOSING</p>
+        <h1 style="max-width:16ch">The objective is not more marketing.</h1>
+        <p class="lede" style="max-width:600px">The objective is more corporate contracts. NETS already has the fleet and the service capability — what's required is a focused system that consistently identifies corporate clients, reaches their decision-makers, builds trust, and moves opportunities toward contracts.</p>
+        <div class="grid cols-3 closing-metrics" style="margin-top:34px; max-width:640px;">
+          <div><span class="num" style="font-family:var(--mono); color:var(--secondary-red); font-size:.85rem;">60 days</span><p style="font-size:.85rem; margin-top:4px;">to build the engine</p></div>
+          <div><span class="num" style="font-family:var(--mono); color:var(--secondary-red); font-size:.85rem;">12 months</span><p style="font-size:.85rem; margin-top:4px;">to scale it</p></div>
+          <div><span class="num" style="font-family:var(--mono); color:var(--secondary-red); font-size:.85rem;">Every stage</span><p style="font-size:.85rem; margin-top:4px;">measured</p></div>
+        </div>
+        <p class="muted" style="margin-top:36px; font-size:.85rem;">Prepared by Ifeanyi Felix &nbsp;·&nbsp; 2026</p>
+      </div>
+      <footer class="slidefoot"><img src="logo.png" alt="" class="slidefoot-logo"> NETS · 2026</footer>
+    </section>
+
+  </div>
+</div>
+
+<div class="navbar">
+  <button class="navbtn" id="prevBtn" aria-label="Previous slide">‹</button>
+  <span class="counter" id="counter">01 / 20</span>
+  <button class="navbtn" id="nextBtn" aria-label="Next slide">›</button>
+</div>
+
+<script>
+(function(){
+  const deck = document.getElementById('deck');
+  const track = document.getElementById('track');
+  const slides = document.querySelectorAll('.slide');
+  const total = slides.length;
+  const counter = document.getElementById('counter');
+  const progress = document.getElementById('progress');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const params = new URLSearchParams(window.location.search);
+  const hashVal = parseInt(window.location.hash.replace('#', ''), 10);
+  const paramVal = parseInt(params.get('slide'), 10);
+  const startSlide = !isNaN(hashVal) ? hashVal : (!isNaN(paramVal) ? paramVal : 1);
+  let i = Math.min(total - 1, Math.max(0, startSlide - 1));
+
+  function pad(n){ return String(n).padStart(2,'0'); }
+
+  function render(){
+    const slideWidth = deck.clientWidth;
+    track.style.transform = 'translate3d(-' + (i * slideWidth) + 'px, 0, 0)';
+    deck.scrollLeft = 0;
+    window.scrollTo(0, 0);
+    counter.textContent = pad(i+1) + ' / ' + pad(total);
+    progress.style.width = (((i+1)/total) * 100) + '%';
+    prevBtn.disabled = i === 0;
+    nextBtn.disabled = i === total - 1;
+    if (slides[i]) {
+      slides[i].scrollTop = 0;
+    }
+    try {
+      if (window.location.hash !== '#' + (i + 1)) {
+        history.replaceState(null, '', '#' + (i + 1));
+      }
+    } catch(e){}
+  }
+
+  function go(delta){
+    i = Math.min(total - 1, Math.max(0, i + delta));
+    render();
+  }
+
+  window.addEventListener('hashchange', () => {
+    const h = parseInt(window.location.hash.replace('#', ''), 10);
+    if (!isNaN(h) && h >= 1 && h <= total && h - 1 !== i) {
+      i = h - 1;
+      render();
+    }
+  });
+
+  prevBtn.addEventListener('click', () => go(-1));
+  nextBtn.addEventListener('click', () => go(1));
+
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); go(1); }
+    if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); go(-1); }
+  });
+
+  window.addEventListener('resize', render);
+  window.addEventListener('orientationchange', () => setTimeout(render, 120));
+  deck.addEventListener('scroll', () => { deck.scrollLeft = 0; });
+
+  let touchStartX = null, touchStartY = null;
+  deck.addEventListener('touchstart', (e) => {
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+  }, {passive:true});
+  deck.addEventListener('touchend', (e) => {
+    if (touchStartX === null) return;
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    const dy = e.changedTouches[0].clientY - touchStartY;
+    if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy) * 1.25) {
+      go(dx < 0 ? 1 : -1);
+    }
+    touchStartX = null; touchStartY = null;
+  }, {passive:true});
+
+  render();
+})();
+</script>
+
+</body>
+</html>
