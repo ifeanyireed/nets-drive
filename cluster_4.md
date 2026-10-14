@@ -1,7 +1,7 @@
 # Cluster 4: Night Shift Safe Dispersal & 24/7 Lines
 ### Duty-of-Care Late-Night & Early-Morning Transit for Hospitals, BPOs & Media Broadcasts
 
-**Total Records**: 30 Organizations
+**Total Records**: 60 Organizations
 
 ---
 
@@ -37,3 +37,33 @@
 | Twins Faja Supermarket | Oluwafemi O. | cs@twinsfaja.com | 07000211211 | [Oluwafemi O.](https://ng.linkedin.com/in/oluwafemi-o-5a847512a) |
 | Bestie Supermarket Limited |  |  | 08078101518 |  |
 | Cash 'N' Carry Electronics Stores |  | info@cncafrica.com | +234 904 000 0789 |  |
+| Slot Systems Limited (Multi-branch mobile tech retail) | NGOZI OJUKWU | j.smith@slot.ng | +234 708 409 1911 | [NGOZI OJUKWU](https://ng.linkedin.com/in/ngozi-ojukwu-68122164) |
+| 3C Hub (Digital retail chain) | Olatunde Q. | online.ng@3chub.com | 07089417119 | [Olatunde Q.](https://ng.linkedin.com/in/olatunde-q-652758b3?trk=public_profile_browsemap) |
+| Pointek Limited (Digital devices retail chain) | Olayinka Adeleye | online@pointekonline.com | +234807-768-1244 | [Olayinka Adeleye](https://ng.linkedin.com/in/olayinka-adeleye-a4723880) |
+| Finet Technologies Limited |  | customercare@finetmobile.com | +234703 333 2776 |  |
+| Ruff 'n' Tumble Limited (National kids retail network) | Chinedu Kelvin Nwachukwu | lugbestore@ruffntumblekids.com | +2348067136764 | [Chinedu Kelvin Nwachukwu](https://ng.linkedin.com/in/chinedu-kelvin-nwachukwu-76353a9b) |
+| PEP Stores Nigeria | OPEOLUWA ADEBESIN |  | +234 814 154 3746 | [OPEOLUWA ADEBESIN](https://ng.linkedin.com/in/opeoluwa-adebesin-aciwn-acism-38854624) |
+| Mr Price Nigeria | faith ugoeze | hello@mrprice.online |  | [faith ugoeze](https://ng.linkedin.com/in/faith-ugoeze-536388b7) |
+| Miniso Nigeria (Lifestyle design retail chain) | Ikenna Nwachukwu | _miniso.ng@miniso.com.ng | 08125066257 | [Ikenna Nwachukwu](https://ng.linkedin.com/in/ikenna-nwachukwu-522810175) |
+| Mumuso Nigeria |  | info@mumuso.com |  |  |
+| Game Stores Nigeria |  |  |  |  |
+| Decathlon Nigeria (Sporting goods superstores) |  |  |  |  |
+| Mega Plaza Century 21 Department Store (Victoria Island) |  | online@megaplaza.com.ng | +234 916 945 9968 |  |
+| Park 'n' Shop (Artee Group) | Prakash Keswani |  | 2349050177505 | [Prakash Keswani](https://ng.linkedin.com/in/prakash-keswani-75b5345) |
+| Genesis Center Retail Arcade (Port Harcourt) |  |  |  |  |
+| Palms Shopping Malls Operations |  |  | 012714491 |  |
+| Ikeja City Mall Management (Hyprop) |  | info@ikejacitymall.com.ng | +234 915 764 9692 |  |
+| Jabi Lake Mall Management (Actis) |  | info@jabilakemallng.com | +234 816 550 1930 |  |
+| Ado Bayero Mall Management (Kano) |  |  | +234 701 212 2312 |  |
+| Polo Park Mall Management (Enugu) |  |  | +2348039004000 |  |
+| Delta Mall Management (Effurun / Warri) |  |  | +234-802-8088-144 |  |
+| Food Concepts Plc (Chicken Republic, PieXpress) |  | info@foodconceptsplc.com | +234 (0) 809 016 5972 |  |
+| Sundry Foods Limited (Kilimanjaro, Pizza Jungle, Nibbles) | Collins Nkemakolam | info@sundryfood.com | 2347002786379 | [Collins Nkemakolam](https://ng.linkedin.com/in/collins-nkemakolam-471849208) |
+| Eat'N'Go Limited (Domino's Pizza, Cold Stone Creamery, Pinkberry) | Richard Olatoye | info@eatngo-africa.com | 01-2916926 | [Richard Olatoye](https://ng.linkedin.com/in/richard-olatoye-09462035) |
+| UAC Restaurants Limited (Mr Bigg's, Debonairs Pizza) | Luqman Owolabi | customercare@uacrestaurants.com | 07007774992 | [Luqman Owolabi](https://ng.linkedin.com/in/luqman-owolabi-821180286) |
+| Sweet Sensation Confectionery Limited | Timothy Josiah | info@swagger2sweetsensation.com | 08052090025 | [Timothy Josiah](https://ng.linkedin.com/in/timothy-josiah-a197b884) |
+| Tantalizers Plc | oluwamayowa ukpoke | tantalizers@tantalizers.com | +234 907 777 0573 | [oluwamayowa ukpoke](https://ng.linkedin.com/in/oluwamayowa-ukpoke-98522393) |
+| Mega Chicken Restaurants Limited | Omololu B. Adeyemi | lekki@megachicken.com.ng | 09134444900 | [Omololu B. Adeyemi](https://ng.linkedin.com/in/omololu-b-adeyemi-054666a4) |
+| The Place Restaurant & Nightlife (Smackers Limited) |  | customerservice@theplace.com.ng | 08182862824 |  |
+| Bukka Hut Limited | Princess Chinyere Daniel-Uche | careers@bukkahut.com | 07000550055 | [Princess Chinyere Daniel-Uche](https://ng.linkedin.com/in/princess-chinyere-daniel-uche-22101995p) |
+| Tastee Fried Chicken Limited (TFC) | omotayo shoga |  | +234 807 549 1276 | [omotayo shoga](https://ng.linkedin.com/in/omotayo-shoga-59221740) |
