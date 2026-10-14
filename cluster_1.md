@@ -1,7 +1,7 @@
 # Cluster 1: Industrial Shift Workers & Factory Lines
 ### High-Volume Workforce Transit for 24/7 Manufacturing, Processing Mills & Heavy Plants
 
-**Total Records**: 330 Organizations
+**Total Records**: 360 Organizations
 
 ---
 
@@ -337,3 +337,33 @@
 | ANAMMCO Limited (Mercedes-Benz assembly plant, Enugu) | henry Agbachi |  |  | [henry Agbachi](https://ng.linkedin.com/in/henry-agbachi-6ba37440) |
 | Leyland Bus and Truck Nigeria Limited (Ibadan) |  |  | 09062794800 |  |
 | Steyr Nigeria Limited (Bauchi) |  |  | +234 907 777 0573 |  |
+| National Trucks Manufacturers Limited (NTM / Kano) | Musa Najibullah | support@ntmlng.com | 08052550555 | [Musa Najibullah](https://ng.linkedin.com/in/musa-najibullah-152b6a171) |
+| Dangote Sinotruk West Africa Limited (Ikeja assembly) | Hikmat Thapa |  | +234 802 360 3427 | [Hikmat Thapa](https://ng.linkedin.com/in/hikmat-thapa-244ab8399) |
+| Shacman Nigeria (Transit Support Services / Anambra Motor Manufacturing) | Henry Nneji | Shacman@shacman.com | +234-906 222 9533 | [Henry Nneji](https://www.linkedin.com/in/henrynneji) |
+| Sinotruk Howo Nigeria Representative |  | info@sinotruksgroup.com | 08025974802 |  |
+| FAW Trucks Nigeria | ADEYEMI NASIRU | trucks@fawtruks.com | +2348035680863 | [ADEYEMI NASIRU](https://ng.linkedin.com/in/adeyemi-nasiru-892974b9) |
+| Tata Motors Nigeria |  | esther.obhiojeifoh@tatainternational.com | 08134441270 |  |
+| Ashok Leyland Nigeria |  | reachus@ashokleyland.com | +234 814 133 7666 |  |
+| Isuzu Motors Nigeria |  |  | +2347016555555 |  |
+| Hino Trucks Nigeria (Toyota Group) |  | ultimatesupport@hino.com |  |  |
+| Scania West Africa Nigeria Representative |  | scaniawestafrica@scania.com |  |  |
+| MAN Truck & Bus Nigeria |  |  | +234 704 100 2206 |  |
+| Volvo Trucks Nigeria (SMT Nigeria) |  | gpo.office@volvo.com | +234 811 075 5557 |  |
+| SMT Nigeria Limited (Volvo construction equipment & trucks) | Ekwuru Chuks | info.nigeria@smt.network | +234 (0)805 412 2420 | [Ekwuru Chuks](https://ng.linkedin.com/in/ekwuru-chuks-a7855a3a) |
+| Mantrac Nigeria Limited (Caterpillar dealership & heavy machinery) | gbuyiro taiwo | us@mantracnigeria.com | 07006268722 | [gbuyiro taiwo](https://ng.linkedin.com/in/gbuyiro-taiwo-0341a249) |
+| Blackwood Hodge Nigeria Limited |  | info@bhnlogistics.com | +234 81549 9242 |  |
+| Liebherr Nigeria Limited |  |  |  |  |
+| Komatsu Nigeria Representative |  |  | 08098337644 |  |
+| JCB Nigeria (CFAO Equipment) |  |  | 234 1 835600 |  |
+| Sany Heavy Industry Nigeria |  | zhangzy36@sanygroup.com | +234 8024599244 |  |
+| XCMG Heavy Machinery Nigeria |  | engineering@xcmgheavy.com |  |  |
+| Mikano International (Power generators assembly) | sary dahra | recruitment@mikanomotors.com | 07011121314 | [sary dahra](https://ng.linkedin.com/in/sary-dahra-918a09201) |
+| Jubaili Bros Nigeria Limited (Diesel generator assembly) |  | info@jubaili.com |  |  |
+| Marapco Power Generators Nigeria |  | sales@marapco.com | +2348030733049 |  |
+| FG Wilson Nigeria (Cummins / Caterpillar) |  |  | 08103286814 |  |
+| Cummins West Africa Limited | mayowa famakinwa | mobolaji.adeyemi@cummins.com | +234 (0) 1291 9295 | [mayowa famakinwa](https://ng.linkedin.com/in/mayowa-famakinwa-44a06861) |
+| Olam Agri Nigeria (Grains, animal feed, wheat milling) | Dhananjay Deshmukh | ir@olamnet.com | +2348039588069 | [Dhananjay Deshmukh](https://ng.linkedin.com/in/dhananjay-deshmukh-007b49a8) |
+| Presco Plc (Oil palm plantations - Obaretin, Cowan, Edo/Delta) |  | presco@siat-group.com | +234-803-413-4444 |  |
+| The Okomu Oil Palm Company Plc (Ovia, Edo State) | Neels Brits | lagosoffice@okomunigeria.com | +234 806 036 1068 | [Neels Brits](https://ng.linkedin.com/in/neels-brits-5670053b) |
+| PZ Wilmar Limited (Palm oil plantations, Calabar, Cross River) | Michael Akinmoju | ookolo@pzwilmar.com | 08007994562 | [Michael Akinmoju](https://ng.linkedin.com/in/michael-akinmoju-mba-b-eng-17229424) |
+| Ellah Lakes Plc | Geraldine Ofoluwa MBA FCA | info@ellahlakes.com |  | [Geraldine Ofoluwa MBA FCA](https://ng.linkedin.com/in/geraldine-ofoluwa-mba-fca-15855910) |
