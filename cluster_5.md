@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 450 Organizations
+**Total Records**: 480 Organizations
 
 ---
 
@@ -457,3 +457,33 @@
 | Lagos Marriott Hotel Ikeja (Mac-Folly Hospitality / SIFAX Group) | Joseph Ameh |  | +234 913 814 6920 | [Joseph Ameh](https://ng.linkedin.com/in/joseph-ameh-bb8b5b16) |
 | Sheraton Abuja Hotel (Abuja Continental Hotel) | Jens Jarl Broe | info@abujacontinental.com | +234 02094612000 | [Jens Jarl Broe](https://dk.linkedin.com/in/jensjarl) |
 | Four Points by Sheraton Lagos (Lekki) | Stephen Ogbiniki | sales.lagos@fourpointslagos.com | 09053892598 | [Stephen Ogbiniki](https://ng.linkedin.com/in/stephen-ogbiniki-110a05180) |
+| The George Hotel (Ikoyi) | Bruce Walker | reservations@thegeorgelagos.com | +234 201 466 3664 | [Bruce Walker](https://ng.linkedin.com/in/brucewillwalker) |
+| Federal Palace Hotel & Casino (Sun International / Victoria Island) |  | reservations@federalpalace.com | 01 2779000 |  |
+| Fraser Suites Abuja |  | reservations.abuja@frasershospitality.com | +234 813 988 8888 |  |
+| Hawthorn Suites by Wyndham Abuja | Damian Nwovu | reservation@hawthorn.com.ng | +2348096397468 | [Damian Nwovu](https://ng.linkedin.com/in/damian-nwovu-3a7a8a236) |
+| BON Hotel International Nigeria (BON Hotel Elvis, BON Hotel Stratton) |  | info@bonhotels.com | +234 903 005 1347 |  |
+| Protea Hotel by Marriott Ikeja Select |  | info@proteahotels.com | +234 1 631 0250 |  |
+| Protea Hotel by Marriott Kuramo Waters | Akinkunmi Adegunju |  | +234 705 301 0436 | [Akinkunmi Adegunju](https://ng.linkedin.com/in/akinkunmi-adegunju-093b18128) |
+| Protea Hotel Delta (Warri) | Gbechoevi Benoit | info@proteahotels.com | +234 806-8700306 | [Gbechoevi Benoit](https://ng.linkedin.com/in/gbechoevi-benoit-75469612) |
+| Protea Hotel Owerri Select | Fortune Chikwe |  | +234 916-9987904 | [Fortune Chikwe](https://ng.linkedin.com/in/fortune-chikwe-1b773622b) |
+| Golden Tulip Essential Lagos Airport | Tonia F | info@airportgoldentulip.com | 234 81-5700-3333 | [Tonia F](https://ng.linkedin.com/in/tonia-f-20145a74) |
+| Golden Tulip Port Harcourt Hotel | Patrick Akaeze | reservations@GoldentulipPortharcourt.com | 2347025844061 | [Patrick Akaeze](https://ng.linkedin.com/in/patrick-akaeze-bsc-msc-77546145) |
+| Golden Tulip Festac Lagos | Modupe Bello | info@goldentulipfestaclagos.com | 234 1-279 2980 | [Modupe Bello](https://ng.linkedin.com/in/modupe-bello-a9797819b) |
+| Swiss Spirit Hotel & Suites Alisa (Ikeja) |  |  |  |  |
+| Swiss Spirit Hotel Danag (Port Harcourt) | Saviour Ikpi | reception.danag@swissspirithotels.com | 234 908-723-5622 | [Saviour Ikpi](https://ng.linkedin.com/in/saviour-ikpi-4b0b0931) |
+| Ibis Hotel Lagos Airport | Evamena Buwa | H7577-re@accor.com | +234 201 277 7888 | [Evamena Buwa](https://ng.linkedin.com/in/evamena-buwa-143321151) |
+| Novotel Port Harcourt (Accor Group) | Vivian Ebiri | h5465-fo@accor.com | +234 916 486 1085 | [Vivian Ebiri](https://ng.linkedin.com/in/vivian-ebiri) |
+| Le Méridien Ibom Hotel & Golf Resort (Ibom Hotel / Uyo) | Shola Atake | reservations@ibomhotelandgolfresort.com | +234 7080660000 | [Shola Atake](https://ng.linkedin.com/in/shola-atake-69a5926) |
+| Monty Suites (Calabar, Uyo) | Prince Ebonguko | reservations.uyo@montysuites.com | 07038091700 | [Prince Ebonguko](https://ng.linkedin.com/in/prince-ebonguko) |
+| Transcorp Hotels Calabar | Austine Egrinya Okweche I | info@transcorphotelsplc.com | +234 806 690 0009 | [Austine Egrinya Okweche I](https://ng.linkedin.com/in/austine-egrinya-okweche-i-b7741575) |
+| Amber Residence (Ikeja GRA) | Kenneth Justine | info@amberresidenceng.com | +2349033789113 | [Kenneth Justine](https://ng.linkedin.com/in/kenneth-justine-290488268) |
+| Moorhouse Ikoyi (Accor Group) | Augustine Azubule | reservations@themoorhousehotel.com | +2349134445260 | [Augustine Azubule](https://ng.linkedin.com/in/augustine-azubule-91124b112) |
+| Southern Sun Ikoyi Hotel (Southern Sun Group) | Prince John Madojemu |  |  | [Prince John Madojemu](https://ng.linkedin.com/in/prince-john-madojemu-b99579151) |
+| Bristol Palace Hotel (Kano) |  |  | 08038049763 |  |
+| Tahir Guest Palace (Kano) | Tijjani YAHAYA | s@tahirguestpalace.com | +234 805 777 0001 | [Tijjani YAHAYA](https://ng.linkedin.com/in/tijjani-yahaya-70b9457b) |
+| Grand Towers Hotel (Abuja) |  | reservations@grandtowershotel.com | 234 9783 0946 |  |
+| Wells Carlton Hotel & Luxury Apartments (Abuja) |  | reservations@wellscarlton.com | +234 911 128 5300 |  |
+| Nordic Hotel Abuja | Christine N. | info@nordichotelsnigeria.com | +234 809 994 4480 | [Christine N.](https://ng.linkedin.com/in/christine-n-1a9141b) |
+| Nordic Villa Abuja | Shashank Gupta | info@thenordicvilla.com | +234 909 677 6766 | [Shashank Gupta](https://ng.linkedin.com/in/shashankguptagm) |
+| Bolton White Hotel (Abuja) | Kingsley C. Obiukwu | info@boltonwhitehotel.com | +234 707 482 5096 | [Kingsley C. Obiukwu](https://ng.linkedin.com/in/kingsley-c-obiukwu-881a0273) |
+| Chelsea Hotel (Abuja) | Austine Odigie |  |  | [Austine Odigie](https://ng.linkedin.com/in/austine-odigie-ab796184) |
