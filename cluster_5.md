@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 300 Organizations
+**Total Records**: 330 Organizations
 
 ---
 
@@ -307,3 +307,33 @@
 | CWG Plc (Computer Warehouse Group) | Wesley Nwajinne |  | +2349133753983 | [Wesley Nwajinne](https://ng.linkedin.com/in/wesley-nwajinne-b7a1a113a) |
 | Chams Holding Company Plc | Mayowa Olaniyan |  | +234 1 453 6526 | [Mayowa Olaniyan](https://ng.linkedin.com/in/mayowa-olaniyan-) |
 | Transtecno Nigeria Limited |  | sales@transtecno.com | 07054050057 |  |
+| Omatek Ventures Plc | femi lamina | yemi.ogundipe@omatekcomputers.com | 234-8033081736 | [femi lamina](https://ng.linkedin.com/in/femi-lamina-585537107) |
+| Zinox Technologies Limited (Zinox Computers) | Kelechi Eze-Okonta | enquiries@zinoxtechnologies.com | +234(0)9111327983 | [Kelechi Eze-Okonta](https://ng.linkedin.com/in/kelechi-eze-okonta-4a802516) |
+| Task Systems Limited (Technology Distributions / TD Africa) | Kelvin Amatokwu | olatunji@tasksystems.com | 2348129851112 | [Kelvin Amatokwu](https://ng.linkedin.com/in/kelvin-amatokwu-686146187) |
+| TD Africa (Technology Distributions Limited) | CHARLES ADIGWE | tdmarketing@tdafrica.com | 09029174191 | [CHARLES ADIGWE](https://ng.linkedin.com/in/charles-adigwe-04a7a6329) |
+| Redington Gulf Nigeria | Peter Okemiri | SupportB2C@redingtongroup.com | +234-1-4523989 | [Peter Okemiri](https://ng.linkedin.com/in/peter-okemiri-5263928b) |
+| Mitsumi Distribution Nigeria Limited |  | dipen@mitsumigulf.com |  |  |
+| Coscharis Technologies Limited | Oke Okpariere | Info@coscharis-tech.com | +234 701 584 2111 | [Oke Okpariere](https://ng.linkedin.com/in/oke-okpariere-035338254) |
+| Weco Systems International Limited | Peace Chiemena Igwe | wecosys@wecosysgroup.com | +234 1 453 1339 | [Peace Chiemena Igwe](https://ng.linkedin.com/in/peace-chiemena-igwe-66b79236) |
+| Resourcery Plc |  |  | 08098502256 |  |
+| InfoGraphics Nigeria Limited | Idorenyin Eddie | enquiries@infographicsnigeria.com | +234 17942055 | [Idorenyin Eddie](https://ng.linkedin.com/in/idorenyin-eddie-401a4937) |
+| DHL Express Nigeria Limited |  |  | 07033267925 |  |
+| DHL Global Forwarding Nigeria Limited |  |  | +2348025011834 |  |
+| DHL Supply Chain Nigeria Limited | Mosunmola Oduwole |  | +2348025011834 | [Mosunmola Oduwole](https://ng.linkedin.com/in/mosunmola-oduwole-95119586) |
+| FedEx Express Nigeria / Red Star Express Plc |  | enquiries@redstarplc.com | 01-2715670 |  |
+| UPS Nigeria Limited (United Parcel Service) | Kordy Agubata |  | +234 907 777 0573 | [Kordy Agubata](https://ng.linkedin.com/in/kordy-agubata-4550921b) |
+| Africa Global Logistics Nigeria (AGL / formerly Bolloré Transport & Logistics) |  |  | +234 916 344 4472 |  |
+| Maersk Nigeria Limited (A.P. Moller - Maersk) | Ayodeji Olalere | ng.export@maersk.com | +234 901 000 1888 | [Ayodeji Olalere](https://ng.linkedin.com/in/ayomilere) |
+| APM Terminals Apapa Limited | Chinyere Adenaike, CIA, CSCP |  |  | [Chinyere Adenaike, CIA, CSCP](https://ng.linkedin.com/in/chinyere-adenaike-cia-cscp-33026b74) |
+| West Africa Container Terminal (WACT / Onne Port) | Lanre Tijani | customercare@apmterminals.com | +234 9070488812 | [Lanre Tijani](https://ng.linkedin.com/in/lanre-tijani-aba663215) |
+| Tin Can Island Container Terminal (TICT) | Ndukuba Okereke |  |  | [Ndukuba Okereke](https://ng.linkedin.com/in/ndukuba-okereke-74369b38) |
+| Ports & Cargo Handling Services Limited (Sifax Group) | Boma Ukwunna |  | +234-08105376816 | [Boma Ukwunna](https://ng.linkedin.com/in/boma-ukwunna-7a4ba528a) |
+| Port & Terminal Multiservices Limited (PTML / Grimaldi Agency Nigeria) |  |  |  |  |
+| Grimaldi Agency Nigeria Limited | Nitin Senan |  | +234 1 2790 880 | [Nitin Senan](https://ng.linkedin.com/in/nitinsenan) |
+| CMA CGM Nigeria Shipping Limited | Ramesh Saraf | Nga.service@cma-cgm.com | +2342017002758 | [Ramesh Saraf](https://ng.linkedin.com/in/ramesh-saraf) |
+| Mediterranean Shipping Company Nigeria (MSC) | Lawrence Peter Chukwuemeka | nga-info@msc.com | +234 8139862340 | [Lawrence Peter Chukwuemeka](https://ng.linkedin.com/in/lawrence-peter-chukwuemeka-7b53a8359) |
+| Hapag-Lloyd Nigeria Shipping Limited | Pandian sehar | Nigeria@service.hlag.com | +234 201 9030092 | [Pandian sehar](https://ng.linkedin.com/in/pandian-sehar-0a065970) |
+| Ocean Network Express Nigeria (ONE) | Stefan Pedersen |  |  | [Stefan Pedersen](https://ng.linkedin.com/in/stefan-pedersen-4779a3116) |
+| COSCO Shipping Lines Nigeria Limited | blessing omeje | o@coscon.com | +234 815 979 4404 | [blessing omeje](https://ng.linkedin.com/in/blessing-omeje-765687139) |
+| Pacific International Lines Nigeria (PIL) | Kehinde Olubi-Neye | gosi@lag.pilship.com | 234-8172241769 | [Kehinde Olubi-Neye](https://ng.linkedin.com/in/kehinde-olubi-neye-3ab19923) |
+| Arkas Line Nigeria |  | infonigeria@arkas.com | 234 803 411 0111 |  |
