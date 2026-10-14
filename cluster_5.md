@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 90 Organizations
+**Total Records**: 120 Organizations
 
 ---
 
@@ -97,3 +97,33 @@
 | Leventis Group (A.G. Leventis Nigeria Plc) | Ahmed Mantey Leventis Group | info@leventis.org.cy | +234800-055-5555 | [Ahmed Mantey Leventis Group](https://ng.linkedin.com/in/ahmed-mantey-leventis-group-2578936b) |
 | Chellarams Plc | suhas kulkarni | info@chellaramsplc.com | 017733838 | [suhas kulkarni](https://ng.linkedin.com/in/suhas-kulkarni-649bb44b) |
 | Stallion Group Nigeria | godfrey oshogwe |  | +234 907 777 0573 | [godfrey oshogwe](https://ng.linkedin.com/in/godfrey-oshogwe-5a659087) |
+| Coscharis Group | Joseph Anyanwu |  |  | [Joseph Anyanwu](https://ng.linkedin.com/in/joseph-anyanwu-421a6818a) |
+| Honeywell Group | Obafemi Otudeko | contact@honeywellgroup.com | +234 1 290 0525 | [Obafemi Otudeko](https://ng.linkedin.com/in/obafemi-otudeko) |
+| Sahara Group | Kola Adesina | sahara@sahara-group.com | +234 1 279 3800 | [Kola Adesina](https://ng.linkedin.com/in/kola-adesina-5b79134b) |
+| Sifax Group | Ayobami Ogunniran | info@sifaxgroup.com | 234 (0) 810 5364 016 | [Ayobami Ogunniran](https://ng.linkedin.com/in/ayobami-ogunniran-b5180a1b5) |
+| Jagal Group | Kola Oyekunle |  | +234 (0) 703 401 2942 | [Kola Oyekunle](https://ng.linkedin.com/in/kola-oyekunle-83a47146) |
+| Chagoury Group | Elvis Uwakwe |  | +234 23412618682 | [Elvis Uwakwe](https://ng.linkedin.com/in/elvis-uwakwe-116505a3) |
+| Tolaram Group Nigeria | Chetan Katarki | info@tolaram.com |  | [Chetan Katarki](https://ng.linkedin.com/in/chethan-katarki) |
+| TGI Group (Tropical General Investments) | Rahul Savara | enquiries@clicktgi.net | +234 201 7003000 | [Rahul Savara](https://ng.linkedin.com/in/rahul-savara-66b8a25) |
+| Sona Group of Industries |  | info@sonagroupnig.com |  |  |
+| Boulos Enterprises Limited |  |  |  |  |
+| Kewalram Chanrai Group | Sudeep Mittal | cust.support@kewalramnigeria.com | +234 7019980503 | [Sudeep Mittal](https://ng.linkedin.com/in/sudeep-mittal-a0019428) |
+| Bhojsons Group |  | bhojsons@bhojsonsgroup.com | +234 70024657667 |  |
+| Inlaks Group | Ashwin Hegde, ACMA | info@inlaks.com | +234-01-2801060 | [Ashwin Hegde, ACMA](https://ng.linkedin.com/in/hegde-ashwin) |
+| Churchgate Group | Vinay Mahtani | enquiry@churchgate.com | +234 703 000 7779 | [Vinay Mahtani](https://ng.linkedin.com/in/vbmahtani) |
+| C&I Leasing Group | Abdul-Jalil Ikhuoriah | info@c-ileasing.com | +2349062979243 | [Abdul-Jalil Ikhuoriah](https://ng.linkedin.com/in/abdul-jalil-ikhuoriah-1252a111b) |
+| Vigeo Group |  |  |  |  |
+| DDP Group (Dizengoff West Africa) |  | info@developmentdelivery.com | 08033159506 |  |
+| Mandilas Group Limited | Ola Debayo-Doherty | mandilas@mandilasng.com | 07001235656 | [Ola Debayo-Doherty](https://ng.linkedin.com/in/oladebayodoherty) |
+| Elizade Group | Demola Ade-Ojo | info@elizade.net | +234-7082424087 | [Demola Ade-Ojo](https://ng.linkedin.com/in/demola-ade-ojo-596531171) |
+| Lanre Shittu Group |  | lanreshittu@lanreshittu.com | +2347035708647 |  |
+| Globe Motors Group |  |  | 08023423438 |  |
+| Innoson Group (IVM) | Sopulu Charity | Sales@innosonmotors.com | 07049087160 | [Sopulu Charity](https://ng.linkedin.com/in/sopulu-charity-631b9717b) |
+| Chicason Group (Africana First Publishers, RIMCO, A-Z) | Chukwuma Uti | info@chicasongroup.com |  | [Chukwuma Uti](https://ng.linkedin.com/in/chukwuma-uti-859286191) |
+| Ekene Dili Chukwu Group |  |  | 234 046-210529 |  |
+| Chisco Group | felix ubani | customer.care@chiscogroupng.com | +234 810 651 7669 | [felix ubani](https://ng.linkedin.com/in/felix-ubani-448411110) |
+| Young Shall Grow Group |  | info@ysgtransport.ng | 01-4531091 |  |
+| ABC Transport Group | Okwunesene Emmanuel | info@abctransport.com | 2348139862090 | [Okwunesene Emmanuel](https://ng.linkedin.com/in/okwunesene-emmanuel-411b7a232) |
+| Peace Mass Transit Group | Cornelius Ejike | hr@peacegroup.ng | +2347007322362 | [Cornelius Ejike](https://ng.linkedin.com/in/cornelius-ejike-889271b2) |
+| GIG Group (God Is Good Group / GIG Mobility, GIGL) | Lanre Ayoade EICP, MBA, M.Sc | hireX@thegiggroupng.com | +234 812 751 3074 | [Lanre Ayoade EICP, MBA, M.Sc](https://ng.linkedin.com/in/lanreayoade) |
+| Saroafrica International Group |  | DPO@saroafrica.com | +234 02016311110 |  |
