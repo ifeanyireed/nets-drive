@@ -1,7 +1,7 @@
 # Cluster 2: High-HSE Field Crews & Energy Operations
 ### Compliant Journey Management for Oil & Gas, Upstream Services, Mining & Infrastructure
 
-**Total Records**: 300 Organizations
+**Total Records**: 330 Organizations
 
 ---
 
@@ -307,3 +307,33 @@
 | Geregu Power Plc (Femi Otedola / Ajaokuta) | Rofiyat Musa | info@geregupowerplc.com |  | [Rofiyat Musa](https://ng.linkedin.com/in/rofiyat-musa-46836633) |
 | Azura-Edo Independent Power Project (Azura Power West Africa) | Nana-Fatimat Ilavbare. IGC, IRCA. | info@azurapower.com |  | [Nana-Fatimat Ilavbare. IGC, IRCA.](https://ng.linkedin.com/in/nana-fatimat-ilavbare-igc-irca-b0389b95) |
 | Shiroro Hydroelectric Power Station (North South Power Company Limited) | Johnson omachonu | info@northsouthpower.com | +234 (0) 90 291 8045 | [Johnson omachonu](https://ng.linkedin.com/in/johnson-omachonu-5350782a8) |
+| Kainji Hydroelectric Power Station (Mainstream Energy Solutions Limited) | Mohammed Ibrahim Aliyu | tianyuan@powerchina-intl.com |  | [Mohammed Ibrahim Aliyu](https://ng.linkedin.com/in/mohammed-ibrahim-aliyu-92034492) |
+| Jebba Hydroelectric Power Station (Mainstream Energy Solutions) | Saheed Omilude |  |  | [Saheed Omilude](https://ng.linkedin.com/in/saheed-omilude) |
+| Zungeru Hydroelectric Power Plant | Toye Ogundoyin | info@zungeruhpp.com.ng | +234 803 958 3896 | [Toye Ogundoyin](https://ng.linkedin.com/in/toye-ogundoyin-673b6982) |
+| Dadin Kowa Hydroelectric Power Plant (Mambilla corridor) |  |  |  |  |
+| Sapele Power Plc (Eurafric Energy) | Ramashray Sharma | isah@sapelepower.com | +234-916-997-5978 | [Ramashray Sharma](https://ng.linkedin.com/in/ramashraysharma) |
+| Omotosho Power Generation Company Limited (NDPHC) |  |  | +234 14533391 |  |
+| Olorunsogo Power Generation Company Limited (NDPHC) |  | cpr@ndphc.net | 08171948543 |  |
+| Alaoji Power Generation Company Limited (NDPHC) |  |  |  |  |
+| Ihovbor Power Generation Company Limited (NDPHC) |  | commercial@ndphc.net | +234-916-997-5978 |  |
+| Calabar Power Generation Company Limited (NDPHC) | CHINEDU DURU EGENTI |  |  | [CHINEDU DURU EGENTI](https://ng.linkedin.com/in/chinedu-duru-egenti-a0623857) |
+| Gbarain Power Generation Company Limited (NDPHC) |  |  |  |  |
+| Egbema Power Generation Company Limited (NDPHC) | Prince Botchway |  | 08051531671 | [Prince Botchway](https://gh.linkedin.com/in/prince-botchway-8308802a) |
+| Niger Delta Power Holding Company Limited (NDPHC / NIPP) | Nkemdi Okechukwu CMILT MSc BA | cpr@ndphc.net | +234 815 5888 806 | [Nkemdi Okechukwu CMILT MSc BA](https://ng.linkedin.com/in/nkemdi-okechukwu-cmilt-msc-ba-ab011b145) |
+| Geometric Power Limited (Aba Power Project / Professor Barth Nnaji) | Adeniyi Adebiyi MSC, PFM, CAM | info@geometricpower.com | +2347069966155 | [Adeniyi Adebiyi MSC, PFM, CAM](https://ng.linkedin.com/in/adeniyi-adebiyi-msc-pfm-cam-957900109) |
+| Aba Power Limited Electric (APLE) | Michael Kanu | info@abapower.com | +234 909 186 6376 | [Michael Kanu](https://ng.linkedin.com/in/michael-kanu-32966a111) |
+| Starsight Energy Nigeria | Muphtau Badmus | sales@starsightenergy.com | +234 (0) 703 976 6163 | [Muphtau Badmus](https://ng.linkedin.com/in/muphtau-badmus-b0854727) |
+| Daystar Power Group (Shell New Energies) | Ologun Olanrewaju Henry | hello@daystar-power.com | +2347074838363 | [Ologun Olanrewaju Henry](https://ng.linkedin.com/in/ologun-olanrewaju-henry-34541526) |
+| Rensource Energy Limited | Juliet Micah | info@rensource.energy | +234 901 474 5515 | [Juliet Micah](https://ng.linkedin.com/in/juliet-micah-a05ab7198) |
+| Arnergy Solar Limited | umukoro ovie george |  |  | [umukoro ovie george](https://ng.linkedin.com/in/umukoro-ovie-george-341460102) |
+| Auxano Solar Nigeria Limited | Charity Udo ACA,B.SC,FMVA, BIDA, MBA | info@auxanosolar.com |  | [Charity Udo ACA,B.SC,FMVA, BIDA, MBA](https://ng.linkedin.com/in/charity-udo-oriekeaca) |
+| Consistent Energy Limited | JATINDER BHARDWAJ | info@consistent-energy.com | 08096940632 | [JATINDER BHARDWAJ](https://ng.linkedin.com/in/jatinder-bhardwaj-88670a27) |
+| Rubitec Solar Limited | Oluwasegun Oyeyemi | info@rubitecsolar.com | +2347087054296 | [Oluwasegun Oyeyemi](https://ng.linkedin.com/in/oluwasegun-oyeyemi-6a9150138) |
+| Havenhill Synergy Limited | Oluwatobi Soyombo | info@havenhillsynergy.com | +2347063803881 | [Oluwatobi Soyombo](https://ng.linkedin.com/in/oluwatobisoyombo) |
+| Husk Power Systems Nigeria | Wildcard Synergies | info@huskpowersystems.com |  | [Wildcard Synergies](https://ng.linkedin.com/in/wildcard-synergies-09939286) |
+| GVE Projects Limited (Green Village Electricity) | Shalom Shebrah | Info@gve-group.com | 234 909 222 7483 | [Shalom Shebrah](https://ng.linkedin.com/in/shalom-shebrah-415714131) |
+| All On Innovations Limited (Shell-funded off-grid impact fund) |  | communications@all-on.com | +234-805-140-3056 |  |
+| Rural Electrification Agency (REA Nigeria) |  | nep@rea.gov.ng | +2348112494040 |  |
+| Schneider Electric Nigeria Limited | Abubakar Sayi | ccc.nigeria@schneider-electric.com | +234 (0) 12778311 | [Abubakar Sayi](https://ng.linkedin.com/in/abubakarsayi) |
+| Siemens Energy Nigeria Limited | Yusuf Maihaja | support@siemens-energy.com | +234-8029029027 | [Yusuf Maihaja](https://ng.linkedin.com/in/yusuf-maihaja-80b08481) |
+| ABB Power Technologies Nigeria Limited |  | abbng@ng.abb.com | +234 1 700 5669 |  |
