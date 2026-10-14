@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 330 Organizations
+**Total Records**: 360 Organizations
 
 ---
 
@@ -337,3 +337,33 @@
 | COSCO Shipping Lines Nigeria Limited | blessing omeje | o@coscon.com | +234 815 979 4404 | [blessing omeje](https://ng.linkedin.com/in/blessing-omeje-765687139) |
 | Pacific International Lines Nigeria (PIL) | Kehinde Olubi-Neye | gosi@lag.pilship.com | 234-8172241769 | [Kehinde Olubi-Neye](https://ng.linkedin.com/in/kehinde-olubi-neye-3ab19923) |
 | Arkas Line Nigeria |  | infonigeria@arkas.com | 234 803 411 0111 |  |
+| GAC Shipping Nigeria Limited (Gulf Agency Company) | Oluwafemi Oreagba | nigeria@gac.com | +2342012910303 | [Oluwafemi Oreagba](https://ng.linkedin.com/in/oluwafemi-oreagba-mcips-acism-a1427175) |
+| Hull Blyth Nigeria Limited | Emmanuel Nwagboso | multiport.nigeria@hull-blyth.com | +234 803 411 0111 | [Emmanuel Nwagboso](https://ng.linkedin.com/in/emmanuel-nwagboso-58a07970) |
+| Sharaf Shipping Agency Nigeria |  |  | +234 9073622217 |  |
+| Alraine Shipping Nigeria Limited |  |  | +234 813 501 0778 |  |
+| Brawal Shipping Nigeria Limited |  | info@brawaloilserviceslimited.com | +234 802 3354 261 |  |
+| Comet Shipping Agencies Nigeria Limited | Abdulikanire Mallam Joel | info@cometshipping.com | +234-815-9794404 | [Abdulikanire Mallam Joel](https://ng.linkedin.com/in/abdulikanire-mallam-joel-a4319425) |
+| GMT Nigeria Limited (Inland Logistics & Supply Chain) | apo nathaniel | ayman.laz@gmt-limited.com |  | [apo nathaniel](https://ng.linkedin.com/in/apo-nathaniel-510073302) |
+| Lilypond Container Depot (Ijora) | Festus Agholor |  |  | [Festus Agholor](https://ng.linkedin.com/in/festus-agholor-5103927a) |
+| Kaduna Inland Dry Port (KIDP) | Oladapo Obateru | info@kadunainlanddryport.net | +234 (0) 701 683 6812 | [Oladapo Obateru](https://ng.linkedin.com/in/oladapo-obateru-a08751b5) |
+| Dala Inland Dry Port (Kano) | Ahmad RABIU |  | +234 803 304 2209 | [Ahmad RABIU](https://ng.linkedin.com/in/ahmad-rabiu-015682243) |
+| Isiala Ngwa Inland Dry Port (Abia State) |  | nigeriatp@fmiti.gov.ng | 08062928373 |  |
+| Funtua Inland Dry Port (Katsina) | Bello Yahaya |  | 08032826869 | [Bello Yahaya](https://ng.linkedin.com/in/bello-yahaya-ba7822242) |
+| Lekki Freeport Terminal (CMA CGM / Lekki Deep Sea Port) | Oluyinka Oseni Sofoluke |  |  | [Oluyinka Oseni Sofoluke](https://ng.linkedin.com/in/oluyinka-oseni-sofoluke-) |
+| Badagry Port Development Project | Zara Ndiomu |  | +234 08024175445 | [Zara Ndiomu](https://nl.linkedin.com/in/zara-ndiomu-5b85bb193) |
+| Nigerian Ports Authority (NPA) | Seyi ogabi | info@nigerianports.gov.ng | 08168975311 | [Seyi ogabi](https://ng.linkedin.com/in/seyi-ogabi-88589b74) |
+| Nigerian Shippers' Council (NSC) | Akin Makinde | nsc@shipperscouncil.gov.ng | +234(0) 8110516130 | [Akin Makinde](https://ng.linkedin.com/in/akin-makinde-68425013) |
+| Nigerian Maritime Administration and Safety Agency (NIMASA) | Christopher Aondoakaa | info@nimasa.gov.ng | +234 02016309590 | [Christopher Aondoakaa](https://ng.linkedin.com/in/christopher-aondoakaa-80948719) |
+| National Inland Waterways Authority (NIWA) | Adedotun Femi | info@niwa.gov.ng | +234 913 165 5053 | [Adedotun Femi](https://ng.linkedin.com/in/adedotun-femi-7164b117b) |
+| GIG Logistics (GIGL / GIG Group) | Folarin Fabamise | info@giglogistics.com | +234 707 756 6565 | [Folarin Fabamise](https://ng.linkedin.com/in/folarin-fabamise-228b4724b) |
+| Kwik Delivery (Africa Delivery Technologies) | Chukwuebuka Umelo | support@kwik.delivery | 013438198 | [Chukwuebuka Umelo](https://ng.linkedin.com/in/umelo-chukwuebuka) |
+| Speedaf Express Nigeria (Alibaba Logistics Partner) | Victor Ayangbile | Nigeria.info@speedaf.com | 08000707070 | [Victor Ayangbile](https://ng.linkedin.com/in/victor-ayangbile-40582b8a) |
+| Courier Plus Services Limited | ayobami olumide | info@courierplus-ng.com | +234 703 307 4129 | [ayobami olumide](https://ng.linkedin.com/in/ayobami-olumide-b32583279) |
+| Tranex (Trans-Nationwide Express Plc) |  | careers@tranex-ng.com | 08123682573 |  |
+| IAS Courier Nigeria Limited |  | info@asis.ng | +234 1 2640285 |  |
+| ABC Cargo and Logistics |  |  | 08142552445 |  |
+| Chisco Logistics | Dr. Emmanuel Fergusson | care@chiscogroupng.com | +234 812 745 7005 | [Dr. Emmanuel Fergusson](https://ng.linkedin.com/in/dr-emmanuel-fergusson-m-sc-mlscm-fcilscm-cscmp-dfciwm-8a6b4873) |
+| Young Shall Grow Logistics |  | info@ysgtransport.ng | +234906-254-7089 |  |
+| Ifesinachi Logistics |  | info@ifexexpressnig.com | +234 803 332 1046 |  |
+| GUO Transport Logistics |  |  |  |  |
+| Peace Mass Logistics |  | hr@peacegroup.ng | +2347007322362 |  |
