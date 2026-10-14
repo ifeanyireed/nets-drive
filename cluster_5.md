@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 120 Organizations
+**Total Records**: 150 Organizations
 
 ---
 
@@ -127,3 +127,33 @@
 | Peace Mass Transit Group | Cornelius Ejike | hr@peacegroup.ng | +2347007322362 | [Cornelius Ejike](https://ng.linkedin.com/in/cornelius-ejike-889271b2) |
 | GIG Group (God Is Good Group / GIG Mobility, GIGL) | Lanre Ayoade EICP, MBA, M.Sc | hireX@thegiggroupng.com | +234 812 751 3074 | [Lanre Ayoade EICP, MBA, M.Sc](https://ng.linkedin.com/in/lanreayoade) |
 | Saroafrica International Group |  | DPO@saroafrica.com | +234 02016311110 |  |
+| Mamuda Group |  | hassan@mamudagroup.it | +234 8024040432 |  |
+| Doyin Group of Companies | Yemi Adedoyin | doyin@nunode.com | +234 23412621911 | [Yemi Adedoyin](https://ng.linkedin.com/in/yemi-adedoyin-a85b3886) |
+| Eleganza Group of Companies | Kenneth otagba | info@eleganzagroups.com | +234 (0) 818 019 9999 | [Kenneth otagba](https://ng.linkedin.com/in/kenneth-otagba-601a9135) |
+| Folawiyo Group (Yinka Folawiyo & Sons) | Olanrewaju Folawiyo |  |  | [Olanrewaju Folawiyo](https://ng.linkedin.com/in/olanrewaju-folawiyo-858679122) |
+| Odutola Holdings | Abdullahi Olayiwola |  | 08144941502 | [Abdullahi Olayiwola](https://ng.linkedin.com/in/abdullahi-olayiwola-a2585385) |
+| Ibru Organization |  | pr@ibru.org | +234 (0) 7066116031 |  |
+| Fajemirokun Group (Henry Stephens) | Opeyemi Esther |  | +234 906 254 7284 | [Opeyemi Esther](https://ng.linkedin.com/in/opeyemi-esther-256284233) |
+| Adeleke Group (Pacific Holdings) | Olanrewaju Adeleke |  |  | [Olanrewaju Adeleke](https://ng.linkedin.com/in/olanrewaju-adeleke) |
+| Dangote Sinotruk West Africa | Hikmat Thapa | ir@dangote.com | +234 1 448 0815 | [Hikmat Thapa](https://ng.linkedin.com/in/hikmat-thapa-244ab8399) |
+| Oriental Group (Indimi) | Tintu Ckurup |  |  | [Tintu Ckurup](https://ng.linkedin.com/in/tintu-ckurup-1ba5b0200) |
+| Atlas Group Nigeria |  | info@overflightnigeria.com | 23480955543 |  |
+| Orange Group (Orange Drugs & Diagnostics) | Chioma Luke |  | +234 702 799 8947 | [Chioma Luke](https://ng.linkedin.com/in/chioma-luke-b67b70169) |
+| Silverbird Group |  | info@silverbirdcinemas.com |  |  |
+| Daar Communications Plc | Eddie Emessiri |  | +234 907 777 0573 | [Eddie Emessiri](https://ng.linkedin.com/in/eddie-emessiri-bb4a1598) |
+| Channels Media Group | John Momoh |  | 08085322777 | [John Momoh](https://ng.linkedin.com/in/john-momoh-689a0616) |
+| Megalectrics Limited (Classic FM, The Beat FM, Naija FM) | Emmanuel Ashinaga | enquiries@megalectrics.com | +234 1 4631270 | [Emmanuel Ashinaga](https://ng.linkedin.com/in/emmanuel-ashinaga-6b3753202) |
+| AIM Group (Cool FM, Wazobia FM, Nigeria Info) | Luis Ado-Imoisili |  | +234 907 777 0573 | [Luis Ado-Imoisili](https://ng.linkedin.com/in/luis-ado-imoisili-079a014a) |
+| Landmark Africa Group | Elsie Peter | care@landmarkafrica.com | +234 906 688 2627 | [Elsie Peter](https://ng.linkedin.com/in/elsie-ogianyo) |
+| Eko Atlantic Management Group |  | info@ekoatlantic.com | 07031693045 |  |
+| ARM Group (Asset & Resource Management) | Ahmed Akinade | info@armgroup.net | 013305005 | [Ahmed Akinade](https://ng.linkedin.com/in/ahmed-akinade-1a815a9b) |
+| Julius Berger Nigeria Plc |  | info@julius-berger.com | 08039067000 |  |
+| Reynolds Construction Company Nigeria Limited (RCC / SBI) |  | john@rccnigeria.com | 234 1 2622293 |  |
+| Setraco Nigeria Limited |  |  | +234 907 490 4894 |  |
+| Dantata & Sawoe Construction Company Nigeria Limited | Dantata Nasiru | Info@dantata-sawoe.com | +234(0)8092555519 | [Dantata Nasiru](https://ng.linkedin.com/in/dantata-nasiru-607a1b117) |
+| Cappa and D'Alberto Limited | Antonino Falduto | capdal@capdal.com | +234 (0)902 322 0000 | [Antonino Falduto](https://ng.linkedin.com/in/antonino-falduto-60514511b) |
+| Arab Contractors O.A.O. Nigeria Limited |  |  |  |  |
+| CCECC Nigeria Limited (China Civil Engineering Construction Corp) | Suleiman Ahmed | ccecc-nigeria@ccecc.com.cn | 08095075130 | [Suleiman Ahmed](https://ng.linkedin.com/in/suleiman-ahmed-971b07287) |
+| Hitech Construction Company Limited |  |  | +234 802 904 9802 |  |
+| ITB Nigeria Limited | Ramzi Chidiac |  | +234 1 4638303 | [Ramzi Chidiac](https://ng.linkedin.com/in/ramzi-chidiac-2888ba146) |
+| El-Alan Construction Company Nigeria Limited | Ismail Abodunrin | info@elalan.com | +234 815 096 5387 | [Ismail Abodunrin](https://ng.linkedin.com/in/ismail-abodunrin-a02702131) |
