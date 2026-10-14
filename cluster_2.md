@@ -1,7 +1,7 @@
 # Cluster 2: High-HSE Field Crews & Energy Operations
 ### Compliant Journey Management for Oil & Gas, Upstream Services, Mining & Infrastructure
 
-**Total Records**: 60 Organizations
+**Total Records**: 90 Organizations
 
 ---
 
@@ -67,3 +67,33 @@
 | Guarantee Petroleum Company |  | info@guaranteepetroleum.com.ng | +234-802-291-4652 |  |
 | Walter Smith Modular Refinery Limited | Azuka Patrick Ebeh | info@waltersmithng.com | +234 (0) 91 393 827 | [Azuka Patrick Ebeh](https://ng.linkedin.com/in/azuka-patrick-ebeh-454094103) |
 | Dangote Petroleum Refinery and Petrochemicals | Rita Nnadike | pet-refinery.sales@dangote.com | +234 707 470 2099 | [Rita Nnadike](https://ng.linkedin.com/in/rita-nnadike-9bbbb8168) |
+| BUA Petroleum Refinery |  | info@buafoodsplc.com | +234 201 461 0669 |  |
+| Edo Refinery and Petrochemicals Company | Olowofoyeku kayode | dosime@aipccenergy.com |  | [Olowofoyeku kayode](https://ng.linkedin.com/in/olowofoyeku-kayode-54b18118b) |
+| Duport Midstream Company Limited | chima martins | info@duportmidstream.com | 08025758615 | [chima martins](https://ng.linkedin.com/in/chima-martins-7a390a66) |
+| OPAC Refineries Limited | Ifeanyichukwu Chukwumah, MSc  , MBA, MISPON ... | info@omsaservices.com | +234 906 861 5040 | [Ifeanyichukwu Chukwumah, MSc  , MBA, MISPON ...](https://ng.linkedin.com/in/ifeanyichukwu-chukwumah-msc-ohse-mba-mispon-massp-079baa51) |
+| Port Harcourt Refining Company (PHRC / NNPC) | Chintua Chisom | info@arphl.com | +234 809 283 2322 | [Chintua Chisom](https://ng.linkedin.com/in/chintua-chisom-2782a4146) |
+| Warri Refining and Petrochemical Company (WRPC) | Biodun Ajayi | info@mbrefinery.com | +2348061267699 | [Biodun Ajayi](https://ng.linkedin.com/in/biodun-ajayi-50066b31) |
+| Kaduna Refining and Petrochemical Company (KRPC) | ADIE PIUS OBURUKU |  | +2348037250194 | [ADIE PIUS OBURUKU](https://ng.linkedin.com/in/adie-pius-oburuku-6b801b26a) |
+| National Petroleum Investment Management Services (NAPIMS / NUIMS) | Mohammed Alhaji Baba | info@napims.com | +234 209 460 8100 | [Mohammed Alhaji Baba](https://ng.linkedin.com/in/mohammed-alhaji-baba-5a8b6554) |
+| Integrated Data Services Limited (IDSL / NNPC) | Allanah Chris |  | 234 1 2557120 | [Allanah Chris](https://ng.linkedin.com/in/allanah-chris-04418a168) |
+| Nigerian Petroleum Development Company (NPDC / NEPL) |  |  | +234 8139875697 |  |
+| National Engineering and Technical Company (NETCO) | Engr Femi Ariba MNSE. MCIPSN . Fellow IMC | netco.enquiries@nnpcgroup.com | +234 (0)1-2718840 | [Engr Femi Ariba MNSE. MCIPSN . Fellow IMC](https://ng.linkedin.com/in/engr-femi-ariba-mnse-mcipsn-chartered-fellow-imc-759bb228) |
+| Duke Oil Company Limited | Bankole Akindele | nnpctradingltd@nnpcgroup.com |  | [Bankole Akindele](https://ca.linkedin.com/in/bankole-adeniyi-akindele) |
+| Brass Fertilizer & Petrochemical Company |  | info@brassfertilizer.com | +234 916 000 0125 |  |
+| Indorama Eleme Petrochemicals Limited | Amenya Loveday | iplmarketing@ng.indorama.com | 08055148645 | [Amenya Loveday](https://ng.linkedin.com/in/amenya-loveday-5b6497242) |
+| Notore Chemical Industries Plc | Olalekan Odujobi |  | +234 907 777 0573 | [Olalekan Odujobi](https://ng.linkedin.com/in/olalekan-odujobi-741a5925) |
+| Greenville LNG | Sadaqat ali | careers@greenvillelng.com |  | [Sadaqat ali](https://ng.linkedin.com/in/sadaqat-ali-072747194) |
+| Axxela Limited (formerly Oando Gas & Power) | Abimbola Olumide-Zechariah PMP | enquiries@axxelagroup.com | +234 2012700035 | [Abimbola Olumide-Zechariah PMP](https://ng.linkedin.com/in/abimbola-olumide-zechariah-pmp-33606414a) |
+| Falcon Corporation Limited | Peter Akinjo, CSCP, MCIPS, MNSE | enquiries@falcon-corporation.com | 09043273723 | [Peter Akinjo, CSCP, MCIPS, MNSE](https://ng.linkedin.com/in/peter-akinjo-cscp-mcips-mnse-0a27611) |
+| Gaslink Nigeria Limited | John Chibueze | enquiries@axxelagroup.com | +234 2012700035 | [John Chibueze](https://ng.linkedin.com/in/john-chibueze-5a837b9) |
+| Shell Nigeria Gas (SNG) | Chioma Okpoechi | SNG-Correspondences@shell.com | +2348070261578 | [Chioma Okpoechi](https://ng.linkedin.com/in/chioma-okpoechi-149a8710) |
+| TotalEnergies Marketing Nigeria Plc |  | ms-tnplc-info@totalenergies.com | 08150891408 |  |
+| Ardova Plc (formerly Forte Oil) | Tolulope Ojofeitimi / MBA in Procurement and Supply ... | info@ardovaplc.com | +234 812 716 4998 | [Tolulope Ojofeitimi / MBA in Procurement and Supply ...](https://ng.linkedin.com/in/tolulope-ojofeitimi-mba-in-procurement-and-supply-chain-management-538984172) |
+| Conoil Plc | MICHAEL PAUL | mike.a@conoilplc.com | +234-1-7037002 | [MICHAEL PAUL](https://ng.linkedin.com/in/michael-paul-737121170) |
+| MRS Oil Nigeria Plc | Richard Uchechukwu | info@mrsholdings.com | +234 907 777 0573 | [Richard Uchechukwu](https://ng.linkedin.com/in/richard-uchechukwu-a1449922a) |
+| 11Plc (formerly Mobil Oil Nigeria) |  |  |  |  |
+| NNPC Retail Limited | Gabriel Olafioye | careers@nnpcgroup.com | +234 815 500 5000 | [Gabriel Olafioye](https://ng.linkedin.com/in/gabriel-olafioye-95476216a) |
+| Rainoil Limited | Victor Mbaegbu | gabriel.ogbechie@rainoil.com.ng | 01 7004711 | [Victor Mbaegbu](https://ng.linkedin.com/in/victor-mbaegbu-c) |
+| Bovas & Company Limited | OSUJI CHIDINMA |  | +234703 477 6092 | [OSUJI CHIDINMA](https://ng.linkedin.com/in/osuji-chidinma-a38b1a1b3) |
+| NIPCO Plc |  | info@nipcogas.com | +2348110000000 |  |
+| Matrix Energy Group | Abdulkabir Adisa Aliu | info@matrixenergygroup.com | +234 1 453 7847 | [Abdulkabir Adisa Aliu](https://ng.linkedin.com/in/abdulkabir-adisa-aliu-5689a750) |
