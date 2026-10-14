@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 210 Organizations
+**Total Records**: 240 Organizations
 
 ---
 
@@ -217,3 +217,33 @@
 | PropertyMart Real Estate Investment Limited | Joseph M. | info@propertymartltd.com | +234 (0) 1 342 6840 | [Joseph M.](https://ng.linkedin.com/in/joseph-m-aa9068247) |
 | Primewaterview Holdings Limited | Gbenga Olatunbosun |  | 09059744358 | [Gbenga Olatunbosun](https://ng.linkedin.com/in/gbenga-olatunbosun-bbaa301b) |
 | Sujimoto Construction Limited (Lucrezia, Leonardo) | olakanmi ogundele | info@sujimotonig.com | +234 809 8521 646 | [olakanmi ogundele](https://ng.linkedin.com/in/olakanmi-ogundele-6ab48914b) |
+| Brains & Hammers Limited (Abuja / Kano / Lagos) | Kabir Adamu | info@brainsandhammers.co | +234 704 589 8874 | [Kabir Adamu](https://ng.linkedin.com/in/kabir-adamu-58524793) |
+| Cosgrove Investment Limited (Smart Estates, Abuja) | Samuel Ephraim | gwu@cosgroveafrica.com | +2349060001552 | [Samuel Ephraim](https://ng.linkedin.com/in/samuel-ephraim-795a5942a) |
+| Urban Shelter Limited (Abuja / Niger / Lagos) | Rosy Fynn | sales@urbanshelternigeria.com | +2348095555569 | [Rosy Fynn](https://ng.linkedin.com/in/rosy-fynn-b721b41) |
+| Adron Homes and Properties Limited | Blessing Olaniyan | info@adronhomes.com | +2349076111008 | [Blessing Olaniyan](https://ng.linkedin.com/in/blessing-olaniyan-099616271) |
+| Veritasi Homes and Properties Limited |  | hello@veritasihomes.com | +234 903 0160 016 |  |
+| Nedcomoaks Limited (Victoria Crest Estates) | Victory Horsfall | info@nedcomoaks.com | +234 708 407 0008 | [Victory Horsfall](https://ng.linkedin.com/in/victory-horsfall-47b230244) |
+| Lekki Gardens Estate Limited | Dorcas Ayeni | Info@lekkigardens.com | 07001239008 | [Dorcas Ayeni](https://ng.linkedin.com/in/dorcas-ayeni-5a7176b7) |
+| Haven Homes Limited | Ufuoma Ilesanmi | info@thehavenhomes.com | 09160007394 | [Ufuoma Ilesanmi](https://ng.linkedin.com/in/ufuomailesanmi) |
+| Alpha Mead Group (Alpha Mead Development Company) | Femi Akintunde | info@alphameadpristine.com |  | [Femi Akintunde](https://ng.linkedin.com/in/femi-akintunde-3ab34431) |
+| Broll Property Services Nigeria | Alaba Fagun | broll@broll.com.ng | +234 814 872 3268 | [Alaba Fagun](https://ng.linkedin.com/in/alaba-fagun-497b876) |
+| JLL Nigeria (Jones Lang LaSalle) |  | privacy@jll.com |  |  |
+| Knight Frank Nigeria | Frank Okosun FRICS, FNIVS, RSV |  | +2348172557665 | [Frank Okosun FRICS, FNIVS, RSV](https://ng.linkedin.com/in/frank-okosun-frics-fnivs-rsv) |
+| CBRE Excellerate Nigeria | Ogochuku J. Ohu MNIVS, RSV. | habinuchi.owhondah@cbreexcellerate.com | +234 201 330 0359 | [Ogochuku J. Ohu MNIVS, RSV.](https://ng.linkedin.com/in/ogochuku) |
+| Cushman & Wakefield Nigeria |  |  |  |  |
+| Fine and Country West Africa | Richard Ekong | sales@fineandcountry.ng | +234 707 111 6542 | [Richard Ekong](https://ng.linkedin.com/in/richard-ekong-6907a415b) |
+| FilmoRealty Limited | Oluwaseun Afolalu | mkolawole@filmorealestate.com | +234(0)1 271 0231 | [Oluwaseun Afolalu](https://ng.linkedin.com/in/oluwaseun-afolalu-6664b8a2) |
+| Cluttons Nigeria | Maro Kyle |  | +234806 625 2248 | [Maro Kyle](https://uk.linkedin.com/in/maro-kyle-1b105ab3) |
+| Diya, Fatimilehin & Co. | Lanre Olutimilehin FRICS | info@diyafatimilehin.net | +2348154990435 | [Lanre Olutimilehin FRICS](https://ng.linkedin.com/in/lanre-olutimilehin-frics-79497738) |
+| Jide Taiwo & Co. | Olawunmi Olashore FRICS |  |  | [Olawunmi Olashore FRICS](https://ng.linkedin.com/in/olawunmi-olashore-frics-8b430124) |
+| Ubosi Eleh + Co. |  | infovi@ubosieleh.com | +234 805 479 7515 |  |
+| Osas & Oseji Estate Surveyors | Tolulope Obisakin | abuja@osasoseji.com | +234 (0) 805 210-4444 | [Tolulope Obisakin](https://ng.linkedin.com/in/tolulope-obisakin-751b44176) |
+| Joe Onyire & Co. |  |  |  |  |
+| Landmark Africa Property Development |  | care@landmarkafrica.com | +234 906 688 2627 |  |
+| Eko Support Services Limited | Joy Madu | info@ekosupportservices.com | +234 809 455 5558 | [Joy Madu](https://ng.linkedin.com/in/joy-madu-mcips-881054129) |
+| Actis West Africa (Real Estate Division) | Terry Akaluzia |  | 09062540408 | [Terry Akaluzia](https://ng.linkedin.com/in/terry-akaluzia-529881145) |
+| Novare Real Estate Africa Nigeria |  | info@novare-central.com | +234 810 669 3172 |  |
+| Persianas Group (The Palms Malls Developer) | Gideon Timothy | info@persianasretail.com | +234818 762 0211 | [Gideon Timothy](https://ng.linkedin.com/in/gideon-timothy-417552272) |
+| Resilient Africa (Delta Mall, Owerri Mall) | Yohanes Hasiholan Parhusip | foundation@resilientgroup.ng | +234 815 886 9375 | [Yohanes Hasiholan Parhusip](https://id.linkedin.com/in/yohaneshasiholanparhusip) |
+| Purple Group (Maryland Mall / Purple Lekki) | Olaide A. |  | +2349028431997 | [Olaide A.](https://ng.linkedin.com/in/olaide-a-60704126) |
+| African Capital Alliance Real Estate (CAPIC) |  |  | +234 1 2777000 |  |
