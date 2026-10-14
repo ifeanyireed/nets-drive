@@ -1,7 +1,7 @@
 # Cluster 3: Corporate White-Collar Commuter Networks
 ### Premium Daily Commute Shuttles for Commercial Banks, Fintechs & Professional Services
 
-**Total Records**: 150 Organizations
+**Total Records**: 180 Organizations
 
 ---
 
@@ -157,3 +157,33 @@
 | Bain & Company Nigeria |  | ir@baincapital.com |  |  |
 | Dalberg Advisors Nigeria |  |  |  |  |
 | Roland Berger Nigeria |  |  | 08039067000 |  |
+| Aluko & Oyebode (Leading commercial law firm) | Edmond Bassey | ao@aluko-oyebode.com | +234 201 462 8360 | [Edmond Bassey](https://ng.linkedin.com/in/edmond-bassey-57a695235) |
+| Banwo & Ighodalo | Morenike Borisade | banwigho@banwo-ighodalo.com | 013302934 | [Morenike Borisade](https://ng.linkedin.com/in/morenike-borisade-1286a463) |
+| Olaniwun Ajayi LP | GB Ogunye PHRi | lawyers@olaniwunajayi.net | +234-201-270-2551 | [GB Ogunye PHRi](https://ng.linkedin.com/in/gb-ogunye-phri-09614999) |
+| Templars | Linda Turner | info@templars-law.com | +234 0201 515 5890 | [Linda Turner](https://www.linkedin.com/in/linda-turner-b9788a54) |
+| Udo Udoma & Belo-Osagie (UUBO) | Kemi Onadiran PMP®, MMP, MCIPM, HRPL, ANITAD | udoma.udoma@uubo.org | +234 2012774920 | [Kemi Onadiran PMP®, MMP, MCIPM, HRPL, ANITAD](https://ng.linkedin.com/in/kemionadiran) |
+| G. Elias & Co. | Michelle Swanenburg | gelias@gelias.com | +234 1 888 8881 | [Michelle Swanenburg](https://www.linkedin.com/in/michelle-swanenburg-aa05798) |
+| Jackson, Etti & Edu | Dr. Emmanuel Abegunde | jacksonettiedu@jacksonettiandedu.com | +234 201 462 6841 | [Dr. Emmanuel Abegunde](https://ng.linkedin.com/in/emmanuel-abegunde) |
+| AELEX (Partners & Co.) | Chinyelu Ezenwa Assoc CIPD, PMP | aelex@aelex.com | 234 84 848074 | [Chinyelu Ezenwa Assoc CIPD, PMP](https://ng.linkedin.com/in/chinyelu-ezenwa) |
+| Duale, Ovia & Alex-Adedipe (DOA) | Olaoluwa Shosanya | info@doa-law.com | +234 1 631 2150 | [Olaoluwa Shosanya](https://ng.linkedin.com/in/olaoluwa-shosanya-4608482b6) |
+| Detail Commercial Solicitors | Ovie Kwokori | info@detailsolicitors.com | 08184210768 | [Ovie Kwokori](https://ng.linkedin.com/in/ovie-kwokori-5a5362200) |
+| Wole Olanipekun & Co. | Amure Olajumoke | info@woleolanipekun.com | +234-201-227-5446 | [Amure Olajumoke](https://ng.linkedin.com/in/amure-olajumoke-46a769158) |
+| Streamsowers & Köhn | Tamunotonye Atekebo | info@sskohn.com | +2342012910589 | [Tamunotonye Atekebo](https://ng.linkedin.com/in/tamunotonye-atekebo-70a58a394) |
+| ACAS-Law (Adepetun Caxton-Martins Agbor & Segun) |  | adesola.adepetun@dentons.com | +234 0201 279 7032 |  |
+| Punuka Attorneys & Solicitors | Matthias I. | info@punuka.com | 234-1-270-4789 | [Matthias I.](https://ng.linkedin.com/in/matthias-i-18a47447) |
+| Paul Usoro & Co. | Modupe Ladipo |  | +234 96232182 | [Modupe Ladipo](https://ng.linkedin.com/in/modupe-ladipo-185196259) |
+| Tek Experts Nigeria (Global BPO / Tech support center, Victoria Island) | Oreoluwa Oladeinde | joseph.adekuoroye@tek-experts.com |  | [Oreoluwa Oladeinde](https://ng.linkedin.com/in/oreoluwa-oladeinde-pmp-acipm-806814135) |
+| Teleperformance Nigeria (BPO & Customer Experience center) | Ayodeji Alofun |  |  | [Ayodeji Alofun](https://ng.linkedin.com/in/ayodejialofun) |
+| Outsource Global (Leading Nigerian BPO / Call center, Abuja & Kaduna) | ‏Renji Mathew, Assoc CIPD‏ |  |  | [‏Renji Mathew, Assoc CIPD‏](https://ae.linkedin.com/in/renjimathewc) |
+| CCI Global Nigeria (Customer Contact Center, Lekki) |  |  | +234 0-209 461 |  |
+| ISON Xperiences Nigeria (Telecom customer care hubs - Ibadan, Abeokuta, Kano, Ilorin) | Williams Esonwune | hello@isonxperiences.com | +234 907 777 0573 | [Williams Esonwune](https://ng.linkedin.com/in/williams-esonwune-58065886) |
+| Webhelp Nigeria (Concentrix + Webhelp) | Thanh Thanh |  | 08062928373 | [Thanh Thanh](https://vn.linkedin.com/in/thanh-thanh-587118aa) |
+| Concentrix Nigeria |  | katelyn.dirkse@concentrix.com |  |  |
+| CareDirect Nigeria |  | info@caredirect.com | 09070309430 |  |
+| Callfon Nigeria Limited | Sola Akinyosoye |  | 09043273723 | [Sola Akinyosoye](https://ng.linkedin.com/in/sola-akinyosoye-111ba315) |
+| Planet Governance BPO |  | info@planetcapitalltd.com | +234-08148654598 |  |
+| SeamlessHR (HR & enterprise mobility tech) | Abayomi Adebayo |  |  | [Abayomi Adebayo](https://ng.linkedin.com/in/abayomi-adebayo-906a493b9) |
+| Jobberman Nigeria (The African Talent Company) | Abubakar Sadiq Gidado | youthengagement@jobberman.com | 017003855 | [Abubakar Sadiq Gidado](https://ng.linkedin.com/in/abubakar-sadiq-gidado-15b616202) |
+| Phillips Consulting Limited (pcl.) |  | enquiry@phillipsconsulting.net | +234 (0) 906 000 0804 |  |
+| Workforce Group Nigeria |  | consulting@workforcegroup.com | +234 90 3194 6744 |  |
+| Michael Stevens Consulting | Morenike Kehinde | MAS@MichaelAStevens.com | +234 706 459 4651 | [Morenike Kehinde](https://ng.linkedin.com/in/morenike-kehinde-778b64b1) |
