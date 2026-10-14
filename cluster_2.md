@@ -1,7 +1,7 @@
 # Cluster 2: High-HSE Field Crews & Energy Operations
 ### Compliant Journey Management for Oil & Gas, Upstream Services, Mining & Infrastructure
 
-**Total Records**: 150 Organizations
+**Total Records**: 180 Organizations
 
 ---
 
@@ -157,3 +157,33 @@
 | Powergas Nigeria | HENRY OKUNZUWA |  | 08062607594 | [HENRY OKUNZUWA](https://ng.linkedin.com/in/henry-okunzuwa-39618066) |
 | Gasland Nigeria Limited |  |  |  |  |
 | Nsik Oil & Gas Limited |  |  | +234-8036525979 |  |
+| Bascom Energy Limited |  |  |  |  |
+| Blue Star Marine & Petroleum |  |  | +234 817 089 5555 |  |
+| Caverton Marine Oil & Gas |  | info@Caverton-offshore.com | 23412705656 |  |
+| Shoreline Power & Gas |  |  | 234 1 493 4023 |  |
+| Century Energy Services | Alex Korokeyi | dakoru.okujagu@ceslintl.com | 017009825 | [Alex Korokeyi](https://ng.linkedin.com/in/alex-korokeyi-86871522) |
+| Topflight Oil and Gas |  | info@dynaquestenergy.com | 08105611959 |  |
+| Prime Gold Energy |  | enquiry@primegoldgroup.com | 08081393670 |  |
+| Fano Oil and Gas |  |  |  |  |
+| Sunlink Petroleum | Friday Egbeiyon | sunday@sunlinkenergies.com | 234 1 2625516 | [Friday Egbeiyon](https://ng.linkedin.com/in/friday-egbeiyon-07840161) |
+| Brittania Oil Trading |  | operations@brittania-u.com | +234-1-462-7746 |  |
+| Peak Petroleum Industries Nigeria | Godwin Osademe | info@peak-ng.com | +234 (0)1 271 1875 | [Godwin Osademe](https://ng.linkedin.com/in/godwin-osademe-71361418) |
+| Amni Downstream Logistics |  |  |  |  |
+| Clean Energy Petroleum |  | info@africacleanenergygroup.org | +234 703 221 5759 |  |
+| Quest Oil Group (Quest Petroleum) | Godwin John | career@oil-quest.com |  | [Godwin John](https://ng.linkedin.com/in/godwin-john-ojoch) |
+| Northwest Energy Terminals |  | hr@northwestpetroleum-ng.com | +234 815 879 4394 |  |
+| Rainoil Logistics & Jetty |  | recruitment@rainoil.com.ng |  |  |
+| Sahara Bulk Storage Terminals |  |  | +234-806-434-0793 |  |
+| Eterna Marine Lubricants |  |  | +234 8053390163 |  |
+| Total Marketing Aviation Fuels | ‏JOSEPH AKANNI‏ | communication-aviation@totalenergies.com |  | [‏JOSEPH AKANNI‏](https://ae.linkedin.com/in/joseph-akanni-7a011012b) |
+| Candel Energy Products |  |  | +234 704 532 0659 |  |
+| SLB (formerly Schlumberger Nigeria) | Christopher Anetor |  |  | [Christopher Anetor](https://ng.linkedin.com/in/christopher-anetor-97b7609) |
+| Baker Hughes Nigeria | Daniel Ekeke | navin.joshi@bakerhughes.com | 234 1 2718402 | [Daniel Ekeke](https://ng.linkedin.com/in/ekekedan) |
+| Halliburton Energy Services Nigeria |  |  | +234 811 571 1446 |  |
+| Saipem Contracting Nigeria Limited |  |  | 234 1 2621078 |  |
+| TechnipFMC Nigeria | Emmanuela Uba | coopfinance-ng@technipfmc.com | +234 1 462 9831 | [Emmanuela Uba](https://ng.linkedin.com/in/emmanuela-uba-42b03074) |
+| Subsea 7 Nigeria | Monday O. EMEGWAMOR | communications@subsea7.com | +234-(0)-8072454566 | [Monday O. EMEGWAMOR](https://ng.linkedin.com/in/monday-o-emegwamor-90aa1039) |
+| Weatherford Nigeria | IKECHUKWU ODU | clarence.ogbonna@weatherford.com |  | [IKECHUKWU ODU](https://ng.linkedin.com/in/ikechukwu-odu-519b6996) |
+| Tenaris Global Services Nigeria | Nzubechi Nweke |  | +234 (0) 809 366 0300 | [Nzubechi Nweke](https://ng.linkedin.com/in/nzubechi-nweke-624055182) |
+| Vallourec Oil & Gas Nigeria |  |  | +234 1 463 7456 |  |
+| Bristow Helicopters Nigeria Limited | Chukwuemeka Edom CITLS, CICM | lagos@bristowgroup.com | +234 1 270 4590 | [Chukwuemeka Edom CITLS, CICM](https://ng.linkedin.com/in/chukwuemeka-edom-citls-cicm-07986540) |
