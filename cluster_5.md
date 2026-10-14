@@ -1,7 +1,7 @@
 # Cluster 5: Executive VIP, Protocol & Multi-City Fleets
 ### On-Demand Chauffeur & Armored Escort Services for Embassies, Conglomerates & Multinationals
 
-**Total Records**: 360 Organizations
+**Total Records**: 390 Organizations
 
 ---
 
@@ -367,3 +367,33 @@
 | Ifesinachi Logistics |  | info@ifexexpressnig.com | +234 803 332 1046 |  |
 | GUO Transport Logistics |  |  |  |  |
 | Peace Mass Logistics |  | hr@peacegroup.ng | +2347007322362 |  |
+| Libra Motors Logistics (LMN) | Arisa Kalu Victor | support@libmot.com | +234 803 472 1709 | [Arisa Kalu Victor](https://ng.linkedin.com/in/arisa-kalu-victor-a16688119) |
+| Cross Country Logistics | Abimbola Olowo | info@crosscountry.africa | 08067024485 | [Abimbola Olowo](https://ng.linkedin.com/in/abimbola-olowo-b90015a1) |
+| God's Grace Logistics |  |  | +234 0807 666 9416 |  |
+| Bonny Way Logistics |  | info@bonnywaymotors.com | 08104442547 |  |
+| Ekesons Logistics |  | info@ekesons.com | 09099900911 |  |
+| Topship Nigeria (Cross-border logistics tech) |  | hello@topship.africa | 013302594 |  |
+| Sendstack Nigeria | Hank Selke | info@sendstack.africa |  | [Hank Selke](https://www.linkedin.com/in/henryselke) |
+| Fez Delivery Limited | Seun Alley | support@fezdelivery.co | 017003077 | [Seun Alley](https://ng.linkedin.com/in/seunalley) |
+| Terminal Africa Inc. | Busola Collins | growth@terminal.africa | +234 916 228 1413 | [Busola Collins](https://ng.linkedin.com/in/busola-collins-184a49122) |
+| Shipbubble Nigeria |  | hello@shipbubble.com | +234 907 967 9773 |  |
+| Kobo360 (e-Logistics freight brokerage) | Hamisu Abubakar | support@kobo360.com | +234 700 562 6360 | [Hamisu Abubakar](https://ng.linkedin.com/in/hamisu-abubakar-a8972b1b6) |
+| Lori Systems Nigeria |  |  |  |  |
+| Haul 247 Logistics Limited | Tamilore Joan Odelusi | service@haul247.co | +2349010003247 | [Tamilore Joan Odelusi](https://ca.linkedin.com/in/tamilore-joan-odelusi-64bb61394) |
+| MVXchange (MVX Cargo) | Eric Chibuike Anyaeche | hello@mvxchange.com | +234 818 705 9980 | [Eric Chibuike Anyaeche](https://ng.linkedin.com/in/eric-chibuike-anyaeche-8ab805140) |
+| MDS Logistics Limited (Imperial Logistics / UACN JV) | André Bresler |  | +234 907 777 0573 | [André Bresler](https://ng.linkedin.com/in/andr%C3%A9-bresler-bb94325) |
+| TSL Logistics Limited (Transport Services Limited - Fuel haulage) |  | info@tsllogisticsltd.com | +2347074785786 |  |
+| Skyway Technology & Logistics Limited |  | info@skywaycargo.net | +2348036149122 |  |
+| Sifax Haulage Limited | Adetayo Adewale | info@sifaxgroup.com | +234(0)8105376814 | [Adetayo Adewale](https://ng.linkedin.com/in/adetayo-adewale-135ba181) |
+| Dangote Transport Limited (Heavy fleet haulage) | Ibrahim Balarabe | customercare@dangote.com | 08131768000 | [Ibrahim Balarabe](https://ng.linkedin.com/in/ibrahim-balarabe-b7a844173) |
+| BUA Transport Division |  | info@buagroup.com | +234-1-4610669 |  |
+| Flour Mills Haulage Division (FMN) |  |  | 234 64 632181 |  |
+| Honeywell Haulage Limited |  | contact@honeywellgroup.com |  |  |
+| Betaglass Transport Logistics |  | info@betaglass.com | +234 201 906 3200 |  |
+| Golden Transport Company Limited (FMN Group) | adesanya olufemi |  | +234 708 550 0204 | [adesanya olufemi](https://ng.linkedin.com/in/adesanya-olufemi-b86a034b) |
+| Starcom Haulage Limited |  |  | +234 (0) 0812 993 8404 |  |
+| Stretford Logistics Limited |  |  | +234 8038004649 |  |
+| Kunech Logistics Nigeria |  |  | 08101379234 |  |
+| Multimix Academy & Logistics |  | info@multimix.com.ng | 07068675462 |  |
+| Ocean & Cargo Freight Services Limited |  |  | 08110000421 |  |
+| Biga Logistics Nigeria |  |  | +234 813 985 1120 |  |
