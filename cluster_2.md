@@ -1,7 +1,7 @@
 # Cluster 2: High-HSE Field Crews & Energy Operations
 ### Compliant Journey Management for Oil & Gas, Upstream Services, Mining & Infrastructure
 
-**Total Records**: 180 Organizations
+**Total Records**: 210 Organizations
 
 ---
 
@@ -187,3 +187,33 @@
 | Tenaris Global Services Nigeria | Nzubechi Nweke |  | +234 (0) 809 366 0300 | [Nzubechi Nweke](https://ng.linkedin.com/in/nzubechi-nweke-624055182) |
 | Vallourec Oil & Gas Nigeria |  |  | +234 1 463 7456 |  |
 | Bristow Helicopters Nigeria Limited | Chukwuemeka Edom CITLS, CICM | lagos@bristowgroup.com | +234 1 270 4590 | [Chukwuemeka Edom CITLS, CICM](https://ng.linkedin.com/in/chukwuemeka-edom-citls-cicm-07986540) |
+| Caverton Helicopters Limited | Kenneth ogwutum |  | +234 907 777 0573 | [Kenneth ogwutum](https://ng.linkedin.com/in/kenneth-ogwutum-418403134) |
+| CHC Helicopters Nigeria |  | commercial@chcheli.com | 01-2275656 |  |
+| Dorman Long Engineering Limited | Agnes Ajiere | info@dormanlongeng.com | 09120487048 | [Agnes Ajiere](https://ng.linkedin.com/in/agnes-ajiere-673a49377) |
+| Nigerdock Nigeria Plc (Snake Island Integrated Free Zone) | Joseph Adejo |  | +234-80-3308-2994 | [Joseph Adejo](https://ng.linkedin.com/in/joseph-adejo-188397140) |
+| LADOL Free Zone (Lagos Deep Offshore Logistics Base) |  | info@ladol.com | +234 (0) 1 279 0684 |  |
+| Intels Nigeria Limited (Onne Oil & Gas Free Zone) |  |  | +234 (0)84 463 805 |  |
+| Kaztec Engineering Limited | Raji Idris | info@kaztec-eng.com | +234 709 812 4159 | [Raji Idris](https://ng.linkedin.com/in/raji-idris-7408a080) |
+| Oilserv Limited | Theophilus Kenneth | oilserv@oilservltd-ng.com | +234 (0)706-966-1694 | [Theophilus Kenneth](https://ng.linkedin.com/in/theophilus-kenneth-5b0b08145) |
+| Fenog Nigeria Limited |  |  | 234 (0) 53 255018 |  |
+| NestOil Limited | Chinedu Ike | DPO@nestoilgroup.com | +234 1 7000230 | [Chinedu Ike](https://ng.linkedin.com/in/chinedu-ike-5265b441) |
+| B&Q Dredging Limited | Dominic Anuna | info@bqdredging.com | +234 (0) 1-7000230 | [Dominic Anuna](https://ng.linkedin.com/in/dominic-anuna-248923216) |
+| White Dove Shipping Company | Paul Omon Ehimiyein, PGD CISM,IBOC | info.mail@whitedove-shipping.com | +234 703 323 3616 | [Paul Omon Ehimiyein, PGD CISM,IBOC](https://ng.linkedin.com/in/paul-omon-ehimiyein-pgd-cism-iboc-87596964) |
+| Energy Works Technology (Nestoil Group) | ASOGU MAXIMUS, OGADINMA | BusDev@energyworkstechnology.com | +234 (0) 84363020 | [ASOGU MAXIMUS, OGADINMA](https://ng.linkedin.com/in/asogu-maximus-ogadinma-5b050930) |
+| Impac Oil & Gas Engineering | Asuquo John, PMP |  |  | [Asuquo John, PMP](https://ng.linkedin.com/in/asuquo-john-pmp-7004935) |
+| Century Group (Century Energy Services Limited) | david Bob-Manuel | info@century-power.com | 017009825 | [david Bob-Manuel](https://ng.linkedin.com/in/david-bob-manuel-3ab39491) |
+| Desicon Engineering Limited | Vasudevan Palakkal |  | +234 (0) 1-6340230 | [Vasudevan Palakkal](https://ng.linkedin.com/in/vasudevan-palakkal-73746a26) |
+| Daewoo E&C Nigeria Limited | Potopregha Ebiegberi | decn@daewoonigeria.net | +234-810-167-0315 | [Potopregha Ebiegberi](https://ng.linkedin.com/in/potopregha-ebiegberi-0b6108235) |
+| Hyundai Heavy Industries Nigeria | Shehu Haruna | service@hyundai-gs.com | 08033426203 | [Shehu Haruna](https://ng.linkedin.com/in/shehu-haruna-44757a48) |
+| Samsung Heavy Industries Nigeria (SHI-MCI FZE) | Cynthia Onoja | business.shi@samsung.com | +234 706 890 9207 | [Cynthia Onoja](https://ng.linkedin.com/in/cynthia-onoja) |
+| Marine Platforms Limited |  | enquiries@marineplatforms.com | +23484796565 |  |
+| Tilone Subsea Limited | Engr. Benjamin Ojembe MNSE, COREN, B.Eng, | l@tilone.net | +234 7031627350 | [Engr. Benjamin Ojembe MNSE, COREN, B.Eng,](https://ng.linkedin.com/in/benjamin-ojembe) |
+| West Atlantic Marine (WAM) |  |  | +2349071004503 |  |
+| Ocean Marine Solutions (OMS) | Wilson buzugbe | info@ocean-ms.com | +234 807 549 0811 | [Wilson buzugbe](https://ng.linkedin.com/in/wilson-buzugbe-608467164) |
+| Homeland Integrated Offshore Services Limited | Theophillus O Igho |  | +234 903 125 6669 | [Theophillus O Igho](https://ng.linkedin.com/in/theophillus-o-igho-15035b82) |
+| Tamrose Ventures Limited | Jens Jarl Broe | us@tamrose.com | +234 (0) 703 171 7671 | [Jens Jarl Broe](https://dk.linkedin.com/in/jensjarl) |
+| C&I Leasing Plc (Marine Division) | Kadiri Oseni Ishola | outsourcinghelpdesk@c-ileasing.com | 07031719592 | [Kadiri Oseni Ishola](https://ng.linkedin.com/in/kadiri-oseni-ishola-628818109) |
+| Marine Logistics Nigeria Limited | Ucha Aka | info@oceanwindmarine.com | +2348073704774 | [Ucha Aka](https://ng.linkedin.com/in/ucha-aka) |
+| Sea Trucks Group (West African Ventures - WAV) | oyakhamoh ibrahim | info@seatrucksgroup.com | +234 814 000 0000 | [oyakhamoh ibrahim](https://ng.linkedin.com/in/oyakhamoh-ibrahim-35ba0439) |
+| Bourbon Interoil Nigeria | Joseph Johnson | hr@bourbon-interoil.com |  | [Joseph Johnson](https://ng.linkedin.com/in/joseph-johnson-6b1962118) |
+| Tidewater Marine Nigeria | Serhiy Khrinenko | info@tidewater.com | +234-1-463-0858 | [Serhiy Khrinenko](https://ua.linkedin.com/in/serhiy-khrinenko-39776939) |
