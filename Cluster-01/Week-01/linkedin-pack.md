@@ -3,7 +3,7 @@
 * **Cluster & Week**: Cluster 01 (Industrial Shift Workers & Factory Lines) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
 * **Primary Target Decision-Makers**: Plant Directors, Heads of Operations, Factory Managers, Supply Chain Directors (Agbara, Sagamu, Sango-Ota, Ikeja)
-* **Core Call to Action**: Direct executives to the full blog teardown & corporate route audit (`https://www.netsdrive.com/corporate-audit`) via the **First-Comment Link Strategy**.
+* **Core Call to Action**: Direct executives to the full blog teardown & corporate route audit (`https://www.neweratransports.com/corporate-audit`) via the **First-Comment Link Strategy**.
 
 > [!NOTE]
 > In compliance with the **First-Comment Link Rule (LNK-01)**, zero outbound links are placed in the main body of any LinkedIn post. All links are strictly deployed in the pinned first comment.
@@ -58,10 +58,10 @@ Plant Directors & Operations Heads: What is your current average shift handover 
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full operational teardown (all 10 tactics + mathematical downtime models):
-https://www.netsdrive.com/blog/4m-cost-shift-lateness-agbara-sagamu
+https://www.neweratransports.com/blog/4m-cost-shift-lateness-agbara-sagamu
 
 If your plant in Agbara, Sagamu, or Sango is losing machine hours to shift changeover delays, book a complimentary route feasibility review and explore a 14-day dedicated trial corridor:
-https://www.netsdrive.com/corporate-audit
+https://www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -148,7 +148,7 @@ The leading plants in Agbara and Sagamu don't give cash allowances. They run ded
   - We map your worker residential nodes, calculate downtime savings, and set up a 14-day dedicated trial corridor.
 * **Call to Action**:
   - `🔗 Link to book your plant corridor audit is in the first comment.`
-  - Visit: **netsdrive.com/corporate-audit**
+  - Visit: **www.neweratransports.com/corporate-audit**
 
 ---
 
@@ -208,7 +208,7 @@ Following up on our connection—we recently published an operational teardown o
 We found that a 35-minute delay on an automated packaging line burns over ₦4.15M in idle captive gas power, boiler steam, and lost SKU throughput before 7:00 AM.
 
 Thought this operational analysis might be useful for your team's shift planning at [Company Name]:
-https://www.netsdrive.com/blog/4m-cost-shift-lateness-agbara-sagamu
+https://www.neweratransports.com/blog/4m-cost-shift-lateness-agbara-sagamu
 
 No pitch, just useful corridor data.
 
@@ -225,7 +225,7 @@ When your 6:00 AM packaging shift arrives 30 minutes late due to transit bottlen
 
 Most plants attempt to solve this with cash transport allowances, which leaves shift arrivals in the hands of volatile informal commercial Danfos.
 
-At NETS Drive, we run dedicated, cluster-synchronized shift shuttles for leading manufacturing plants with:
+At New Era Transports Services, we run dedicated, cluster-synchronized shift shuttles for leading manufacturing plants with:
 • Guaranteed 99.2% on-time corridor arrival SLA.
 • Dedicated 30-minute hot standby replacement bus in the corridor.
 • Real-time IVMS telematics and digital passenger attendance logs for your plant control room.
@@ -236,6 +236,6 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s wo
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+www.neweratransports.com/corporate-audit
 ```

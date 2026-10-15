@@ -164,11 +164,11 @@ Every shared corporate shuttle removes dozens of single-occupancy vehicles from 
 
 ---
 
-## Protect Your People and Your Output with NETS Drive
+## Protect Your People and Your Output with New Era Transports Services
 
 Your company’s competitive advantage resides in the cognitive brilliance of your people. Subjecting them to 3.5 hours of unmanaged traffic is an expensive operational failure.
 
-**NETS Drive** partners with premier commercial banks, fintechs, and corporate enterprises across Lagos and Abuja to deliver turnkey executive commuter shuttle programs:
+**New Era Transports Services** partners with premier commercial banks, fintechs, and corporate enterprises across Lagos and Abuja to deliver turnkey executive commuter shuttle programs:
 * **Premium Executive Fleet**: Late-model Toyota Coaster (30 seats) and Toyota HiAce Grand Cabin (14–18 seats) shuttles equipped with dual air conditioning, ergonomic recliners, onboard Wi-Fi, and USB ports.
 * **Turnkey Route Management**: Complete employee residential mapping, optimal hub selection, and dynamic timetable scheduling.
 * **Corporate Dashboard**: Real-time vehicle telematics, punctuality analytics, and monthly consolidated invoicing.
@@ -182,10 +182,10 @@ Do not let your best talent resign over Third Mainland Bridge traffic.
 
 ### Request a Complimentary Corporate Commuter Feasibility Study
 
-The NETS Drive corporate services division will conduct a zero-cost commuter analysis for your organization:
+The New Era Transports Services corporate services division will conduct a zero-cost commuter analysis for your organization:
 * Geospatial clustering of your workforce residential addresses.
 * Customized corridor transit timetable engineered to beat peak chokepoints.
 * Comprehensive cost-benefit analysis comparing your current transport allowances against managed fleet savings.
 * A low-risk **14-day dedicated pilot corridor** for your highest-density commuter route.
 
-👉 **Visit [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) or email `commute@netsdrive.com` to schedule your corporate commuter feasibility study today.**
+👉 **Visit [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) or email `commute@neweratransports.com` to schedule your corporate commuter feasibility study today.**

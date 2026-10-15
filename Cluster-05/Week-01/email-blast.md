@@ -3,9 +3,9 @@
 * **Cluster & Week**: Cluster 05 (Executive VIP, Protocol & Project Mobilization) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **HTML Version**: [`email-blast.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/Cluster-05/Week-01/email-blast.html) (Responsive 600px HTML with inline CSS)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
-* **Brand**: NETS Drive (New Era Transport Services) · `https://www.netsdrive.com`
+* **Brand**: New Era Transports Services · `https://www.neweratransports.com`
 * **Target Audience**: Executive Assistants to MD/CEO, Corporate Protocol Officers, Heads of Procurement, Project Directors (Multinationals, Embassies, Board Secretariats)
-* **Primary Call to Action**: `https://www.netsdrive.com/corporate-audit` ("Request Executive VIP Protocol Consultation")
+* **Primary Call to Action**: `https://www.neweratransports.com/corporate-audit` ("Request Executive VIP Protocol Consultation")
 
 ---
 
@@ -31,7 +31,7 @@ Delegating VIP transport to informal, third-party car hire agencies frequently l
 
 Introducing friction into a high-stakes corporate summit does not just cause inconvenience—it damages institutional trust and jeopardizes multi-million-dollar transactions.
 
-Leading multinationals, diplomatic missions, and financial institutions partner with NETS Drive to guarantee flawless executive protocol.
+Leading multinationals, diplomatic missions, and financial institutions partner with New Era Transports Services to guarantee flawless executive protocol.
 
 Our Executive VIP Fleet Service provides:
 1. Directly owned, late-model Toyota Land Cruiser Prado TXL, Lexus LX, and VIP HiAce executive vans.
@@ -44,8 +44,8 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s up
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-Phone: +234 (0) 800-NETS-DRIVE | Web: netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+Phone: +234 (0) 800-NEW-ERA | Web: www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -112,17 +112,17 @@ With major international investment summits, sovereign board retreats, and energ
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full 10 Executive Chauffeur Standards →**
-* **Destination**: `https://www.netsdrive.com/blog/when-vip-logistics-fail-executive-chauffeur-standards`
+* **Destination**: `https://www.neweratransports.com/blog/when-vip-logistics-fail-executive-chauffeur-standards`
 
 ---
 
 ### Footer Offer: The NETS Executive Protocol Blueprint
 Ensure flawless hospitality for your upcoming board summits and VIP delegations.
 
-NETS Drive operates pristine, company-owned luxury fleets across Lagos and Abuja:
+New Era Transports Services operates pristine, company-owned luxury fleets across Lagos and Abuja:
 * Late-model Toyota Land Cruiser Prado TXL, Lexus LX, and VIP Executive HiAce vans.
 * Formally trained, vetted protocol chauffeurs in dark bespoke suits.
 * Airside private terminal greeting and fast-track airport concierge.
 * Dedicated standby shadow vehicles positioned for zero downtime.
 
-**Schedule an Executive Protocol Consultation**: [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) | Email: `vip@netsdrive.com`
+**Schedule an Executive Protocol Consultation**: [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) | Email: `vip@neweratransports.com`

@@ -3,9 +3,9 @@
 * **Cluster & Week**: Cluster 02 (High-HSE Field Crews & Energy Operations) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **HTML Version**: [`email-blast.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/Cluster-02/Week-01/email-blast.html) (Responsive 600px HTML with inline CSS)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
-* **Brand**: NETS Drive (New Era Transport Services) · `https://www.netsdrive.com`
+* **Brand**: New Era Transports Services · `https://www.neweratransports.com`
 * **Target Audience**: HSE Directors, Journey Management Leads, Logistics Directors, Category Procurement (Shell, Chevron, TotalEnergies, NLNG, Seplat, SLB, Saipem)
-* **Primary Call to Action**: `https://www.netsdrive.com/corporate-audit` ("Request Energy Fleet Compliance Audit")
+* **Primary Call to Action**: `https://www.neweratransports.com/corporate-audit` ("Request Energy Fleet Compliance Audit")
 
 ---
 
@@ -29,7 +29,7 @@ In energy operations, saving ₦150,000 on an unvetted commercial bus hire can t
 
 When a charter bus arrives at Onne, Warri, or Lekki without certified 3-point seatbelts, tamper-proof IVMS telematics, or an approved digital Journey Management Plan, the vehicle is turned back. The crew boat sails empty, and your master service agreement faces immediate safety de-ranking.
 
-Leading upstream contractors in Port Harcourt and Lagos have eliminated this exposure by partnering with NETS Drive.
+Leading upstream contractors in Port Harcourt and Lagos have eliminated this exposure by partnering with New Era Transports Services.
 
 Our High-HSE Crew Fleet provides:
 1. 100% first-time IOC audit clearance guaranteed across Shell, Chevron, and NNPC joint ventures.
@@ -42,8 +42,8 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s cr
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-Phone: +234 (0) 800-NETS-DRIVE | Web: netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+Phone: +234 (0) 800-NEW-ERA | Web: www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -111,17 +111,17 @@ According to the Oil & Gas Contractors Safety Association (OGCSA), over 34% of c
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full 10-Standard HSE Fleet Guide →**
-* **Destination**: `https://www.netsdrive.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits`
+* **Destination**: `https://www.neweratransports.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits`
 
 ---
 
 ### Footer Offer: The NETS Energy Fleet Pre-Audit Trial
 Protect your contracts and your workforce. 
 
-NETS Drive operates fully audited, IVMS-equipped 30-seater Toyota Coasters and 4x4 Toyota Hilux crew vehicles across Port Harcourt, Warri, Lekki, and Onne.
+New Era Transports Services operates fully audited, IVMS-equipped 30-seater Toyota Coasters and 4x4 Toyota Hilux crew vehicles across Port Harcourt, Warri, Lekki, and Onne.
 * 100% first-time IOC audit clearance.
 * Real-time 24/7 satellite IVMS tracking.
 * Level 3 Defensive Driving certified chauffeurs.
 * ₦100M comprehensive passenger liability insurance.
 
-**Schedule an Upstream Fleet Compliance Audit**: [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) | Email: `energy@netsdrive.com`
+**Schedule an Upstream Fleet Compliance Audit**: [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) | Email: `energy@neweratransports.com`

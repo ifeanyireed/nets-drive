@@ -169,11 +169,11 @@ Informal bus charters operate with standard third-party insurance that excludes 
 
 ---
 
-## Eliminate Upstream Journey Vulnerabilities with NETS Drive
+## Eliminate Upstream Journey Vulnerabilities with New Era Transports Services
 
 Energy contractors cannot afford to leave workforce logistics to chance. 
 
-**NETS Drive** provides dedicated, audited personnel mobility solutions engineered to meet the stringent standards of Shell, Chevron, TotalEnergies, NLNG, and NNPC joint ventures.
+**New Era Transports Services** provides dedicated, audited personnel mobility solutions engineered to meet the stringent standards of Shell, Chevron, TotalEnergies, NLNG, and NNPC joint ventures.
 
 Our upstream fleet includes:
 * **Fully Audited Toyota Coaster Crew Shuttles (30 Seats)**: Equipped with certified 3-point seatbelts, high-output air conditioning, and full roll-over protection.
@@ -189,10 +189,10 @@ Do not wait for an IOC auditor to turn your crew away at the Onne security gate 
 
 ### Request a Complimentary Energy Fleet Compliance Audit
 
-The NETS Drive energy logistics division will conduct a comprehensive, zero-cost safety and compliance review of your company's personnel transit routes:
+The New Era Transports Services energy logistics division will conduct a comprehensive, zero-cost safety and compliance review of your company's personnel transit routes:
 * Full IVMS gap analysis against Shell/Chevron Journey Management guidelines.
 * Corridor chokepoint and security escort assessment across Port Harcourt, Warri, and Lekki corridors.
 * Custom downtime-avoidance modeling detailing potential day-rate savings.
 * A low-risk **14-day dedicated trial crew shuttle** for your next field mobilization.
 
-👉 **Visit [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) or email `energy@netsdrive.com` to schedule your upstream fleet compliance audit today.**
+👉 **Visit [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) or email `energy@neweratransports.com` to schedule your upstream fleet compliance audit today.**

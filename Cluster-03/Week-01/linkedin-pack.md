@@ -3,7 +3,7 @@
 * **Cluster & Week**: Cluster 03 (Corporate White-Collar Commuter Networks) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
 * **Primary Target Decision-Makers**: Chief People Officers, Heads of HR, VP of Human Capital, Facilities Directors, Corporate Services Leads (Victoria Island, Marina, Ikoyi, Lekki Phase 1)
-* **Core Call to Action**: Direct corporate leaders to the full commuter strategy guide & route audit (`https://www.netsdrive.com/corporate-audit`) via the **First-Comment Link Strategy**.
+* **Core Call to Action**: Direct corporate leaders to the full commuter strategy guide & route audit (`https://www.neweratransports.com/corporate-audit`) via the **First-Comment Link Strategy**.
 
 > [!NOTE]
 > In compliance with the **First-Comment Link Rule (LNK-01)**, zero outbound links are placed in the main body of any LinkedIn post. All links are strictly deployed in the pinned first comment.
@@ -59,10 +59,10 @@ HR Directors & CPOs: What percentage of your voluntary exit interviews quietly t
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full Corporate Commuter Strategy Guide (all 10 frameworks + ROI formulas):
-https://www.netsdrive.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output
+https://www.neweratransports.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output
 
 If your firm in Victoria Island, Ikoyi, or Marina is losing productive hours to commute burnout, book a complimentary corporate commuter feasibility study and explore our 14-day pilot shuttle:
-https://www.netsdrive.com/corporate-audit
+https://www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -148,7 +148,7 @@ Cash allowances don't fix this. Dedicated executive shuttles with 4G Wi-Fi do.
   - Test an executive commuter shuttle on a 14-day dedicated trial corridor.
 * **Call to Action**:
   - `🔗 Link to book your commuter feasibility study is in the first comment.`
-  - Visit: **netsdrive.com/corporate-audit**
+  - Visit: **www.neweratransports.com/corporate-audit**
 
 ---
 
@@ -206,7 +206,7 @@ Following up on our connection—we recently published an operational study on t
 We found that morning commuter brain fog quietly costs a 120-person professional team over ₦367M annually in lost billable focus and elevated voluntary turnover.
 
 Thought this human capital analysis might be useful for your team's workforce planning at [Company Name]:
-https://www.netsdrive.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output
+https://www.neweratransports.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output
 
 No pitch, just useful employee mobility benchmarks.
 
@@ -223,7 +223,7 @@ When your top analysts, engineers, and department heads battle 3.5 hours of grin
 
 Most corporate organizations attempt to address this with cash transport allowances, which leaves employees stranded in volatile commercial transit without clearing traffic or reducing exhaustion.
 
-At NETS Drive, we manage turnkey executive commuter shuttle programs for leading financial and corporate firms with:
+At New Era Transports Services, we manage turnkey executive commuter shuttle programs for leading financial and corporate firms with:
 • Premium Toyota Coasters and HiAces with ergonomic recliners, dual AC, 4G Wi-Fi, and USB ports.
 • Optimized corridor timetables that beat peak gridlock by 45 minutes.
 • Guaranteed mobile seat reservations via our corporate portal.
@@ -234,6 +234,6 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s em
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+www.neweratransports.com/corporate-audit
 ```

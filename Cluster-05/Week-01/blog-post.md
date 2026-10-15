@@ -162,11 +162,11 @@ Eliminate cash payments, driver tips, and disputed fuel receipts. Corporate prot
 
 ---
 
-## Elevate Your Corporate Protocol with NETS Drive
+## Elevate Your Corporate Protocol with New Era Transports Services
 
 Your visiting board directors, international partners, and institutional investors deserve transportation that matches your organization’s stature and prestige.
 
-**NETS Drive** is the trusted executive mobility and protocol partner for multinational corporations, embassies, and Tier-1 financial institutions across Lagos and Abuja:
+**New Era Transports Services** is the trusted executive mobility and protocol partner for multinational corporations, embassies, and Tier-1 financial institutions across Lagos and Abuja:
 * **Prestige Fleet**: Armored and unarmored Toyota Land Cruiser Prado TXL, Lexus LX, and VIP Executive Toyota HiAce vans with leather captain seating and privacy glass.
 * **Airside Protocol Concierge**: Dedicated terminal greeters, private jet tarmac coordination, and fast-track baggage handling at MMIA and Nnamdi Azikiwe International Airports.
 * **Elite Chauffeurs**: Vetted, background-cleared corporate protocol chauffeurs trained in executive privacy, defensive tactics, and diplomatic etiquette.
@@ -180,10 +180,10 @@ Do not let an amateur car hire compromise your organization's reputation.
 
 ### Request a Complimentary Executive Protocol Feasibility Study
 
-The NETS Drive executive services desk will design an end-to-end mobility blueprint for your upcoming corporate event or executive arrival:
+The New Era Transports Services executive services desk will design an end-to-end mobility blueprint for your upcoming corporate event or executive arrival:
 * Comprehensive flight itinerary and convoy logistics schedule.
 * Dedicated vehicle allocation with customized executive cabin amenities.
 * Guaranteed standby shadow vehicle deployment plan.
 * Transparent B2B corporate pricing schedule with consolidated invoicing.
 
-👉 **Visit [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) or email `vip@netsdrive.com` to schedule your executive protocol consultation today.**
+👉 **Visit [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) or email `vip@neweratransports.com` to schedule your executive protocol consultation today.**

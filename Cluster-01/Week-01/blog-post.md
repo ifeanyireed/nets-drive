@@ -177,9 +177,9 @@ Do not allow driver disputes over pump prices to ground your morning buses. Cont
 
 Multinational manufacturing organizations operating across Nigeria's industrial clusters do not gamble with workforce mobility. 
 
-Companies operating automated continuous-process assets—such as FMCG food packaging, pharmaceutical manufacturing, and bottling lines—partner with dedicated corporate mobility providers like **NETS Drive**.
+Companies operating automated continuous-process assets—such as FMCG food packaging, pharmaceutical manufacturing, and bottling lines—partner with dedicated corporate mobility providers like **New Era Transports Services**.
 
-NETS Drive deploys a specialized **Industrial Workforce Transit System** engineered specifically for the harsh realities of Nigerian industrial hubs:
+New Era Transports Services deploys a specialized **Industrial Workforce Transit System** engineered specifically for the harsh realities of Nigerian industrial hubs:
 
 1. **Dedicated 30–33 Seater Toyota Coasters**: High-capacity, climate-controlled, heavy-duty shuttles built to handle industrial arterial corridors without mechanical failures.
 2. **Cluster Route Optimization**: Algorithmic pickup node design that minimizes worker walking distance while maximizing bus transit velocity.
@@ -196,10 +196,10 @@ If your manufacturing plant in Agbara, Sagamu, Sango-Ota, or Ikeja is losing pro
 
 ### Request a Complimentary Factory Corridor Route Audit
 
-The NETS Drive operations team will conduct a comprehensive, zero-cost operational assessment of your plant's workforce mobility:
+The New Era Transports Services operations team will conduct a comprehensive, zero-cost operational assessment of your plant's workforce mobility:
 * Geospatial clustering of your workforce residential distribution.
 * Corridor bottleneck and chokepoint analysis for your plant's specific shift timings.
 * Custom downtime cost-reduction model detailing your projected monthly savings.
 * A low-risk **14-day dedicated trial corridor** for your most critical shift route.
 
-👉 **Visit [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) or email `corporate@netsdrive.com` to schedule your plant route feasibility study today.**
+👉 **Visit [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) or email `corporate@neweratransports.com` to schedule your plant route feasibility study today.**

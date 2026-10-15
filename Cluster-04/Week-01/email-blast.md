@@ -3,9 +3,9 @@
 * **Cluster & Week**: Cluster 04 (Night-Shift & Safe Store Dispersal) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **HTML Version**: [`email-blast.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/Cluster-04/Week-01/email-blast.html) (Responsive 600px HTML with inline CSS)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
-* **Brand**: NETS Drive (New Era Transport Services) · `https://www.netsdrive.com`
+* **Brand**: New Era Transports Services · `https://www.neweratransports.com`
 * **Target Audience**: Retail Regional Leads, Store Operations Directors, Heads of Loss Prevention, QSR Leads (Shoprite, SPAR, FoodCo, Domino's, KFC)
-* **Primary Call to Action**: `https://www.netsdrive.com/corporate-audit` ("Request Retail Night Dispersal Feasibility Audit")
+* **Primary Call to Action**: `https://www.neweratransports.com/corporate-audit` ("Request Retail Night Dispersal Feasibility Audit")
 
 ---
 
@@ -31,7 +31,7 @@ Commercial bus frequency drops by 80%, fare prices surge unpredictably, and fron
 
 This transit terror directly fuels an industry turnover rate of over 45%—costing a typical multi-outlet retail operation over ₦21,000,000 annually in repetitive recruitment, POS retraining, and surrendered late-evening trading revenue.
 
-Leading supermarket chains and QSR brands across Lagos and Abuja have eliminated this exposure by partnering with NETS Drive.
+Leading supermarket chains and QSR brands across Lagos and Abuja have eliminated this exposure by partnering with New Era Transports Services.
 
 Our Retail Night Dispersal Service provides:
 1. Secured perimeter pickups directly from your mall loading bay or staff exit.
@@ -44,8 +44,8 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s st
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-Phone: +234 (0) 800-NETS-DRIVE | Web: netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+Phone: +234 (0) 800-NEW-ERA | Web: www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -111,17 +111,17 @@ With commercial bus availability sharply declining after dark, workers frequentl
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full 10 Safe Dispersal Protocols →**
-* **Destination**: `https://www.netsdrive.com/blog/closing-shift-danger-retail-staff-security-protocols`
+* **Destination**: `https://www.neweratransports.com/blog/closing-shift-danger-retail-staff-security-protocols`
 
 ---
 
 ### Footer Offer: The NETS Retail Dispersal Trial
 Protect your closing staff and keep your stores profitable until the final minute.
 
-NETS Drive operates dedicated, GPS-tracked Toyota HiAce and Coaster dispersal shuttles across major retail corridors in Lagos, Abuja, Port Harcourt, and Ibadan.
+New Era Transports Services operates dedicated, GPS-tracked Toyota HiAce and Coaster dispersal shuttles across major retail corridors in Lagos, Abuja, Port Harcourt, and Ibadan.
 * Secured perimeter staff loading bay pickups.
 * Vetted, security-cleared professional night captains.
 * 24/7 live IVMS GPS tracking and emergency response dispatch.
 * Turnkey monthly corporate invoicing with 30-day payment terms.
 
-**Schedule a Safe Retail Dispersal Feasibility Audit**: [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) | Email: `retail@netsdrive.com`
+**Schedule a Safe Retail Dispersal Feasibility Audit**: [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) | Email: `retail@neweratransports.com`

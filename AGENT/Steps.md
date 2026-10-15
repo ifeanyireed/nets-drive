@@ -1,6 +1,6 @@
-# 📋 Steps.md: NETS Drive Sequential Multi-Agent Production Workflow
+# 📋 Steps.md: New Era Transports Services Sequential Multi-Agent Production Workflow
 
-This document outlines the sequential steps required to generate the complete B2B marketing, sales enablement, and corporate acquisition content suite for **NETS Drive (New Era Transport Services)**.
+This document outlines the sequential steps required to generate the complete B2B marketing, sales enablement, and corporate acquisition content suite for **New Era Transports Services**.
 
 Agents must follow this exact sequence to ensure consistency, voice alignment, and adherence to quality standards across **all 5 Corporate Clusters and 9 Months (36 Weeks)**.
 
@@ -83,7 +83,7 @@ Agents must follow this exact sequence to ensure consistency, voice alignment, a
    - *Scene 2: The Escalation & Cost Spike (1:15–2:30)*: The financial and human fallout; confrontation between plant supervisor and management; split-screen comparison between unmanaged transit and a smooth NETS fleet arrival.
    - *Talking Head: The Quantitative Math (2:30–3:15)*: Calm host breakdown explaining the cluster's mathematical downtime formula.
    - *Scene 3: The Rewind (3:15–3:55)*: Rewind sound effect; the same corridor replayed with dedicated NETS climate-controlled shuttles arriving on schedule with digital attendance.
-   - *Talking Head: The Close & CTA (3:55–4:15)*: Pitch NETS Corporate Fleet Services and offer the Free Route & Cost Audit (`netsdrive.com/corporate-audit`).
+   - *Talking Head: The Close & CTA (3:55–4:15)*: Pitch NETS Corporate Fleet Services and offer the Free Route & Cost Audit (`www.neweratransports.com/corporate-audit`).
 5. **Production Notes**: Casting specs, audio SFX cues, B-roll recommendations, and a 60-second TikTok/Reels cutdown concept.
 
 ---
@@ -129,10 +129,14 @@ Agents must follow this exact sequence to ensure consistency, voice alignment, a
    - The Cover Story and 3 Curated News Cards must report on **actual breaking Nigerian infrastructure, corporate transport, fuel policy, logistics, and regulatory news** (e.g. fuel subsidy impact, CNG conversion policies, corridor rehabilitation, FRSC logistics regulations, port access bottlenecks).
    - Each story includes an authentic photo, source attribution, and a highlighted *"► WHAT IT MEANS FOR CORPORATE OPERATORS"* analysis.
 4. **Mobility Hack / Metric of the Week**: High-contrast callout container presenting the blog post's mathematical formula as the operational answer to transit inflation.
-5. **Bulletproof CTA Button**: Directs readers to read the full blog post or schedule a Corporate Route Benchmark.
+5. **Bulletproof CTA Button (Zero Corner Radius)**: Directs readers to read the full blog post or schedule a Corporate Route Benchmark. Must strictly feature **zero corner radius (`border-radius: 0px`)** with sharp rectangular corners, styled in primary Corporate Royal Blue (`#1A48B6`) with `#FFFFFF` bold text and generous `14px 28px` padding.
 6. **Footer Offer**: Highlights NETS 1-2 Route Pilot Program, SLA guarantees, and 30-day corporate billing.
 7. **HTML Architecture**: Clean responsive 600px table with inline CSS, tested for desktop and mobile clients.
 8. **Light Executive UI Rule**: Zero black or dark (`#0F172A` / `#000000` / `#1E293B`) UI backgrounds. Headers, callout metric containers, and footers must use light backgrounds (`#FFFFFF`, `#F8FAFC`, `#F1F5F9`) with dark high-contrast typography.
+9. **Strict Brand Colors (`logo.png`) & Zero Corner Radius Mandate**:
+   - Style templates strictly with the brand palette from `logo.png`: **Primary Corporate Royal Blue (`#1A48B6` / `#0F3282`)** for CTA buttons, headings, and links; **Secondary Signature Red (`#FE0B10` / `#D4080D`)** for header masthead accent borders, category eyebrows, and alert highlights; **Crisp White (`#FFFFFF`)** and Light Neutrals (`#F8FAFC`, `#F1F5F9`) for surfaces.
+   - **Zero Corner Radius (`border-radius: 0px`)**: All buttons, cards, containers, and badges must feature zero corner radius for a crisp, enterprise B2B aesthetic.
+   - **Logo Placement**: Prominently feature `logo.png` reduced in size and placed **directly side-by-side with the titles** (NEVER standing alone on its own line): in the **header masthead** (`width="44" height="44"`, 2-column layout beside titles) and in the **footer legal section** (`width="22" height="22"`, inline beside company name).
 
 ---
 

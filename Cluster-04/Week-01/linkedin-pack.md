@@ -3,7 +3,7 @@
 * **Cluster & Week**: Cluster 04 (Night-Shift & Safe Store Dispersal) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
 * **Primary Target Decision-Makers**: Retail Regional Leads, Store Operations Directors, Heads of Loss Prevention, QSR Operations Leads (Shoprite, SPAR, FoodCo, Domino's, KFC)
-* **Core Call to Action**: Direct retail leaders to the full safe dispersal guide & store route audit (`https://www.netsdrive.com/corporate-audit`) via the **First-Comment Link Strategy**.
+* **Core Call to Action**: Direct retail leaders to the full safe dispersal guide & store route audit (`https://www.neweratransports.com/corporate-audit`) via the **First-Comment Link Strategy**.
 
 > [!NOTE]
 > In compliance with the **First-Comment Link Rule (LNK-01)**, zero outbound links are placed in the main body of any LinkedIn post. All links are strictly deployed in the pinned first comment.
@@ -54,10 +54,10 @@ Retail & Operations Leaders: What is your current turnover rate among cashiers a
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full Retail Night Dispersal Guide (all 10 protocols + financial teardown):
-https://www.netsdrive.com/blog/closing-shift-danger-retail-staff-security-protocols
+https://www.neweratransports.com/blog/closing-shift-danger-retail-staff-security-protocols
 
 If your retail chain or supermarket network in Lagos, Abuja, or Port Harcourt is struggling with closing shift safety and cashier turnover, book a complimentary retail dispersal feasibility audit:
-https://www.netsdrive.com/corporate-audit
+https://www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -140,7 +140,7 @@ Leading retail brands don't leave staff at the curb. They run gated, GPS-monitor
   - Deploy a dedicated night dispersal shuttle for your flagship store on a 14-day trial.
 * **Call to Action**:
   - `🔗 Link to book your retail dispersal audit is in the first comment.`
-  - Visit: **netsdrive.com/corporate-audit**
+  - Visit: **www.neweratransports.com/corporate-audit**
 
 ---
 
@@ -197,7 +197,7 @@ Following up on our connection—we recently published an operational guide on e
 We found that unmanaged midnight commutes quietly cost a multi-outlet chain over ₦21M annually in repetitive recruitment, POS onboarding, and surrendered late-evening trading.
 
 Thought this retail operations analysis might be useful for your team's store planning at [Company Name]:
-https://www.netsdrive.com/blog/closing-shift-danger-retail-staff-security-protocols
+https://www.neweratransports.com/blog/closing-shift-danger-retail-staff-security-protocols
 
 No pitch, just useful retail benchmarks.
 
@@ -214,7 +214,7 @@ When cashiers, kitchen staff, and store attendants close your retail outlets bet
 
 This transit terror directly fuels an industry turnover rate of over 45%—costing your business ₦250,000 per cashier replacement while forcing store managers to close registers early.
 
-At NETS Drive, we manage turnkey night staff dispersal operations for retail chains with:
+At New Era Transports Services, we manage turnkey night staff dispersal operations for retail chains with:
 • Secured loading bay pickups directly within the store perimeter.
 • Vetted, security-cleared professional night captains with background checks.
 • Pre-mapped radial drop-off corridors ensuring staff reach home safely before midnight.
@@ -225,6 +225,6 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s st
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+www.neweratransports.com/corporate-audit
 ```

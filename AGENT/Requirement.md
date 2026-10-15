@@ -1,6 +1,6 @@
-# 🚦 Requirement.md: NETS Drive Quality Gates & Pre-Flight Checklists
+# 🚦 Requirement.md: New Era Transports Services Quality Gates & Pre-Flight Checklists
 
-This document defines the strict, non-negotiable verification criteria that every B2B marketing, sales enablement, and corporate acquisition asset must pass before advancing to production delivery for **NETS Drive (New Era Transport Services)**.
+This document defines the strict, non-negotiable verification criteria that every B2B marketing, sales enablement, and corporate acquisition asset must pass before advancing to production delivery for **New Era Transports Services**.
 
 It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NETS Corporate Acquisition Engine.
 
@@ -20,7 +20,7 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
   4. `email-blast.md` (Stream 2: Markdown Companion Edition)
   5. `linkedin-pack.md` (Stream 4: LinkedIn B2B Acquisition Pack — ONLY social platform)
 * [ ] **Brand Alignment Gate (BRD-01)**:
-  - Brand identity MUST be **NETS Drive (New Era Transport Services)** (`https://www.netsdrive.com`).
+  - Brand identity MUST be **New Era Transports Services** (www.neweratransports.com). Strictly prohibited to use "Nets Drive" or "NETS Drive" (`https://www.neweratransports.com`).
   - Tone must reflect enterprise operational authority, logistics competence, and financial empathy.
 * [ ] **Social Media Exclusivity Gate (SOC-01)**:
   - Social media content is **strictly and exclusively LinkedIn**.
@@ -88,10 +88,11 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
 | **E-03** | **Lead News Cover Story** | Pure journalistic reporting on an authentic Nigerian transport, fuel, infrastructure, or regulatory development, featuring a real photo and *"► WHAT IT MEANS FOR OPERATORS"* analysis. | [ ] |
 | **E-04** | **Industry News Round-up** | 3 distinct, authentic industry news cards with real photos, source citations, and operator implications. | [ ] |
 | **E-05** | **Mobility Hack / Metric Container** | High-contrast callout container presenting the blog's quantitative downtime/fatigue formula as the tactical response to transit inflation. | [ ] |
-| **E-06** | **Primary Call to Action** | Prominent button directing readers to read the full blog post or schedule a route review. | [ ] |
+| **E-06** | **Zero Corner Radius CTA Button** | Prominent corporate CTA button directing readers to read the full blog post or schedule a route review. **Must strictly feature zero corner radius (`border-radius: 0px`)** with sharp architectural corners (no rounded or pill buttons), styled in primary brand blue (`#1A48B6`) with bold white text (`#FFFFFF`) and generous padding (`14px 28px`). | [ ] |
 | **E-07** | **Footer Offer** | Highlights the NETS 1-2 Route Pilot Program, SLA guarantees, and 30-day corporate billing. | [ ] |
 | **E-08** | **Deliverability Hygiene** | Inline CSS, 600px responsive table layout, zero spam trigger words, and compliant corporate footer. | [ ] |
-| **E-09** | **Light Executive UI Standard** | Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background UI styling. All email headers, metric containers, and footers must use clean light executive backgrounds (`#FFFFFF`, `#F8FAFC`, `#F1F5F9`) with high-contrast typography and brand accent borders. | [ ] |
+| **E-09** | **Light Executive UI Standard** | Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background UI styling. All email headers, metric containers, cards, and footers must use clean light executive backgrounds (`#FFFFFF`, `#F8FAFC`, `#F1F5F9`) with high-contrast typography and brand accent borders. | [ ] |
+| **E-10** | **Strict Brand Colors (`logo.png`) & Zero Corner Radius** | HTML email templates must maintain **strict compliance** exclusively with the brand colors extracted from `logo.png`: **Primary Corporate Royal Blue (`#1A48B6` / `#0F3282`)** for CTA buttons, headings, and links; **Secondary Signature Red (`#FE0B10` / `#D4080D`)** for header accent borders, category eyebrows, and alert highlights; **Crisp White (`#FFFFFF`)** and Light Neutrals (`#F8FAFC`, `#F1F5F9`) for surfaces. **Zero corner radius (`border-radius: 0px`)** is strictly required on all buttons, cards, containers, and images. The official brand logo (`logo.png`) must be reduced in size and placed **directly side-by-side with the titles** (NEVER standing alone on its own line): in the **header masthead** as a 44px square (`width="44" height="44"`) aligned side-by-side with the titles in a 2-column table row, and in the **footer legal section** as a 22px icon (`width="22" height="22"`) inline beside "New Era Transports Services". | [ ] |
 
 ---
 
@@ -101,7 +102,7 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
 | :--- | :--- | :--- | :--- |
 | **L-01** | **Exclusivity Standard** | Contains **only** LinkedIn assets (Long-form post, short post, carousel outline, poll, InMail/connection note). Zero content for other social networks. | [ ] |
 | **L-02** | **Hook Before the Fold** | First 1–2 lines under 140 characters that create high tension, pattern interrupt, or financial contrast before `...see more`. | [ ] |
-| **L-03** | **First-Comment Link Rule** | Main post body contains **no outbound links**. Link to `netsdrive.com/corporate-audit` placed strictly in pinned first comment. | [ ] |
+| **L-03** | **First-Comment Link Rule** | Main post body contains **no outbound links**. Link to `www.neweratransports.com/corporate-audit` placed strictly in pinned first comment. | [ ] |
 | **L-04** | **Dwell-Time Formatting** | 1–2 sentence paragraphs, generous line breaks, 5 bulleted strategic shifts, and low-friction closing discussion question. | [ ] |
 | **L-05** | **Document Carousel Outline** | Exactly 6 to 8 slides formatted for PDF upload with explicit layout wireframes, contrast colors (`#0F172A`, `#EF8B3C`), and comparison slide. | [ ] |
 | **L-06** | **Carousel Feed Caption** | 3–4 sentence teaser caption with bulleted takeaways accompanying the PDF upload. | [ ] |

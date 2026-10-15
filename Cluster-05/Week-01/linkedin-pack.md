@@ -3,7 +3,7 @@
 * **Cluster & Week**: Cluster 05 (Executive VIP, Protocol & Project Mobilization) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
 * **Primary Target Decision-Makers**: Executive Assistants to MD/CEO, Corporate Protocol Officers, Heads of Procurement, Project Directors (Multinationals, Embassies, Board Secretariats)
-* **Core Call to Action**: Direct corporate leaders to the full executive protocol guide & summit audit (`https://www.netsdrive.com/corporate-audit`) via the **First-Comment Link Strategy**.
+* **Core Call to Action**: Direct corporate leaders to the full executive protocol guide & summit audit (`https://www.neweratransports.com/corporate-audit`) via the **First-Comment Link Strategy**.
 
 > [!NOTE]
 > In compliance with the **First-Comment Link Rule (LNK-01)**, zero outbound links are placed in the main body of any LinkedIn post. All links are strictly deployed in the pinned first comment.
@@ -54,10 +54,10 @@ Executive Assistants & Protocol Leads: What is the most common operational failu
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full Executive Chauffeur & VIP Protocol Guide (all 10 standards + risk models):
-https://www.netsdrive.com/blog/when-vip-logistics-fail-executive-chauffeur-standards
+https://www.neweratransports.com/blog/when-vip-logistics-fail-executive-chauffeur-standards
 
 If your organization is hosting an upcoming board summit, investor delegation, or AGM in Lagos or Abuja, book a complimentary executive protocol consultation and explore our luxury fleet options:
-https://www.netsdrive.com/corporate-audit
+https://www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -141,7 +141,7 @@ Elite corporations don't use informal car hire brokers. They partner with dedica
   - Guaranteed standby shadow vehicle deployment for zero downtime.
 * **Call to Action**:
   - `🔗 Link to book your executive protocol consultation is in the first comment.`
-  - Visit: **netsdrive.com/corporate-audit**
+  - Visit: **www.neweratransports.com/corporate-audit**
 
 ---
 
@@ -198,7 +198,7 @@ Following up on our connection—we recently published an executive guide on eli
 We found that a two-hour airport transit delay quietly costs an organization over ₦50M in wasted C-Suite leadership capacity, emergency surge charters, and deal friction.
 
 Thought this protocol analysis might be useful for your team's executive planning at [Company Name]:
-https://www.netsdrive.com/blog/when-vip-logistics-fail-executive-chauffeur-standards
+https://www.neweratransports.com/blog/when-vip-logistics-fail-executive-chauffeur-standards
 
 No pitch, just useful corporate protocol benchmarks.
 
@@ -215,7 +215,7 @@ When foreign institutional investors, visiting board directors, or diplomatic de
 
 From overheating radiators on the airport expressway to unvetted drivers on mobile phones, logistical glitches introduce acute friction into multi-million-dollar corporate summits.
 
-At NETS Drive, we manage directly owned executive VIP fleets with:
+At New Era Transports Services, we manage directly owned executive VIP fleets with:
 • Flawlessly detailed Toyota Land Cruiser Prado TXL, Lexus LX, and VIP HiAce executive vans.
 • Suited, background-cleared protocol chauffeurs trained in diplomatic etiquette.
 • Airside VIP terminal greeting and private jet baggage coordination at MMIA and Abuja airports.
@@ -226,6 +226,6 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s up
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+www.neweratransports.com/corporate-audit
 ```

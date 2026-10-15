@@ -163,11 +163,11 @@ Promote safe corporate night dispersal as a core employment benefit. Highlightin
 
 ---
 
-## Fulfill Your Duty of Care with NETS Drive
+## Fulfill Your Duty of Care with New Era Transports Services
 
 Your frontline retail staff generate your daily revenue. Abandoning them to the dangers of midnight urban transit is an operational failure that erodes your brand and your profitability.
 
-**NETS Drive** partners with leading supermarket chains, quick service restaurant groups, and 24/7 commercial service networks across Lagos, Abuja, Port Harcourt, and Ibadan to deliver turnkey night staff dispersal operations:
+**New Era Transports Services** partners with leading supermarket chains, quick service restaurant groups, and 24/7 commercial service networks across Lagos, Abuja, Port Harcourt, and Ibadan to deliver turnkey night staff dispersal operations:
 * **Secured Fleet**: Modern, well-maintained Toyota HiAce (14–16 seats) and Toyota Coaster (30 seats) shuttles equipped with bright LED cabin illumination, tinted security glass, and high-output air conditioning.
 * **Pre-Mapped Dispersal Nodes**: Optimized arterial routing designed to drop workers safely within 30 to 45 minutes of store lockup.
 * **24/7 Security Dispatch**: Real-time GPS vehicle tracking, electronic passenger manifests, and emergency response integration.
@@ -181,10 +181,10 @@ Do not wait for a catastrophic security incident at your store junction to addre
 
 ### Request a Complimentary Retail Dispersal Feasibility Study
 
-The NETS Drive retail logistics division will conduct a comprehensive, zero-cost night dispersal assessment for your retail chain:
+The New Era Transports Services retail logistics division will conduct a comprehensive, zero-cost night dispersal assessment for your retail chain:
 * Outlet-by-outlet closing shift headcount and residential radius mapping.
 * Optimized arterial dispersal route design tailored to your exact store closing hours.
 * Comprehensive cost-benefit analysis detailing your projected turnover and recruitment savings.
 * A low-risk **14-day dedicated trial dispersal shuttle** for your highest-volume retail outlet.
 
-👉 **Visit [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) or email `retail@netsdrive.com` to schedule your safe staff dispersal audit today.**
+👉 **Visit [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) or email `retail@neweratransports.com` to schedule your safe staff dispersal audit today.**

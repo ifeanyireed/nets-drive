@@ -3,7 +3,7 @@
 * **Cluster & Week**: Cluster 02 (High-HSE Field Crews & Energy Operations) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
 * **Primary Target Decision-Makers**: HSE Directors, Journey Management Leads, Logistics Directors, Category Procurement Managers (Shell, Chevron, TotalEnergies, NLNG, Seplat, SLB, Saipem)
-* **Core Call to Action**: Direct energy executives to the full HSE fleet guide & compliance audit (`https://www.netsdrive.com/corporate-audit`) via the **First-Comment Link Strategy**.
+* **Core Call to Action**: Direct energy executives to the full HSE fleet guide & compliance audit (`https://www.neweratransports.com/corporate-audit`) via the **First-Comment Link Strategy**.
 
 > [!NOTE]
 > In compliance with the **First-Comment Link Rule (LNK-01)**, zero outbound links are placed in the main body of any LinkedIn post. All links are strictly deployed in the pinned first comment.
@@ -59,10 +59,10 @@ HSE & Logistics Directors: What is the most common roadworthiness deficiency you
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full HSE Fleet Compliance Guide (all 10 standards + exposure calculations):
-https://www.netsdrive.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits
+https://www.neweratransports.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits
 
 If your company is mobilizing crews across Port Harcourt, Warri, or Lekki corridors, book a complimentary IOC fleet compliance audit and explore our 14-day audited trial crew shuttle:
-https://www.netsdrive.com/corporate-audit
+https://www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -148,7 +148,7 @@ Leading energy operators don't hire roadside buses. They run IVMS-equipped, audi
   - Test our 100% compliant crew transfer Coasters on a 14-day field trial.
 * **Call to Action**:
   - `🔗 Link to book your upstream fleet audit is in the first comment.`
-  - Visit: **netsdrive.com/corporate-audit**
+  - Visit: **www.neweratransports.com/corporate-audit**
 
 ---
 
@@ -205,7 +205,7 @@ Following up on our connection—we recently published an operational guide on e
 We found that missing certified IVMS telematics or 3-point seatbelts on a single crew bus can trigger over ₦42.5M in marine vessel standby demurrage and vendor scorecard de-ranking.
 
 Thought this compliance breakdown might be useful for your team's journey planning at [Company Name]:
-https://www.netsdrive.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits
+https://www.neweratransports.com/blog/informal-bus-hire-fails-ioc-hse-journey-audits
 
 No pitch, just useful compliance benchmarks.
 
@@ -222,7 +222,7 @@ When contractor crew buses fail pre-mobilization Journey Management checks at On
 
 Most contractors attempt to save costs on roadside bus hire, which introduces severe joint liability and risks immediate NIPEX vendor portal de-ranking.
 
-At NETS Drive, we manage fully audited, IVMS-equipped crew transfer fleets for energy contractors with:
+At New Era Transports Services, we manage fully audited, IVMS-equipped crew transfer fleets for energy contractors with:
 • Guaranteed 100% first-time IOC audit clearance (Shell, Chevron, NNPC standards).
 • Real-time satellite IVMS tracking with 80 km/h speed limits and fatigue sensors.
 • Level 3 Defensive Driving certified chauffeurs with documented drug screenings.
@@ -233,6 +233,6 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s cr
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+www.neweratransports.com/corporate-audit
 ```

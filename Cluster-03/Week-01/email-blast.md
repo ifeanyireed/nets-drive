@@ -3,9 +3,9 @@
 * **Cluster & Week**: Cluster 03 (Corporate White-Collar Commuter Networks) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **HTML Version**: [`email-blast.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/Cluster-03/Week-01/email-blast.html) (Responsive 600px HTML with inline CSS)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
-* **Brand**: NETS Drive (New Era Transport Services) · `https://www.netsdrive.com`
+* **Brand**: New Era Transports Services · `https://www.neweratransports.com`
 * **Target Audience**: Chief People Officers, HR Directors, Heads of Talent, Facilities Directors (Victoria Island, Marina, Ikoyi, Lekki Phase 1)
-* **Primary Call to Action**: `https://www.netsdrive.com/corporate-audit` ("Request Corporate Commuter Feasibility Study")
+* **Primary Call to Action**: `https://www.neweratransports.com/corporate-audit` ("Request Corporate Commuter Feasibility Study")
 
 ---
 
@@ -33,7 +33,7 @@ Empirical human capital data reveals that commuter brain fog robs corporate orga
 
 Leading financial institutions and technology firms in Victoria Island and Ikoyi have eliminated this drain by replacing unorganized cash allowances with dedicated, climate-controlled executive commuter shuttles.
 
-At NETS Drive, we operate turnkey executive commuter programs with:
+At New Era Transports Services, we operate turnkey executive commuter programs with:
 1. Premium Toyota Coasters and HiAces with ergonomic recliner seating, dual AC, 4G Wi-Fi, and individual USB charging ports.
 2. Optimized arterial route scheduling that beats peak corridor gridlock by 45 minutes.
 3. Guaranteed reserved seating via our mobile corporate booking portal.
@@ -44,8 +44,8 @@ Could we schedule a brief 15-minute call this week to review [Company Name]'s em
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-Phone: +234 (0) 800-NETS-DRIVE | Web: netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+Phone: +234 (0) 800-NEW-ERA | Web: www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -112,17 +112,17 @@ With fuel price volatility and commercial ride-hailing fares escalating, employe
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full 10-Tactic HR Mobility Guide →**
-* **Destination**: `https://www.netsdrive.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output`
+* **Destination**: `https://www.neweratransports.com/blog/3-hour-lagos-commute-traffic-burnout-corporate-output`
 
 ---
 
 ### Footer Offer: The NETS Executive Commuter Trial
 Stop losing your best talent to highway exhaustion.
 
-NETS Drive operates premium executive commuter shuttles across Magodo, Ikeja, Gbagada, Surulere, Victoria Island, and Ikoyi.
+New Era Transports Services operates premium executive commuter shuttles across Magodo, Ikeja, Gbagada, Surulere, Victoria Island, and Ikoyi.
 * Climate-controlled Toyota Coasters and HiAces with ergonomic recliners.
 * High-speed onboard 4G Wi-Fi and individual USB charging.
 * Guaranteed reserved seating via our mobile corporate portal.
 * 100% tax-deductible consolidated B2B monthly billing.
 
-**Schedule a Corporate Commuter Feasibility Study**: [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) | Email: `commute@netsdrive.com`
+**Schedule a Corporate Commuter Feasibility Study**: [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) | Email: `commute@neweratransports.com`

@@ -3,9 +3,9 @@
 * **Cluster & Week**: Cluster 01 (Industrial Shift Workers & Factory Lines) · Month 01 · Week 01 (The Core Operational Bottleneck)
 * **HTML Version**: [`email-blast.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/Cluster-01/Week-01/email-blast.html) (Responsive 600px HTML with inline CSS)
 * **Author**: Written by @Ifeanyi Felix · Corporate Mobility Strategy Lead
-* **Brand**: NETS Drive (New Era Transport Services) · `https://www.netsdrive.com`
+* **Brand**: New Era Transports Services · `https://www.neweratransports.com`
 * **Target Audience**: Plant Managers, Factory Directors, Heads of Operations, Supply Chain Directors (e.g., Nestlé, Cadbury, Beloxxi, Dufil, BUA Foods, Flour Mills)
-* **Primary Call to Action**: `https://www.netsdrive.com/corporate-audit` ("Request Factory Route Feasibility Audit")
+* **Primary Call to Action**: `https://www.neweratransports.com/corporate-audit` ("Request Factory Route Feasibility Audit")
 
 ---
 
@@ -31,7 +31,7 @@ When a 45-person packaging shift arrives 35 minutes late, your plant doesn't jus
 
 Leading food and beverage plants in Ogun State have eliminated this friction by replacing unorganized cash allowances with dedicated, cluster-synchronized employee shuttles.
 
-At NETS Drive, we manage dedicated shift bus fleets with:
+At New Era Transports Services, we manage dedicated shift bus fleets with:
 1. 99.2% guaranteed on-time corridor arrival across Agbara, Sagamu, and Sango routes.
 2. 30-minute hot standby replacement bus guarantee deployed right in your corridor.
 3. Live IVMS GPS tracking and digital passenger attendance logs for your plant control room.
@@ -42,8 +42,8 @@ Could we schedule a 15-minute operational call this week to review [Company Name
 Regards,
 
 Ifeanyi Felix
-Corporate Mobility Strategy Lead · NETS Drive
-Phone: +234 (0) 800-NETS-DRIVE | Web: netsdrive.com/corporate-audit
+Corporate Mobility Strategy Lead · New Era Transports Services
+Phone: +234 (0) 800-NEW-ERA | Web: www.neweratransports.com/corporate-audit
 ```
 
 ---
@@ -110,17 +110,17 @@ According to the Manufacturers Association of Nigeria (MAN), plant operators in 
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full Operational Teardown: 10 Fixes for Shift Lateness →**
-* **Destination**: `https://www.netsdrive.com/blog/4m-cost-shift-lateness-agbara-sagamu`
+* **Destination**: `https://www.neweratransports.com/blog/4m-cost-shift-lateness-agbara-sagamu`
 
 ---
 
 ### Footer Offer: The NETS 14-Day Plant Trial
 Stop absorbing the millions in idle line costs caused by unmanaged commutes. 
 
-NETS Drive provides dedicated 30–33 seater Toyota Coaster and luxury shift buses with:
+New Era Transports Services provides dedicated 30–33 seater Toyota Coaster and luxury shift buses with:
 * Guaranteed 99.2% on-time corridor arrival SLA.
 * 30-minute hot standby replacement bus in the corridor.
 * Live IVMS GPS tracking and digital passenger verification.
 * Structured monthly B2B invoicing with 30-day payment terms.
 
-**Schedule a Complimentary Plant Route Feasibility Study**: [netsdrive.com/corporate-audit](https://www.netsdrive.com/corporate-audit) | Email: `corporate@netsdrive.com`
+**Schedule a Complimentary Plant Route Feasibility Study**: [www.neweratransports.com/corporate-audit](https://www.neweratransports.com/corporate-audit) | Email: `corporate@neweratransports.com`

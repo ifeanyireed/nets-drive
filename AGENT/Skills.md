@@ -1,6 +1,6 @@
-# 🧠 Skills.md: NETS Drive Knowledge Base Engine & Strategic Playbook
+# 🧠 Skills.md: New Era Transports Services Knowledge Base Engine & Strategic Playbook
 
-This document provides the foundational intelligence, fleet matrices, quantitative downtime formulas, audience blueprints, visual prompt standards, and LinkedIn B2B copywriting mechanics required by the multi-agent content generation swarm for **NETS Drive (New Era Transport Services)**.
+This document provides the foundational intelligence, fleet matrices, quantitative downtime formulas, audience blueprints, visual prompt standards, and LinkedIn B2B copywriting mechanics required by the multi-agent content generation swarm for **New Era Transports Services**.
 
 It powers all **5 Clusters across the 9-Month Media Engine (36 Weeks per Cluster = 180 Weeks)** defined in [`nets-drive.html`](file:///Users/ifeanyifelix/Desktop/ReedBreedCC/nets-drive/nets-drive.html).
 
@@ -135,7 +135,7 @@ Content must feature real quantitative models instead of generic platitudes. Dec
   3. *Scene 2: The Cost Spike (1:15–2:30)*: The financial and human fallout; confrontation between plant supervisor and management; split-screen comparison between unmanaged transit and a smooth NETS fleet arrival.
   4. *TH: The Math (2:30–3:15)*: Calm host breakdown explaining the cluster's mathematical downtime formula.
   5. *Scene 3: The Rewind (3:15–3:55)*: Rewind sound effect; the same corridor replayed with dedicated NETS climate-controlled shuttles arriving on schedule with digital attendance.
-  6. *TH: The Close (3:55–4:15)*: Pitch NETS Corporate Fleet Services and offer the Free Route & Cost Audit (`netsdrive.com/corporate-audit`).
+  6. *TH: The Close (3:55–4:15)*: Pitch NETS Corporate Fleet Services and offer the Free Route & Cost Audit (`www.neweratransports.com/corporate-audit`).
 * **Production Notes**: Casting specs, audio SFX cues, B-roll recommendations, and a 60-second TikTok/Reels cutdown concept.
 
 ### 4.2 📚 Bookmarkable Blog Posts (`blog-post.md`)
@@ -150,6 +150,12 @@ Content must feature real quantitative models instead of generic platitudes. Dec
   - Side-by-Side Comparison Table ("Informal Bus Charters / Cash Allowances" vs "Dedicated NETS Managed Fleet").
   - Decisive Call to Action (Request Route Review & Pilot Fleet Proposal).
 
+* **Brand Identity & Domain Mandate**:
+  - Official Brand: **New Era Transports Services** (NETS). Strictly NO "Nets Drive".
+  - Website Domain: `https://www.neweratransports.com`
+  - Blog URL Structure: `www.neweratransports.com/blog/[slug]`
+  - Corporate Audit URL: `www.neweratransports.com/corporate-audit`
+
 ### 4.3 📰 Pure-News HTML Email Blast (`email-blast.html` & `email-blast.md`)
 * **Format**: Responsive, mobile-first HTML email newsletter with inline CSS (max 600px width card).
 * **Pure News Editorial Mandate**:
@@ -159,9 +165,16 @@ Content must feature real quantitative models instead of generic platitudes. Dec
 * **Template Styling**:
   - *Publication*: *The NETS Corporate Mobility Dispatch*
   - *Mandatory Light Executive Styling Rule (Zero Black Backgrounds)*: Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background UI styling in email templates. Headers must be crisp white (`#FFFFFF`) with dark charcoal typography (`#0F172A`), callout metric containers must be clean light cards (`#F8FAFC`) with light borders (`#E2E8F0`), and footers must be light neutral (`#F1F5F9`). All text must maintain high contrast on light surfaces.
-  - *Palette*: Crisp Executive White (`#FFFFFF`), Clean Card Light (`#F8FAFC`), Light Neutral Footer (`#F1F5F9`), Signal Transit Blue (`#1A48B6` / `#2A6BE0`), High-Vis Safety Amber (`#EF8B3C`), Dark Charcoal Typography (`#0F172A`).
-  - *Primary CTA Button*: Directs readers to the complete blog post or route audit landing page.
-  - *Footer*: Highlights the NETS 1-2 Route Pilot Program, SLA guarantees, and 30-day corporate billing.
+  - *Mandatory Zero Corner Radius Button Rule*: All CTA buttons, card containers, and interactive elements must strictly feature **zero corner radius (`border-radius: 0px !important;`)**. Buttons must have sharp, rectangular architectural corners—never rounded or pill shapes.
+  - *Strict Brand Color Compliance (`logo.png`)*: HTML email templates must strictly embody the official brand colors extracted from `logo.png`:
+    1. **Primary Brand Color**: Corporate Royal Blue (`#1A48B6` / `#0F3282`) for primary CTA buttons, dispatch headings, links, and key badges.
+    2. **Secondary Brand Color**: Signature Red (`#FE0B10` / `#D4080D`) for header masthead accent borders, category eyebrows, urgent alert callouts, and highlight accents.
+    3. **Neutral Executive Surfaces**: Crisp Executive White (`#FFFFFF`), Clean Card Light (`#F8FAFC`), Light Neutral Footer (`#F1F5F9`), Dark Charcoal Typography (`#0F172A`), and Slate Borders (`#E2E8F0`, `#CBD5E1`).
+  - *Brand Logo Presentation (`logo.png`)*: The official brand logo (`logo.png`) must be reduced in size and placed **directly side-by-side with the titles** (NEVER standing alone on its own line):
+    1. The **Header Masthead**: Placed in a 2-column table row directly beside the titles (`width="44" height="44"`).
+    2. The **Footer Legal Section**: Placed inline directly beside "New Era Transports Services" (`width="22" height="22"`).
+  - *Primary CTA Button*: Directs readers to the complete blog post or route audit landing page (styled in `#1A48B6` with white text `#FFFFFF`, zero corner radius `border-radius: 0px`, and padding `14px 28px`).
+  - *Footer*: Highlights the NETS 1-2 Route Pilot Program, SLA guarantees, and 30-day corporate billing, with embedded inline `logo.png`.
 
 ### 4.4 💼 LinkedIn B2B Acquisition Pack (`linkedin-pack.md` — ONLY Social Platform)
 * **Channel Exclusivity**: Produced **strictly and exclusively for LinkedIn**. Zero content for X/Twitter, Facebook, Instagram, or TikTok.
