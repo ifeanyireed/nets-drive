@@ -1,0 +1,45 @@
+# 🎬 Video Script: "The Tarmac Glitch"
+
+* **Cluster & Week**: Cluster 05 (Executive VIP, Protocol & Project Mobilization) · Month 01 · Week 01 (The Core Operational Bottleneck)
+* **Format**: Talking Head (TH) cut with Corporate Protocol Drama Scenes (DRAMA)
+* **Target Runtime**: ~4:15 (625 spoken words at 140 WPM)
+* **Cast**: Host (TH), Kunle (Corporate Protocol Lead), Visiting International Board Director, Unvetted Car Hire Driver
+* **Setting**: Modern Corporate Studio / MMIA International Arrival Terminal / Airport Expressway Shoulder
+* **Target Audience**: Executive Assistants to MD/CEO, Corporate Protocol Officers, Heads of Procurement, Project Directors (Multinationals, Embassies, Board Secretariats)
+* **Service Pitched in CTA**: **NETS Executive Chauffeur & Protocol Fleet** (`https://www.netsdrive.com/corporate-audit`)
+
+---
+
+## Production Breakdown Table
+
+| Timecode | Visual Action & Corridor Setting | Spoken Dialogue & SFX |
+| :--- | :--- | :--- |
+| **0:00 – 0:25** | **COLD OPEN: TALKING HEAD**<br>Host standing in a private executive hangar lounge. In the background, through expansive floor-to-ceiling glass windows, a corporate Gulfstream private jet idles on the tarmac. Host adjusts his cufflinks and addresses the camera with boardroom authority. | **HOST**: <br>You spend twelve months negotiating a forty-million-dollar syndicated partnership.<br><br>The visiting institutional directors fly eight thousand kilometers to Lagos to finalize the agreement and meet your executive board.<br><br>And their first impression of your corporate enterprise is sitting on the muddy shoulder of the airport expressway because your hired car's radiator overheated.<br><br>*(Beat. Sound of emergency hazard flashers ticking).*<br><br>In high-stakes corporate business, VIP logistics is not an administrative afterthought. It is your brand's frontline handshake. Let me show you what an amateur car hire truly costs you. |
+| **0:25 – 1:15** | **SCENE 1: THE AIRPORT BREAKDOWN (DRAMA)**<br>CORRIDOR: Airport Road approaching Oshodi flyover. 1:15 PM. Blistering Lagos afternoon sun, humid heat waves rising off the tarmac.<br>A hired black executive sedan sits on the shoulder with its hazard lights blinking sluggishly. Steam trickles from the grille.<br>KUNLE (36, sharp bespoke navy suit, silk tie, ear-piece) stands anxiously waving off oncoming commercial traffic. <br>Inside the back seat, the VISITING DIRECTOR (60s, tailored European suit, sweating through his shirt) checks his Rolex, wiping his forehead with a monogrammed handkerchief. The air conditioning has failed completely. | **SFX**: Hissing radiator, roaring interstate haulage trucks, aggressive commercial horns, rhythmic hazard flasher tick (`CLICK-CLACK`).<br><br>**VISITING DIRECTOR**: <br>*(Irritated, speaking on phone)* Henrik, I don't think we'll make the 2:30 PM meeting at the Secretariat. Our driver is pouring bottled water into the engine on the highway shoulder. It is nearly 38 degrees in here.<br><br>**KUNLE**: <br>*(Pacing frantically, on phone with car hire vendor)* Where is the replacement vehicle? You told me this vehicle was serviced yesterday! I have the Managing Director of a London equity fund sitting on the expressway! |
+| **1:15 – 2:10** | **SCENE 2: THE BOARDROOM COLLAPSE (DRAMA)**<br>IKOYI: Executive Penthouse Boardroom. 3:00 PM.<br>Wide shot: The Managing Director and executive committee have been waiting for forty-five minutes. Ice melts in crystal water carafes. The meeting mood has soured.<br>The visiting director finally walks in: delayed, visibly agitated, shirt wrinkled from the heat, clutching a ruined leather briefcase. The opening pleasantries are stiff and awkward. The trust that took a year to build has evaporated before the first slide is projected. | **SFX**: Tense boardroom silence, clicking of a pen, nervous coughing.<br><br>**MANAGING DIRECTOR (INTERNAL MONOLOGUE)**: <br>We pride ourselves on flawless execution. We manage half a trillion naira in assets. And we couldn't even manage an airport pickup. |
+| **2:10 – 2:30** | **SPLIT-SCREEN COMPARISON**<br>**Left Screen (The Roadside Rental Disaster)**: Overheating radiator, unvetted driver arguing on the highway, embarrassed corporate host.<br>**Right Screen (The NETS Protocol Standard)**: A pristine, black Toyota Land Cruiser Prado TXL waiting in the private airside terminal. A suited, vetted protocol chauffeur holding the door open, chilled mineral water and cold towels ready in the cabin. | **HOST (V.O.)**: <br>You don't lose major partnerships in the negotiation room.<br><br>You lose them during the sixty minutes between the airport runway and the boardroom table. |
+| **2:30 – 3:15** | **TALKING HEAD: THE EXECUTIVE FAILURE MATH**<br>Host steps in front of a digital interactive glass screen displaying corporate risk metrics. | **HOST**: <br>Let us look at the actual commercial math of executive logistics failure:<br><br>When a VIP transport failure disrupts an executive summit, your balance-sheet loss isn't the fifty thousand naira you spent on the car hire.<br><br>Your true exposure equals three compounding damages:<br><br>One: Brand and deal opportunity erosion. Introducing friction into an institutional partnership increases deal abandonment probability by twenty-five percent.<br><br>Two: Emergency executive surge charter fees—spending three hundred to five hundred percent premiums trying to mobilize replacement SUVs on short notice.<br><br>Three: Senior executive time burn. Ten C-Suite directors waiting forty-five minutes in a boardroom represents millions of naira in wasted corporate leadership capacity.<br><br>An unvetted fifty-thousand-naira car charter can instantly jeopardize **hundreds of millions of naira in enterprise value**. |
+| **3:15 – 3:55** | **SCENE 3: THE REWIND (DRAMA)**<br>**SFX**: Digital rewind swoosh.<br>Visual snaps back to 12:45 PM at the Murtala Muhammed International Airport VIP Executive Terminal.<br>A flawless black NETS Toyota Land Cruiser Prado TXL idles quietly under the terminal canopy. A suited, vetted NETS protocol chauffeur in pristine white gloves stands at attention. The cabin is chilled to a quiet 20 degrees Celsius, equipped with chilled water, executive newspapers, and high-speed Wi-Fi.<br>As the Visiting Director emerges from private customs clearance, Kunle greets him smoothly. The chauffeur handles the luggage seamlessly. The Prado glides smoothly onto the highway, guided by pre-cleared arterial bypasses.<br>At 2:15 PM, the director arrives at the Ikoyi boardroom completely refreshed, impressed, and ready to sign. | **SFX**: Smooth door closure (`THUD`), soothing classical cabin music, firm handshake in boardroom.<br><br>**HOST (V.O.)**: <br>Airside protocol greeting. Vetted, discreet protocol chauffeurs. Flawlessly maintained luxury fleet. Zero delays, zero embarrassment. |
+| **3:55 – 4:15** | **TALKING HEAD: THE CLOSE & CTA**<br>Host returns to center frame. Professional graphic cards appear on screen displaying executive VIP fleet contact links. | **HOST**: <br>Never leave your corporate reputation to chance with unvetted car hire agencies.<br><br>Elevate your executive mobility.<br><br>Go to **netsdrive.com/corporate-audit**. Enter your upcoming board summit dates, VIP flight itineraries, and project mobilization corridors.<br><br>Our executive protocol desk will assign dedicated luxury vehicles, vetted chauffeurs, and private airside protocol for your organization.<br><br>Flawless hospitality. Uncompromising prestige. |
+
+---
+
+## Production Notes & Technical Specs
+
+* **Total Word Count**: 625 words (~4:15 runtime at 140 WPM).
+* **Audio / SFX Direction**:
+  - High contrast between the chaotic, deafening airport expressway traffic (horns, grinding brakes) and the serene, quiet luxury of the executive private terminal and Prado interior.
+* **Casting & Wardrobe**:
+  - *Host*: Impeccable boardroom attire (midnight navy bespoke suit, crisp white French-cuff shirt, gold cufflinks).
+  - *Visiting Director*: European institutional investor, silver hair, bespoke charcoal gray suit, gold wristwatch.
+  - *Kunle*: Professional corporate protocol manager, tailored suit, discreet acoustic ear-piece.
+* **B-Roll Capture Checklist**:
+  1. Tracking shot of black Toyota Land Cruiser Prado TXL gliding through private executive airport terminal gates.
+  2. Interior shot of leather captain seats, chilled water bottles, and clean tissue bar.
+  3. Shot of suited chauffeur opening passenger door with formal protocol etiquette.
+  4. Confident handshake across executive boardroom table overlooking Lagos lagoon.
+* **60-Second Social Cutdown Concept (LinkedIn Video / Ad)**:
+  - *0:00–0:08*: Host cold open: "When VIP logistics fail: The ₦50M cost of cheap car hire."
+  - *0:08–0:25*: Quick cut: Steaming car on airport road → Visiting director stranded → Delayed boardroom.
+  - *0:25–0:45*: Exposure formula: Deal trust erosion + C-suite time waste = Millions in enterprise loss.
+  - *0:45–1:00*: Pristine NETS Prado TXL with suited chauffeur → CTA to book executive VIP fleet audit.
