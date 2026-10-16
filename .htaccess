@@ -1,0 +1,113 @@
+# ==============================================================================
+# NETS Drive - Hostinger public_html Apache Configuration
+# ==============================================================================
+
+# 1. Prevent Directory Browsing
+Options -Indexes +FollowSymLinks
+
+# 2. Default Entry Document
+# Serves proposal.html first, falling back to nets-drive.html or index
+DirectoryIndex proposal.html nets-drive.html index.html index.php
+
+# 3. Rewrite Engine & Routing
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Pass Authorization Header to PHP (Hostinger fix)
+  RewriteCond %{HTTP:Authorization} ^(.*)
+  RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+  # Enforce HTTPS (compatible with Hostinger SSL & Cloudflare proxy)
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Block access to hidden files and directories (except Let's Encrypt .well-known)
+  RewriteRule (^|/)\.(?!well-known) - [F]
+</IfModule>
+
+# 4. MIME Types & UTF-8 Encoding
+<IfModule mod_mime.c>
+  AddType font/woff2                .woff2
+  AddType font/woff                 .woff
+  AddType application/json          .json
+  AddType text/markdown             .md
+  AddType image/png                 .png
+  AddType image/svg+xml             .svg
+  AddType image/webp                .webp
+  AddType image/x-icon              .ico
+  AddCharset UTF-8 .html .css .js .json .md
+</IfModule>
+
+# 5. CORS & Security Headers
+<IfModule mod_headers.c>
+  # Cross-Origin access for static assets, fonts, and API requests
+  <FilesMatch "\.(woff2?|eot|ttf|otf|svg|png|jpg|jpeg|gif|webp|ico|json)$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization, X-Requested-With"
+  </FilesMatch>
+
+  # Production Security Headers
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# 6. Cache Control for Live Dynamic Scanner (api.php)
+<Files "api.php">
+  <IfModule mod_headers.c>
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </IfModule>
+</Files>
+
+# 7. Static Asset Caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 month"
+
+  # Fonts & Images (1 Year)
+  ExpiresByType font/woff2          "access plus 1 year"
+  ExpiresByType font/woff           "access plus 1 year"
+  ExpiresByType image/png           "access plus 1 year"
+  ExpiresByType image/jpeg          "access plus 1 year"
+  ExpiresByType image/svg+xml       "access plus 1 year"
+  ExpiresByType image/x-icon        "access plus 1 year"
+  ExpiresByType image/webp          "access plus 1 year"
+
+  # Dynamic Pages & JSON (0 seconds)
+  ExpiresByType text/html           "access plus 0 seconds"
+  ExpiresByType application/json    "access plus 0 seconds"
+</IfModule>
+
+# 8. Gzip / Deflate Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/plain
+  AddOutputFilterByType DEFLATE text/xml
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/markdown
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/x-javascript
+  AddOutputFilterByType DEFLATE application/json
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE font/woff
+  AddOutputFilterByType DEFLATE font/woff2
+  AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# 9. Deny Direct Web Access to Sensitive Files and Source Scripts
+<FilesMatch "(^\.env|^\.git|.*\.py$|.*\.sh$|.*\.csv$|.*\.docx$|apify_xray_input\.json$)">
+  <IfModule !mod_authz_core.c>
+    Order deny,allow
+    Deny from all
+  </IfModule>
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
