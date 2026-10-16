@@ -56,7 +56,7 @@ Plant Directors & Operations Heads: How does your facility currently manage morn
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full corridor mapping breakdown (all 10 bypass protocols + mathematical downtime models):
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/mapping-lagos-ibadan-expressway-sagamu-interchange-bypasses
 
 If your plant in Agbara, Sagamu, Sango-Ota, or Ikeja is losing productive line hours to shift changeover delays, book a complimentary route audit and explore a 14-day dedicated trial corridor:
 https://www.neweratransports.com/corporate-audit
@@ -197,7 +197,7 @@ Hi [First Name],
 Following up on our connection—with ongoing construction diversions along the Sagamu-Ikorodu axis, several manufacturing directors in the corridor have shared that shift handover delays are averaging 35 minutes during rainy mornings.
 
 We compiled a corridor breakdown detailing 3 secondary arterial bypasses and a downtime cost model:
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/mapping-lagos-ibadan-expressway-sagamu-interchange-bypasses
 
 Hope this offers useful benchmarks for [Company Name]'s upcoming shift route planning.
 

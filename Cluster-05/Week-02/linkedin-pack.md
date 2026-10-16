@@ -54,7 +54,7 @@ Corporate Affairs Directors & Chief of Staff: How does your institution currentl
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full runway-to-boardroom airport protocol blueprint (all 10 standards + the $17,700 executive exposure equation):
-https://www.neweratransports.com/executive-protocol
+https://www.neweratransports.com/blog/airport-tarmac-terminal-protocol-lagos-abuja
 
 If your institution hosts visiting international board members, foreign investors, or diplomatic delegations in Lagos or Abuja, request a complimentary VIP protocol audit:
 https://www.neweratransports.com/executive-protocol
@@ -205,7 +205,7 @@ Hi [First Name],
 Following up on our connection—with peak evening arrivals creating significant congestion at MMIA and Abuja international terminals, several corporate protocol heads have noted that foreign principals are losing up to two hours to baggage and curbside friction.
 
 We compiled an operational guide detailing airside jet bridge clearances, certified B6 ballistic armor specifications, and secondary arterial bypasses:
-https://www.neweratransports.com/executive-protocol
+https://www.neweratransports.com/blog/airport-tarmac-terminal-protocol-lagos-abuja
 
 Hope this provides useful benchmarks for [Company Name]'s upcoming international board and investor arrival planning.
 

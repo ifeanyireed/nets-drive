@@ -66,7 +66,8 @@ In reality, our sequential corridor clustering groups up to five adjacent branch
 
 For a 6-store retail chain with 48 closing workers, this model reduces total monthly transport and turnover costs from ₦3.7M to ₦2.4M—saving over ₦15.7M annually while cutting night-shift turnover to near zero.
 
-We recently completed a corridor route map covering five retail outlets along the Lekki-Epe axis. I would be delighted to share the anonymized 1-page operational diagram with you.
+We recently completed a corridor route map covering five retail outlets along the Lekki-Epe axis. You can review our full night dispersal routing breakdown here:
+https://www.neweratransports.com/blog/neighborhood-night-routing-retail-store-dispersal
 
 Do you have 10 minutes next Tuesday at 2:00 PM?
 
@@ -123,6 +124,8 @@ When store registers reconcile and shutters lock at 10:30 PM, retail store manag
 
 > **► WHAT IT MEANS FOR RETAIL DIRECTORS & COOS:**
 > Retail frontline turnover is not an inevitable wage problem; it is a last-mile safety problem. A 6-store retail chain with 48 closing workers typically bleeds over ₦44.5M annually across fragmented cash allowances, surge ride-hailing reimbursements, and constant re-recruitment costs. Deploying dedicated multi-store dispersal loops with digital mobile OTPs and Chauffeur Headlight Escorts reduces annual spend to ₦28.8M—saving ₦15.7M while securing an unbroken chain of custody.
+
+🔗 **Read the full operational teardown (10 protocols & cost models)**: [www.neweratransports.com/blog/neighborhood-night-routing-retail-store-dispersal](https://www.neweratransports.com/blog/neighborhood-night-routing-retail-store-dispersal)
 
 ---
 

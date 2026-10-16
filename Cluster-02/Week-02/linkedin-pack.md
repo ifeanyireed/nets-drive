@@ -65,7 +65,7 @@ HSE Directors & Category Procurement Leads: What is your biggest challenge maint
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full upstream corridor breakdown (all 10 journey directives + mathematical HSE risk models):
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/navigating-port-harcourt-onne-port-corridor-journey-management
 
 If your operations in Port Harcourt, Onne, Warri, or Lekki FTZ face journey compliance risks, book a complimentary route audit and explore a 14-day dedicated trial corridor:
 https://www.neweratransports.com/corporate-audit
@@ -209,7 +209,7 @@ Hi [First Name],
 Following up on our connection—with increased IOC enforcement of IOGP 365 standards along the Eleme-Onne axis, several logistics leads have noted that spot bus hires face a 40%+ failure rate during terminal gate audits.
 
 We compiled a corridor compliance guide detailing 10 pre-qualification directives and an HSE exposure model:
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/navigating-port-harcourt-onne-port-corridor-journey-management
 
 Hope this offers useful benchmarks for [Company Name]'s upcoming crew mobilization planning.
 

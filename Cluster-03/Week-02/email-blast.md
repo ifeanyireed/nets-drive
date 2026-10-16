@@ -64,7 +64,8 @@ Most corporate HR teams assume commuter traffic is an uncontrollable Lagos reali
 
 A structured 6:35 AM departure from Gbagada or Ikeja avoids this curve entirely, delivering staff to Victoria Island in 48 minutes rather than 95 minutes. Furthermore, our live telematics switch routes to Eko Bridge or Western Avenue the moment Third Mainland experiences an obstruction.
 
-We recently conducted a route feasibility study mapping residential nodes across Gbagada, Ikeja, and Surulere for a leading financial institution. I would be happy to share the anonymized 1-page arterial summary with you.
+We recently conducted a route feasibility study mapping residential nodes across Gbagada, Ikeja, and Surulere for a leading financial institution. You can review the complete Mainland-to-Island arterial blueprint here:
+https://www.neweratransports.com/blog/mainland-island-arterial-blueprint-third-mainland-express
 
 Do you have 10 minutes next Tuesday at 11:00 AM?
 
@@ -121,6 +122,8 @@ Every business morning between 6:45 AM and 8:30 AM, hundreds of top financial an
 
 > **► WHAT IT MEANS FOR CHIEF PEOPLE OFFICERS & TALENT DIRECTORS:**
 > When white-collar talent arrives depleted, high-margin advisory firms and financial institutions lose billable output every day. For a 120-person workforce, 90 minutes of morning brain fog equates to over ₦367M in unrecovered annual output. Forward-thinking institutions do not leave morning transit to unmanaged chaos; they deploy dedicated corporate commuter express lines equipped with high-speed Wi-Fi and quiet-cabin policies, converting transit time into billable deep work.
+
+🔗 **Read the full operational blueprint (10 tactics & route maps)**: [www.neweratransports.com/blog/mainland-island-arterial-blueprint-third-mainland-express](https://www.neweratransports.com/blog/mainland-island-arterial-blueprint-third-mainland-express)
 
 ---
 

@@ -59,7 +59,7 @@ Retail Operations Leaders & COOs: How does your brand currently manage closing-s
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full multi-store night dispersal blueprint (all 10 protocols + the ₦15.7M cost savings equation):
-https://www.neweratransports.com/store-dispersal
+https://www.neweratransports.com/blog/neighborhood-night-routing-retail-store-dispersal
 
 If your retail, pharmacy, or restaurant network operates 3+ branches along shared corridors in Lagos or Abuja, request a complimentary route feasibility audit and explore a 14-day dedicated trial:
 https://www.neweratransports.com/store-dispersal
@@ -208,7 +208,7 @@ Hi [First Name],
 Following up on our connection—with public transit disappearing after 10:00 PM, several multi-unit retail and restaurant directors have shared that closing-shift turnover is averaging over 35% due to late-night travel anxiety.
 
 We compiled an operational breakdown detailing how grouping adjacent stores into sequential 10:45 PM loops saves up to ₦15.7M annually while guaranteeing estate-gate drops:
-https://www.neweratransports.com/store-dispersal
+https://www.neweratransports.com/blog/neighborhood-night-routing-retail-store-dispersal
 
 Hope this provides useful benchmarks for [Company Name]'s upcoming Q4 operations and frontline staffing reviews.
 

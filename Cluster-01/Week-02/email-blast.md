@@ -108,7 +108,7 @@ The Federal Ministry of Works and the Ogun State Traffic Compliance and Enforcem
 
 ### Primary Call to Action
 * **Button Text**: **Read the Full Corridor Mapping Teardown: 10 Arterial Bypasses →**
-* **Destination**: `https://www.neweratransports.com/corporate-audit`
+* **Destination**: `https://www.neweratransports.com/blog/mapping-lagos-ibadan-expressway-sagamu-interchange-bypasses`
 
 ---
 

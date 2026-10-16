@@ -53,7 +53,7 @@ Chief People Officers & Operations Directors: How does your organization current
 ### Pinned First-Comment Strategy
 ```text
 🔗 Read the full Mainland-to-Island arterial routing blueprint (all 10 protocols + the ₦367M cognitive fatigue equation):
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/mainland-island-arterial-blueprint-third-mainland-express
 
 If your organization has 30+ employees commuting from Mainland residential clusters to Victoria Island, Ikoyi, or Marina, request a complimentary route audit and explore a 14-day dedicated executive trial corridor:
 https://www.neweratransports.com/corporate-audit
@@ -199,7 +199,7 @@ Hi [First Name],
 Following up on our connection—with morning traffic across the Third Mainland Bridge compounding after 6:45 AM, several corporate HR heads on the Island have shared that analysts are losing up to 90 minutes of morning cognitive clarity to transit exhaustion.
 
 We compiled an arterial corridor breakdown detailing 5 routing protocols and our Commuter Fatigue Output Loss model:
-https://www.neweratransports.com/corporate-audit
+https://www.neweratransports.com/blog/mainland-island-arterial-blueprint-third-mainland-express
 
 Hope this provides useful benchmarks for [Company Name]'s upcoming talent retention and workplace mobility planning.
 

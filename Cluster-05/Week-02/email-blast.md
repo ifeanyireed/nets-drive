@@ -64,9 +64,8 @@ Most visiting foreign executives expect international standard duty-of-care: air
 
 However, many Nigerian corporate hosts still rely on fragmented protocol brokers who cannot guarantee asset availability or certified armored specifications during peak flight arrival windows.
 
-We recently supported a 7-member sovereign wealth fund delegation visiting Lagos for a $450M co-investment review, executing runway-to-boardroom transit in 44 minutes with zero terminal friction.
-
-I would be delighted to share our 1-page Executive Airport Protocol Specification Deck with your team.
+We recently supported a 7-member sovereign wealth fund delegation visiting Lagos for a $450M co-investment review, executing runway-to-boardroom transit in 44 minutes with zero terminal friction. You can review our full airport protocol guide here:
+https://www.neweratransports.com/blog/airport-tarmac-terminal-protocol-lagos-abuja
 
 Do you have 10 minutes next Wednesday at 11:30 AM?
 
@@ -123,6 +122,8 @@ When foreign investment partners, sovereign wealth delegates, or multinational b
 
 > **► WHAT IT MEANS FOR CORPORATE AFFAIRS DIRECTORS & CHIEFS OF STAFF:**
 > Executive protocol is not an administrative afterthought; it is an operational risk management shield. For a 3-partner visiting private equity syndicate, a 2.5-hour terminal and traffic delay bleeds over $17,700 (₦27.4M) in direct executive opportunity costs while introducing deal friction. Forward-thinking institutions eliminate curbside vulnerability by deploying accredited airside handlers, certified B6 ballistic armor, and live corridor telematics.
+
+🔗 **Read the full operational blueprint (10 protocol standards & specs)**: [www.neweratransports.com/blog/airport-tarmac-terminal-protocol-lagos-abuja](https://www.neweratransports.com/blog/airport-tarmac-terminal-protocol-lagos-abuja)
 
 ---
 
