@@ -90,36 +90,36 @@ Agents must pitch the specific fleet tier and operational capability designated 
 
 ## 3. Cluster-by-Cluster Core Theses & Mathematical Models
 
-Content must feature real quantitative models instead of generic platitudes. Decision-makers respond to measurable financial and operational impact.
+Content must feature real quantitative models instead of generic platitudes. Decision-makers respond to measurable financial and operational impact. All formulas must be presented in **clean Unicode Markdown math syntax** without raw LaTeX markup (`\text`, `\frac`, `\times`, etc.).
 
 ### Cluster 1 (Industrial Shift Workers · Agbara / Sagamu / Ota)
 * **Core Thesis**: *"Your packaging line does not idle because machinery fails; it idles because 40 key machine operators are stuck in a Danfo at the Sagamu bottleneck."*
 * **Mathematical Formula**:
-  $$\text{Shift Idle Bottleneck Cost} = \left(\frac{\text{Lateness Duration (Mins)}}{60}\right) \times (\text{Direct Labor Hourly Burn} + \text{Factory Overhead \& Power} + \text{Lost SKU Output Yield})$$
+  $$Shift Idle Bottleneck Cost = (Lateness Duration (Mins) ÷ 60) × (Direct Labor Hourly Burn + Factory Overhead & Power + Lost SKU Output Yield)$$
   *Worked Example*: 35 minutes late on an automated bottling line at Agbara = 0.58 hours × (₦450k labor + ₦1.2M power/steam idle + ₦5.5M lost production) = **₦4.15M lost per single morning shift glitch**.
 
 ### Cluster 2 (High-HSE Energy · Port Harcourt / Warri / Lekki FTZ)
 * **Core Thesis**: *"In upstream energy logistics, saving ₦100,000 on an unvetted roadside bus hire can trigger a $50,000-per-day rig mobilization stoppage during an IOC journey audit."*
 * **Mathematical Formula**:
-  $$\text{HSE Non-Compliance Exposure} = (\text{Audit Failure Penalty} + \text{Deferred Field Day Rate}) + (\text{Highway Accident Liability})$$
+  $$HSE Non-Compliance Exposure = (Audit Failure Penalty + Deferred Field Day Rate) + Highway Accident Liability$$
   *Worked Example*: Unaudited bus failing IOC journey checkpoint at Port Harcourt = 12-hour crew transfer delay stalling offshore rig ramp-up at $25,000/day day rate + contractual HSE breach penalties = **₦42.5M in operational loss and reputation damage**.
 
 ### Cluster 3 (Corporate White-Collar Commuters · Mainland to Island)
 * **Core Thesis**: *"You are paying top-of-market salaries to recruit brilliant finance and tech minds, then forcing them to burn 50% of their cognitive bandwidth fighting traffic on Third Mainland Bridge."*
 * **Mathematical Formula**:
-  $$\text{Annual Commuter Fatigue Output Loss} = \text{Headcount} \times \text{Avg Hourly Output Rate} \times \text{Daily Brain Fog (1.5 Hours)} \times 240 \text{ Days}$$
+  $$Annual Commuter Fatigue Output Loss = Headcount × Avg Hourly Output Rate × Daily Brain Fog (1.5 Hours) × 240 Days$$
   *Worked Example*: 120 staff in Victoria Island battling 3.5 hrs in traffic daily = 120 × ₦8,500/hr × 1.5 hrs = **₦1.53M daily lost output** (₦367.2M annually in lost cognitive bandwidth).
 
 ### Cluster 4 (Night-Shift Dispersal · Retail & QSR)
 * **Core Thesis**: *"When retail staff fear leaving your store at 10:30 PM because informal night buses are death traps, your store will suffer high employee turnover, shrinkage, and early closure sales loss."*
 * **Mathematical Formula**:
-  $$\text{Annual Shift Turnover \& Shrinkage Cost} = (\text{Closing Staff} \times \text{Annual Turnover (45\%)} \times \text{Replacement Cost}) + \text{Lost Midnight Sales}$$
+  $$Annual Shift Turnover & Shrinkage Cost = (Closing Staff × Annual Turnover (45%) × Replacement Cost) + Lost Midnight Sales$$
   *Worked Example*: 80 late-night QSR/retail staff with 45% turnover due to night transit terror = 36 departures × ₦250k rehire/training + ₦12M lost midnight sales from early closures = **₦21.0M annually**.
 
 ### Cluster 5 (Executive VIP Protocol · C-Suite & Diplomatic)
 * **Core Thesis**: *"Your multi-million dollar joint venture should not be jeopardized because a third-party car hire broke down with an overheating radiator on the airport expressway."*
 * **Mathematical Formula**:
-  $$\text{Executive Logistics Failure Impact} = \text{Deal Opportunity Value} \times \text{Friction Probability} + \text{Emergency Surge Premium (300\%)}$$
+  $$Executive Logistics Failure Impact = (Deal Opportunity Value × Friction Probability) + Emergency Surge Premium (300%)$$
   *Worked Example*: A $2.5M investment syndicate delayed 2 hours on airport road due to an overheated unvetted hire car = brand trust degradation + emergency surge charter fees.
 
 ---
@@ -145,10 +145,11 @@ Content must feature real quantitative models instead of generic platitudes. Dec
   - Executive summary blockquote.
   - 3D Disney Pixar Featured Image Prompt Block.
   - The Operational Reality & Nigerian Infrastructure Data (Agbara, Sagamu, Third Mainland Bridge, Lekki-Epe, Port Harcourt - Warri corridor).
-  - The Cluster-Specific Quantitative Formula (worked mathematical example in ₦).
+  - The Cluster-Specific Quantitative Formula (worked mathematical example in ₦, written in clean Unicode Markdown math without raw LaTeX).
   - 10 Actionable Corporate Mobility Hacks (bookmarkable, highly practical).
-  - Side-by-Side Comparison Table ("Informal Bus Charters / Cash Allowances" vs "Dedicated NETS Managed Fleet").
+  - Native Markdown Tables: All balance sheets, flow cycles, bottleneck maps, and side-by-side comparison tables ("Informal Bus Charters / Cash Allowances" vs "Dedicated NETS Managed Fleet") MUST be rendered as native Markdown tables. Strictly zero ASCII art boxes (`┌───┐`) and zero code blocks for tabular data.
   - Decisive Call to Action (Request Route Review & Pilot Fleet Proposal).
+
 
 * **Brand Identity & Domain Mandate**:
   - Official Brand: **New Era Transports Services** (NETS). Strictly NO "Nets Drive".

@@ -32,20 +32,16 @@ Why does increasing cash allowances fail to produce punctual shift handovers?
 
 Because **cash allowances treat transportation as an employee lifestyle benefit, whereas continuous manufacturing requires transportation to function as an engineered supply chain input.**
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 THE UNMANAGED TRANSIT SUBSIDY CYCLE OF LOSS                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Factory raises monthly transport allowance by ₦20,000 per worker.        │
-│ 2. Worker enters the volatile, unregulated informal transit market.         │
-│ 3. Rain, fuel pump hikes, or TRACE crackdowns trigger 300% fare surges.     │
-│ 4. Worker waits 45 minutes at junction hoping for a cheaper Danfo or bike.  │
-│ 5. Worker arrives at factory gates 40 minutes late, exhausted and stressed. │
-│ 6. Automated line idles; captive gas turbine and steam boilers burn fuel.   │
-│ 7. Plant loses ₦4.15M in unrecovered output per shift incident.             │
-│ 8. Management concludes workers lack discipline and raises allowances again.│
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Step in Transit Cycle | Operational Failure Point |
+| :--- | :--- |
+| **1. Allowance Increment** | Factory raises monthly transport allowance by ₦20,000 per worker to combat transit inflation. |
+| **2. Unregulated Market Entry** | Worker enters the volatile, unregulated informal commercial transit market (Danfos, commercial minibuses). |
+| **3. Corridor Fare Spikes** | Rainstorms, fuel pump hikes, or taskforce crackdowns trigger immediate 300% roadside fare surges. |
+| **4. Junction Standstill** | Worker waits 45 minutes at junction bottlenecks hoping for affordable commercial transit. |
+| **5. Gate Handover Lateness** | Worker arrives at factory gates 40 minutes late, thoroughly exhausted and stressed. |
+| **6. Capital Utility Burn** | Automated line idles while captive gas turbines and steam boilers consume baseload fuel. |
+| **7. Production Bleed** | Plant burns ₦4.15M in unrecovered output per morning shift changeover incident. |
+| **8. Misdiagnosed Loop** | Management attributes failure to employee discipline and raises cash allowances again. |
 
 When you disburse cash allowances, you are asking individual factory operators to solve Nigeria's most complex arterial transit bottlenecks with a pocketful of naira. You leave your multi-million-dollar production schedule at the mercy of broken-down commercial minibuses, arbitrary roadside fare negotiations, and unpredictable junction gridlock.
 
@@ -55,12 +51,12 @@ When you disburse cash allowances, you are asking individual factory operators t
 
 To understand why cash transport allowances represent a massive financial leakage, corporate leaders must look beyond payroll expenditure and calculate the **Total Cost of Informal Mobility (TCIM)**.
 
-$$\text{TCIM} = \text{Direct Cash Subsidies} + \text{Shift Downtime Bleed} + \text{Mandatory Cross-Shift Overtime} + \text{Fatigue-Induced Scrap Rate}$$
+$$TCIM = Direct Cash Subsidies + Shift Downtime Bleed + Mandatory Cross-Shift Overtime + Fatigue-Induced Scrap Rate$$
 
 Where:
 * **Direct Cash Subsidies** = The gross monthly payroll allowance allocated to shift staff.
 * **Shift Downtime Bleed** = The financial value of idle production lines during changeover delays:
-  $$\text{Downtime Bleed} = \left(\frac{\text{Lateness Duration (Mins)}}{60}\right) \times (\text{Captive Power Baseload} + \text{Thermal Steam Venting} + \text{Lost SKU Contribution Margin})$$
+  $$Downtime Bleed = (Lateness Duration (Mins) ÷ 60) × (Captive Power Baseload + Thermal Steam Venting + Lost SKU Contribution Margin)$$
 * **Mandatory Cross-Shift Overtime** = The cost of paying departing night-shift workers premium overtime rates to keep lines manned while incoming crews are delayed.
 * **Fatigue-Induced Scrap Rate** = The scrap material, packaging defects, and equipment jamming that occur when exhausted operators run precision machinery.
 
@@ -87,7 +83,8 @@ Consider an automated consumer packaging plant in the Agbara Industrial Corridor
 5. **Emergency Overtime Holdover**: ₦0.
 6. **Net Monthly Cost under Managed Fleet**: **₦18,400,000 per month**.
 
-$$\textbf{Monthly Operational Savings: } \mathbf{₦44,968,324} - \mathbf{₦18,400,000} = \mathbf{₦26,568,324 \text{ per month}} \quad (\mathbf{₦318.8M \text{ Annually}})$$
+$$Monthly Operational Savings = ₦44,968,324 - ₦18,400,000 = ₦26,568,324 per month (₦318.8M Annually)$$
+
 
 By replacing cash subsidies with a dedicated managed fleet, the plant does not incur an added expense—it eliminates **₦26.5M in invisible monthly operational waste**, while improving workforce dignity and safety.
 

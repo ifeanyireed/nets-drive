@@ -89,20 +89,15 @@ The Federal Ministry of Works and the Ogun State Traffic Compliance and Enforcem
 ---
 
 ### Mobility Hack / Metric of the Week
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      THE SHIFT IDLE BOTTLENECK FORMULA                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ Downtime Cost = (Lateness Mins ÷ 60) × (Direct Labor + Power + Lost SKU)    │
-│                                                                             │
-│ Worked Example (35-Minute Delay on Automated Agbara Bottling Line):         │
-│ • Direct Labor Holdover (Overtime for night crew + idle morning crew): ₦262k│
-│ • Captive Gas Turbine & Steam Boiler Standby Fuel Burn: ₦700k               │
-│ • Lost Finished Goods Contribution Margin (10,500 unproduced units): ₦3.20M │
-│                                                                             │
-│ TOTAL 35-MINUTE IMPACT = ₦4,165,000 BURNED PER SHIFT INCIDENT               │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+
+| Metric / Cost Component | Impact Analysis (35-Minute Incident) |
+| :--- | :--- |
+| **Shift Idle Bottleneck Formula** | `Downtime Cost = (Lateness Mins ÷ 60) × (Direct Labor + Power + Lost SKU)` |
+| **Direct Labor Holdover** | ₦262,500 (Overtime for night crew + idle morning crew) |
+| **Captive Gas Turbine & Steam Boiler Standby** | ₦700,000 (3.2 MW baseload fuel burn) |
+| **Lost Finished Goods Contribution Margin** | ₦3,202,500 (10,500 unproduced units) |
+| **TOTAL 35-MINUTE IMPACT** | **₦4,165,000 Burned Per Shift Incident** |
+
 
 ---
 

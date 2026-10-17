@@ -41,23 +41,12 @@ In reality, it is an **engineering failure of workforce routing**. Leading indus
 
 To eliminate shift lateness, plant directors must first understand the specific mechanics of the three primary corridor bottlenecks in the Ogun-Lagos manufacturing corridor:
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│               THE OGUN-LAGOS INDUSTRIAL ARTERIAL BOTTLENECK MAP             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Sagamu Interchange & Industrial Hub:                                     │
-│    • High-density merge point of interstate haulage trucks and shift buses. │
-│    • Vulnerability: Fuel tanker breakdowns, unpaved detours, surface washes.│
-│                                                                             │
-│ 2. Sagamu-Ikorodu Industrial Artery:                                        │
-│    • Primary transit route for factory workers living in Ikorodu/Ogijo.     │
-│    • Vulnerability: Single-lane chokepoints, heavy sand-tipper traffic.     │
-│                                                                             │
-│ 3. Sango-Ota to Agbara Axis:                                                │
-│    • Connects high-density worker residential clusters to Agbara Estate.    │
-│    • Vulnerability: Severe road surface degradation, market encroachment.   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Corridor Chokepoint | Operational Profile & Transit Vulnerability |
+| :--- | :--- |
+| **1. Sagamu Interchange & Industrial Hub** | High-density merge point of interstate haulage trucks and shift buses. Vulnerable to fuel tanker breakdowns, unpaved detours, and flash surface washes. |
+| **2. Sagamu-Ikorodu Industrial Artery** | Primary transit route for factory workers residing in Ikorodu/Ogijo. Vulnerable to single-lane bottlenecks, heavy sand-tipper traffic, and bridge approaches. |
+| **3. Sango-Ota to Agbara Axis** | Connects high-density worker residential clusters to Agbara Industrial Estate. Vulnerable to severe road surface degradation, trailer parking, and market encroachment. |
+
 
 When an informal commercial bus approaches one of these bottlenecks, the driver has no route intelligence, no GPS dispatch backing, and no alternative plan. The vehicle sits in traffic. The factory line idles.
 
@@ -67,7 +56,7 @@ When an informal commercial bus approaches one of these bottlenecks, the driver 
 
 The balance-sheet impact of a delayed shift arrival is calculated using the **Shift Idle Bottleneck Formula**:
 
-$$\text{Shift Idle Bottleneck Cost} = \left(\frac{\text{Lateness Duration (Mins)}}{60}\right) \times (\text{Direct Labor Hourly Burn} + \text{Factory Overhead \& Power} + \text{Lost SKU Output Yield})$$
+$$Shift Idle Bottleneck Cost = (Lateness Duration (Mins) ÷ 60) × (Direct Labor Hourly Burn + Factory Overhead & Power + Lost SKU Output Yield)$$
 
 Where:
 * **Direct Labor Hourly Burn**: Mandatory overtime for the outgoing night crew plus base pay for the idle incoming morning shift.
@@ -91,19 +80,13 @@ Here is the financial breakdown of those 35 minutes:
 * **3. Lost SKU Gross Commercial Margin**: Automated lines producing 18,000 cartons per hour at ₦305 gross margin per carton = ₦5,490,000/hr yield value. In 35 minutes, 10,500 cartons cannot be produced.
   > **35-minute unrecovered output = ₦3,202,500**
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│               THE 35-MINUTE CORRIDOR BOTTLENECK BALANCE SHEET               │
-├────────────────────────────────────────┬────────────────────────────────────┤
-│ Cost Component                         │ Financial Drain (35 Mins)          │
-├────────────────────────────────────────┼────────────────────────────────────┤
-│ Overtime & Idle Labor Burn             │ ₦262,500                           │
-│ Wasted Captive Gas & Boiler Steam      │ ₦700,000                           │
-│ Lost Finished Goods Margin Yield       │ ₦3,202,500                         │
-├────────────────────────────────────────┼────────────────────────────────────┤
-│ TOTAL FINANCIAL LOSS                   │ ₦4,165,000                         │
-└────────────────────────────────────────┴────────────────────────────────────┘
-```
+| Cost Component | Financial Drain (35 Mins) |
+| :--- | :--- |
+| **Overtime & Idle Labor Burn** | ₦262,500 |
+| **Wasted Captive Gas & Boiler Steam** | ₦700,000 |
+| **Lost Finished Goods Margin Yield** | ₦3,202,500 |
+| **TOTAL FINANCIAL LOSS** | **₦4,165,000** |
+
 
 A single transit bottleneck costs the facility **₦4,165,000** before 7:00 AM. Occurring just three times a month, corridor delays bleed over ₦150,000,000 in annual enterprise value.
 

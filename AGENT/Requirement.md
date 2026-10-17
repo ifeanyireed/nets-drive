@@ -44,6 +44,12 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
   - Email cover story and news round-ups must contain real images from the internet covering authentic Nigerian transit and logistics developments with descriptive captions and sources.
 * [ ] **HTML Email Format Gate (EML-01)**:
   - Email newsletter MUST be written in clean, production-ready, mobile-responsive HTML with inline CSS (max 600px width card).
+* [ ] **Native Markdown Tables Gate (TAB-01)**:
+  - All balance sheets, flow cycles, bottleneck maps, comparison matrices, and structured operational breakdowns MUST be rendered as **native GitHub Flavored Markdown (GFM) tables** (`| col1 | col2 |`).
+  - **Strictly forbidden**: Raw ASCII art box drawings (`┌───┐`, `│`, `└`, `├`, etc.) and wrapping tabular financial data or balance sheets inside fenced code blocks (` ``` `). Fenced code blocks trigger dark `#0F172A` container backgrounds in preview renderers and break mobile responsiveness.
+* [ ] **Clean Markdown Math & Zero Raw LaTeX Gate (MTH-01)**:
+  - All operational and financial formulas MUST be rendered in **clean, readable Unicode Markdown math syntax**: e.g., `$$Total Downtime Loss = (Lateness Duration (Mins) ÷ 60) × (Direct Labor Burn + Captive Power Standby + Lost SKU Margin Yield)$$`.
+  - **Strictly forbidden**: Raw LaTeX markup tokens such as `\text{...}`, `\textbf{...}`, `\frac{...}{...}`, `\left(`, `\right)`, `\times`, and subscript variables like `$C_{\text{labor}}$` in formulas, body text, or headings. Standard markdown renderers lack a full LaTeX/KaTeX engine and display raw backslashes and curly braces as unformatted code or broken text.
 
 ---
 
@@ -70,10 +76,10 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
 | :--- | :--- | :--- | :--- |
 | **B-01** | **Metadata & Structure** | H1 Title, author byline (`@Ifeanyi Felix · Corporate Mobility Strategy Lead`), publication date, read time (8–10 mins), category, and meta description. | [ ] |
 | **B-02** | **Research Grounding** | Cites authoritative transport reports, verifiable Nigerian corridor data, and fuel/downtime benchmark statistics. | [ ] |
-| **B-03** | **Quantitative Model** | Features the cluster-specific mathematical formula with a detailed, realistic worked financial example in Nigerian Naira (₦). | [ ] |
+| **B-03** | **Quantitative Model & Clean Math** | Features the cluster-specific mathematical formula using clean Unicode Markdown math (zero raw LaTeX: no `\text`, `\frac`, etc.) with a detailed, realistic worked financial example in Nigerian Naira (₦). | [ ] |
 | **B-04** | **10 Actionable Tactics** | Delivers exactly 10 high-utility, bookmarkable operational mobility tactics with clear implementation steps for management. | [ ] |
 | **B-05** | **Corridor Anchoring** | Grounds operational routes in authentic Nigerian industrial parks, expressways, and business districts. | [ ] |
-| **B-06** | **Comparison Table** | Includes a side-by-side comparison table ("Informal Bus Hire / Unorganized Allowances" vs "Managed NETS Dedicated Fleet"). | [ ] |
+| **B-06** | **Native Comparison Table & Balance Sheet** | Includes side-by-side comparison tables and balance sheets rendered exclusively as native Markdown tables (zero ASCII art boxes, zero fenced code blocks). | [ ] |
 | **B-07** | **Clear Corporate CTA** | Directs enterprise decision-makers to book a Free Route & Fleet Benchmark Audit. | [ ] |
 | **B-08** | **Word Count** | Substantive long-form depth between 1,500 and 2,200 words. | [ ] |
 
@@ -87,7 +93,7 @@ It applies to **all 5 Corporate Clusters and 9 Months (36 Weeks)** across the NE
 | **E-02** | **Subject Line Matrix** | 3 strategic subject line options (Pain Hook, Curiosity Hook, Metric Hook) + Preview Text under 90 chars. | [ ] |
 | **E-03** | **Lead News Cover Story** | Pure journalistic reporting on an authentic Nigerian transport, fuel, infrastructure, or regulatory development, featuring a real photo and *"► WHAT IT MEANS FOR OPERATORS"* analysis. | [ ] |
 | **E-04** | **Industry News Round-up** | 3 distinct, authentic industry news cards with real photos, source citations, and operator implications. | [ ] |
-| **E-05** | **Mobility Hack / Metric Container** | High-contrast callout container presenting the blog's quantitative downtime/fatigue formula as the tactical response to transit inflation. | [ ] |
+| **E-05** | **Mobility Hack / Metric Container** | High-contrast callout container presenting the blog's quantitative downtime/fatigue formula as the tactical response to transit inflation; in `email-blast.md`, formatted as a native Markdown table or clean blockquote (zero ASCII box code blocks). | [ ] |
 | **E-06** | **Zero Corner Radius CTA Button** | Prominent corporate CTA button directing readers to read the full blog post or schedule a route review. **Must strictly feature zero corner radius (`border-radius: 0px`)** with sharp architectural corners (no rounded or pill buttons), styled in primary brand blue (`#1A48B6`) with bold white text (`#FFFFFF`) and generous padding (`14px 28px`). | [ ] |
 | **E-07** | **Footer Offer** | Highlights the NETS 1-2 Route Pilot Program, SLA guarantees, and 30-day corporate billing. | [ ] |
 | **E-08** | **Deliverability Hygiene** | Inline CSS, 600px responsive table layout, zero spam trigger words, and compliant corporate footer. | [ ] |

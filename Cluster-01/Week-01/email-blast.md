@@ -91,20 +91,15 @@ According to the Manufacturers Association of Nigeria (MAN), plant operators in 
 ---
 
 ### Mobility Hack / Metric of the Week
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       THE SHIFT IDLE DOWNTIME FORMULA                       │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ Total Loss = (Lateness Mins ÷ 60) × (Labor Burn + Power Standby + Lost Yield)│
-│                                                                             │
-│ Worked Example (35-Minute Delay on Automated Agbara Food Line):             │
-│ • Direct Labor Overtime & Idle Cost: ₦450,000 / hr                          │
-│ • Captive Gas Turbine & Steam Baseload: ₦1,200,000 / hr                     │
-│ • Lost Finished SKU Gross Margin Yield: ₦5,490,000 / hr                     │
-│                                                                             │
-│ TOTAL 35-MINUTE COST = ₦4,165,000 BURNED PER SHIFT INCIDENT                 │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+
+| Cost Factor / Metric | Impact Analysis (35-Minute Incident) |
+| :--- | :--- |
+| **Shift Idle Formula** | `Total Loss = (Lateness Mins ÷ 60) × (Labor Burn + Power Standby + Lost Yield)` |
+| **Direct Labor Overtime & Idle Cost** | ₦262,500 (₦450,000 / hr pro-rated) |
+| **Captive Gas Turbine & Steam Baseload** | ₦700,000 (₦1,200,000 / hr pro-rated) |
+| **Lost Finished SKU Gross Margin Yield** | ₦3,202,500 (₦5,490,000 / hr pro-rated) |
+| **TOTAL 35-MINUTE COST** | **₦4,165,000 Burned Per Shift Incident** |
+
 
 ---
 
